@@ -1,0 +1,17 @@
+---
+/* Karta poradnika: okładka, kategoria, tytuł, (zajawka w dużej karcie), czas czytania, data sprawdzenia.
+   data-kat = klucz kategorii; kolor kategorii ustawia CSS marki. */
+import { type Poradnik, urlOf, coverOf, katOf, dateShort, isScheduled } from '../lib/poradniki';
+interface Props { p: Poradnik; size?: 'm' | 'l' }
+const { p, size = 'm' } = Astro.props;
+const d = p.data;
+---
+<a class:list={['karta', `karta--${size}`]} href={urlOf(p)} data-kat={katOf(p)}>
+  <img class="karta-img" src={coverOf(p)} alt="" width="1600" height="900" loading="lazy" decoding="async" />
+  <div class="karta-body">
+    <p class="karta-kat">{d.kicker}{d.draft ? <span class="znaczek">szkic</span> : isScheduled(p) && <span class="znaczek">od {dateShort(d.publishedAt)}</span>}</p>
+    <h3 class="karta-tytul">{d.title}</h3>
+    {size === 'l' && <p class="karta-lead">{d.lead}</p>}
+    <p class="karta-meta">{d.readingTime && <>{d.readingTime} min · </>}sprawdzono {dateShort(d.verifiedAt)}</p>
+  </div>
+</a>

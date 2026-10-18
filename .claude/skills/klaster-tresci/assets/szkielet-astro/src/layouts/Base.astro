@@ -1,0 +1,38 @@
+---
+/* Szkielet strony: meta, canonical, OG, noindex dla szkiców, slot na JSON-LD.
+   W projekcie z istniejącym layoutem użyj jego Base i przenieś tylko to, czego brakuje. */
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { marka } from '../data/marka';
+import '../styles/tokeny.css';
+import '../styles/szkielet.css';
+
+interface Props { title: string; description: string; noindex?: boolean; ogImage?: string; ogType?: string; ctaHref?: string }
+const { title, description, noindex = false, ogImage, ogType = 'website', ctaHref } = Astro.props;
+const ogImageUrl = ogImage ? new URL(ogImage, marka.url).href : null;
+const canonical = new URL(Astro.url.pathname, marka.url).href;
+---
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    {noindex ? <meta name="robots" content="noindex, nofollow" /> : <link rel="canonical" href={canonical} />}
+    <meta property="og:type" content={ogType} />
+    <meta property="og:locale" content="pl_PL" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    {ogImageUrl && <meta property="og:image" content={ogImageUrl} />}
+    {ogImageUrl && <meta name="twitter:card" content="summary_large_image" />}
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <slot name="head" />
+  </head>
+  <body>
+    <Header ctaHref={ctaHref} />
+    <main id="main"><slot /></main>
+    <Footer />
+  </body>
+</html>

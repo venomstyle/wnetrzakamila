@@ -1,0 +1,65 @@
+---
+/* Poradnik albo hub (type: 'hub'). Hub: wstęp, liczniki, karty swoich tekstów, treść, FAQ, CTA, pozostałe huby. */
+import { render } from 'astro:content';
+import Article from '../../layouts/Article.astro';
+import Base from '../../layouts/Base.astro';
+import PoradnikCard from '../../components/PoradnikCard.astro';
+import { marka } from '../../data/marka';
+import { getPoradniki, slugOf, urlOf, ogOf, katOf, inHub, hubs, plural, dateLong, type Poradnik } from '../../lib/poradniki';
+
+export async function getStaticPaths() {
+  const all = await getPoradniki();
+  return all.map((entry) => ({ params: { slug: slugOf(entry) }, props: { entry, all } }));
+}
+interface Props { entry: Poradnik; all: Poradnik[] }
+const { entry, all } = Astro.props;
+const { Content, headings } = await render(entry);
+const d = entry.data;
+const isHub = d.type === 'hub';
+const hub = all.find((p) => urlOf(p) === d.hub);
+const bySlug = new Map(all.map((p) => [slugOf(p), p]));
+const related = d.related.map((s) => bySlug.get(s)).filter((p): p is Poradnik => !!p && p !== entry).slice(0, 3);
+const items = isHub ? inHub(all, entry) : [];
+const otherHubs = isHub ? hubs(all).filter((h) => h !== entry) : [];
+const cta = d.cta ?? marka.cta;
+const crumbs = [{ name: 'Strona główna', url: '/' }, { name: marka.blog.name, url: marka.blog.base }, { name: d.cover.label ?? d.kicker, url: urlOf(entry) }];
+const hubLd = isHub ? [
+  { '@context': 'https://schema.org', '@type': 'CollectionPage', name: d.title, description: d.description, inLanguage: 'pl', url: new URL(urlOf(entry), marka.url).href,
+    hasPart: items.map((p) => ({ '@type': 'Article', headline: p.data.title, url: new URL(urlOf(p), marka.url).href })) },
+  { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: crumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: new URL(c.url, marka.url).href })) },
+  ...(d.faq.length ? [{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: d.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) }] : []),
+] : null;
+---
+{isHub ? (
+  <Base title={`${d.seoTitle} | ${marka.name}`} description={d.description} ogImage={ogOf(entry)} noindex={d.draft} ctaHref={cta.href}>
+    <script slot="head" type="application/ld+json" set:html={JSON.stringify(hubLd)} />
+    <section class="hub-hero" data-kat={katOf(entry)}>
+      <div class="container">
+        <nav class="okruszki" aria-label="Okruszki"><ol>{crumbs.slice(0, -1).map((c) => <li><a href={c.url}>{c.name}</a></li>)}</ol></nav>
+        <p class="kicker">{d.kicker}</p>
+        <h1 class="hub-h1">{d.title}</h1>
+        <p class="hub-lead">{d.lead}</p>
+        <p class="licznik"><strong>{items.length}</strong> {plural(items.length)} · każdy ze źródłami i datą sprawdzenia · stan na {dateLong(d.verifiedAt)}</p>
+      </div>
+    </section>
+    <section class="sekcja"><div class="container"><div class="hub-karty">{items.map((p, i) => <PoradnikCard p={p} size={i === 0 ? 'l' : 'm'} />)}</div></div></section>
+    <section class="sekcja"><div class="container waska prose"><Content /></div></section>
+    {d.faq.length > 0 && (
+      <section class="sekcja"><div class="container waska">
+        <h2 class="h2">Pytania i odpowiedzi</h2>
+        <div class="faq">{d.faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}</div>
+      </div></section>
+    )}
+    <section class="sekcja"><div class="container">
+      <a class="cta" href={cta.href}><span class="cta-t">{cta.title}</span><span class="cta-b">{cta.text}</span><span class="btn btn--primary">{marka.cta.button}</span></a>
+    </div></section>
+    {otherHubs.length > 0 && (
+      <section class="sekcja"><div class="container">
+        <h2 class="h2">Pozostałe tematy</h2>
+        <div class="hub-inne">{otherHubs.map((h) => <a href={urlOf(h)} data-kat={katOf(h)}><span class="kicker">{h.data.kicker}</span><strong>{h.data.title}</strong></a>)}</div>
+      </div></section>
+    )}
+  </Base>
+) : (
+  <Article entry={entry} hub={hub} related={related} headings={headings}><Content /></Article>
+)}

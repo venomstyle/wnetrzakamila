@@ -1,0 +1,29 @@
+---
+/* „Ostatnio dodane i zaktualizowane” (blueprint skilla: pętla świeżości). Kolejność po dacie ostatniej zmiany.
+   Aktualizacja = updatedAt późniejsze niż publishedAt (zmieniamy je tylko przy realnej zmianie treści). */
+import { type Poradnik, urlOf, dateShort } from '../lib/poradniki';
+interface Props { lista: Poradnik[]; ile?: number }
+const { lista, ile = 6 } = Astro.props;
+const zmiana = (p: Poradnik) => Math.max(p.data.publishedAt.getTime(), p.data.updatedAt.getTime());
+const swieze = lista.filter((p) => p.data.type !== 'hub').sort((a, b) => zmiana(b) - zmiana(a)).slice(0, ile);
+const zaktualizowany = (p: Poradnik) => p.data.updatedAt.getTime() - p.data.publishedAt.getTime() > 864e5;
+---
+<ol class="sw">
+  {swieze.map((p) => (
+    <li><a href={urlOf(p)}>
+      <span class:list={['sw-znak', zaktualizowany(p) && 'sw-znak--akt']}>{zaktualizowany(p) ? 'Zaktualizowany' : 'Nowy'} {dateShort(zaktualizowany(p) ? p.data.updatedAt : p.data.publishedAt)}</span>
+      <strong>{p.data.title}</strong>
+      <span class="sw-k">{p.data.kicker}</span>
+    </a></li>
+  ))}
+</ol>
+<style>
+.sw{list-style:none;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 18px}
+.sw a{display:flex;flex-direction:column;gap:4px;padding:14px 16px;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:var(--radius);background:var(--paper);height:100%}
+.sw a:hover{border-color:var(--accent)}
+.sw strong{font-weight:750;line-height:1.3}
+.sw-znak{font-size:.75rem;font-weight:800;letter-spacing:.04em;text-transform:uppercase;color:var(--accent-ink)}
+.sw-znak--akt{color:var(--ok)}
+.sw-k{font-size:.8125rem;color:var(--muted)}
+@media(max-width:760px){.sw{grid-template-columns:1fr}}
+</style>

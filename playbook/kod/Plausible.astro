@@ -1,0 +1,49 @@
+---
+/* Statystyki Plausible (@plausible-analytics/tracker). Renderowany tylko w buildzie produkcyjnym, gdy jest domena (Base.astro).
+   Startuje dopiero po zgodzie z banera (art. 399 PKE: skrypt odczytuje dane z przeglądarki, np. przewinięcie strony).
+   Zdarzenia: kliknięcia w telefon, w strony oferty i w narzędzia oraz elementy z data-cel="Nazwa". */
+---
+<script>
+  import { init, track } from '@plausible-analytics/tracker';
+  import { analityka } from '../data/analityka';
+  import { read } from '../scripts/zgoda';
+
+  const ENDPOINT = 'https://plausible.io/api/event';
+  const OFERTA = ['/strona-dla-fachowca/', '/audyt-strony/', '/wizytowka-google/'];
+  let wlaczone = false;
+
+  function start() {
+    if (wlaczone) return;
+    wlaczone = true;
+    /* Po wycofaniu zgody nie wysyłamy już niczego. Zdarzenie „engagement” omija transformRequest,
+       a wszystkie zdarzenia idą przez fetch, więc blokujemy żądania do Plausible przed wysłaniem. */
+    const wyslij = window.fetch.bind(window);
+    window.fetch = (input, opcje) => {
+      const url = typeof input === 'string' ? input : input instanceof URL ? input.href : input.url;
+      if (url.startsWith(ENDPOINT) && read() !== 'granted') return Promise.resolve(new Response(null, { status: 204 }));
+      return wyslij(input, opcje);
+    };
+    init({ domain: analityka.plausibleDomain, endpoint: ENDPOINT, outboundLinks: true, fileDownloads: true, logging: false });
+    document.addEventListener('click', klik);
+  }
+
+  function klik(e: MouseEvent) {
+    const el = (e.target as Element | null)?.closest<HTMLElement>('a, [data-cel]');
+    if (!el) return;
+    if (el.dataset.cel) { track(el.dataset.cel, { props: { strona: location.pathname } }); return; }
+    const href = el.getAttribute('href') || '';
+    if (href.startsWith('tel:')) track('Telefon', { props: { strona: location.pathname } });
+    else if (OFERTA.some((p) => href.startsWith(p))) track('Oferta', { props: { cel: href, strona: location.pathname } });
+    else if (href.startsWith('/narzedzia/')) track('Narzędzie', { props: { cel: href, strona: location.pathname } });
+  }
+
+  /* Wyłącznik dla właściciela: adres z #nie-licz-mnie zapisuje w tej przeglądarce flagę plausible_ignore,
+     którą tracker Plausible sam respektuje (nie wysyła zdarzeń). #licz-mnie ją usuwa. */
+  try {
+    if (location.hash === '#nie-licz-mnie') { localStorage.setItem('plausible_ignore', 'true'); alert('Ta przeglądarka nie będzie liczona w Plausible.'); history.replaceState(null, '', location.pathname + location.search); }
+    if (location.hash === '#licz-mnie') { localStorage.removeItem('plausible_ignore'); alert('Ta przeglądarka znowu będzie liczona w Plausible.'); history.replaceState(null, '', location.pathname + location.search); }
+  } catch {}
+
+  if (read() === 'granted') start();
+  window.addEventListener('ncz-zgoda', (e) => { if ((e as CustomEvent).detail === 'granted') start(); });
+</script>

@@ -1,0 +1,30 @@
+---
+/* Baner zgody: statystyki Plausible (gdy włączone, etap „blog” i „pelny”) i pomiar Google Ads (gdy jest ads.googleAdsId).
+   Odrzuć i Akceptuję mają równą wagę. Zgoda Google dotyczy tylko pomiaru: remarketing jest wyłączony
+   (ad_personalization zawsze denied, decyzja 14.10.2026). Jeśli go włączysz, potrzebny jest osobny
+   przełącznik i akapit w polityce prywatności. */
+interface Props { statystyki: boolean; reklamy: boolean }
+const { statystyki, reklamy } = Astro.props;
+---
+<div class="consent" data-consent hidden role="region" aria-label="Zgoda na statystyki i pliki cookies">
+  <p>
+    {statystyki && reklamy && <>Za Twoją zgodą włączę statystyki odwiedzin Plausible (bez plików cookies, dane w UE) i pliki cookies Google Ads, żeby sprawdzić, czy reklamy przynoszą zgłoszenia. Nie pokazuję Ci reklam na innych stronach.</>}
+    {statystyki && !reklamy && <>Za Twoją zgodą włączę statystyki odwiedzin Plausible. Nie używają plików cookies, a dane zostają w UE. Odczytują z przeglądarki m.in. przewinięcie strony, dlatego pytam.</>}
+    {!statystyki && reklamy && <>Za Twoją zgodą włączę pliki cookies Google Ads, żeby sprawdzić, czy reklamy przynoszą zgłoszenia. Nie używam ich do pokazywania Ci reklam na innych stronach.</>}
+    Bez zgody nic z tego nie włączam. Zdanie zmienisz w stopce. <a href="/polityka-prywatnosci/#cookies">Szczegóły</a>
+  </p>
+  <div class="consent-actions">
+    <button type="button" data-consent-choice="denied">Odrzuć</button>
+    <button type="button" data-consent-choice="granted">Akceptuję</button>
+  </div>
+</div>
+<script>import '../scripts/consent';</script>
+<style>
+.consent{position:fixed;z-index:100;left:16px;right:16px;bottom:16px;max-width:600px;margin-inline:auto;display:flex;align-items:center;gap:18px;padding:16px 18px;background:var(--paper);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow-lg)}
+.consent p{font-size:.9375rem;line-height:1.5;color:var(--ink-2)}
+.consent a{color:var(--accent-ink);text-decoration:underline;text-underline-offset:3px}
+.consent-actions{display:flex;gap:8px;flex:none}
+.consent button{min-height:46px;padding:10px 18px;border:2px solid var(--line);border-radius:10px;font-weight:700;background:var(--paper);transition:border-color .2s}
+.consent button:hover{border-color:var(--ink)}
+@media(max-width:560px){.consent{flex-direction:column;align-items:stretch}.consent-actions{display:grid;grid-template-columns:1fr 1fr}}
+</style>

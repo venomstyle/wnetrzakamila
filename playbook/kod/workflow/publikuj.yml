@@ -1,0 +1,58 @@
+# Publikacja na Zenbox: build Astro i wysyłka przez FTP.
+# Codziennie o 6:00 czasu polskiego (zaplanowane poradniki pojawiają się same), po pushu do main i ręcznie.
+# Secrets repozytorium: FTP_HOST, FTP_USER, FTP_PASSWORD, opcjonalnie FTP_DIR (domyślnie ./ dla konta FTP
+# ustawionego na folder domeny) i FTP_PROTOCOL (ftps albo ftp; domyślnie ftps).
+# Search Console (opcjonalnie, instrukcja w GSC.md): GSC_KLUCZ i GSC_WLASCIWOSC.
+name: Publikacja
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+    inputs:
+      na_dzien:
+        description: 'Zbuduj stronę „na dzień” RRRR-MM-DD (puste = dziś)'
+        required: false
+        default: ''
+
+concurrency:
+  group: publikacja
+  cancel-in-progress: false
+
+jobs:
+  publikuj:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Warsaw
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+        env:
+          PUBLIKUJ_NA: ${{ github.event.inputs.na_dzien }}
+      - name: Wysyłka na Zenbox
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ${{ secrets.FTP_PROTOCOL || 'ftps' }}
+          local-dir: ./dist/
+          server-dir: ${{ secrets.FTP_DIR || './' }}
+      - name: IndexNow (Bing i inne wyszukiwarki)
+        if: ${{ github.event.inputs.na_dzien == '' }}
+        continue-on-error: true
+        run: node scripts/indexnow.mjs
+      - name: Search Console (mapa strony i stan indeksu)
+        if: ${{ github.event.inputs.na_dzien == '' }}
+        continue-on-error: true
+        run: node scripts/gsc.mjs
+        env:
+          GSC_KLUCZ: ${{ secrets.GSC_KLUCZ }}
+          GSC_WLASCIWOSC: ${{ secrets.GSC_WLASCIWOSC }}

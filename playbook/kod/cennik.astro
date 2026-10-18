@@ -1,0 +1,147 @@
+---
+/* Cennik dla fachowca: jedna tabela cen z poradników (blueprint skilla, warstwa 1: dane jako fosa).
+   Dane: src/data/cennik.json (każdy rekord ma źródło z `sources` poradnika i datę sprawdzenia).
+   Pokazujemy tylko rekordy z opublikowanych poradników, więc tabela rośnie razem z harmonogramem.
+   Ceny poprawiamy razem z poradnikiem (kwartalny przegląd cen), nigdy tylko tutaj. */
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import { brand } from '../../data/site';
+import dane from '../../data/cennik.json';
+import { getPoradniki, slugOf, urlOf, dateShort } from '../../lib/poradniki';
+
+interface Rekord { kategoria: string; co: string; firma: string; cena: string; okres: string; uwagi?: string; zrodlo: string; sprawdzono: string; poradnik: string }
+const poradniki = await getPoradniki();
+const tytul = new Map(poradniki.map((p) => [slugOf(p), { url: urlOf(p), t: p.data.title }]));
+const rekordy = (dane as Rekord[]).filter((r) => tytul.has(r.poradnik));
+const KOLEJNOSC = ['Strona i domena', 'Wizytówka i opinie', 'Portale ze zleceniami', 'Reklama', 'Telefon', 'Płatności i terminale', 'Kody QR', 'Organizacja pracy', 'Wizerunek i druk'];
+const kategorie = KOLEJNOSC.map((k) => ({ k, id: k.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ł/g, 'l').replace(/[^a-z0-9]+/g, '-'), lista: rekordy.filter((r) => r.kategoria === k) })).filter((x) => x.lista.length);
+const ostatnia = rekordy.reduce((m, r) => (r.sprawdzono > m ? r.sprawdzono : m), '');
+const listaKat = kategorie.map((x) => x.k.toLowerCase()).join(', ').replace(/, ([^,]*)$/, ' oraz $1');
+const cen = (n: number) => `${n} ${n === 1 ? 'cena' : n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 'ceny' : 'cen'}`;
+/* Okres pomijamy, gdy cena już go mówi („/mies.”, „/rok”, „rocznie”). */
+const okres = (r: Rekord) => (r.okres === 'miesięcznie' && /mies/.test(r.cena)) || (r.okres === 'rocznie' && /(\/rok|roczn|za rok)/.test(r.cena)) ? '' : r.okres;
+const host = (u: string) => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return u; } };
+const ld = { '@context': 'https://schema.org', '@type': 'Dataset', name: 'Cennik narzędzi i usług dla fachowca', description: `Ceny z publicznych cenników: ${listaKat}. Każda pozycja ma źródło i datę sprawdzenia.`, url: `${brand.url}/cennik/`, inLanguage: 'pl', creator: { '@type': 'Person', name: 'Kamil', url: `${brand.url}/autor/` }, dateModified: ostatnia, isAccessibleForFree: true };
+---
+<Base title={`Cennik dla fachowca: ${cen(rekordy.length)} z publicznych cenników | Niech Cię znajdą`}
+  description={`${cen(rekordy.length)} z publicznych cenników w jednej tabeli: ${listaKat}. Każda pozycja ze źródłem i datą sprawdzenia.`}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(ld)} />
+  <section class="c-hero">
+    <div class="container">
+      <p class="eyebrow">Dane</p>
+      <h1>Cennik dla fachowca</h1>
+      <p class="lead">{cen(rekordy.length)} z publicznych cenników w jednym miejscu: {listaKat}. Przy każdej cenie jest źródło, data sprawdzenia i poradnik, który ją objaśnia.</p>
+      <p class="c-meta">Ostatnie sprawdzenie: <strong>{ostatnia && dateShort(new Date(`${ostatnia}T12:00:00`))}</strong> · <a href="/jak-sprawdzam/">Jak sprawdzam ceny</a></p>
+      <div class="c-filtry" data-filtry>
+        <label class="c-szukaj"><span class="sr-only">Szukaj w cenniku</span><input type="search" placeholder="Szukaj, np. terminal, domena, logo" autocomplete="off" /></label>
+        <div class="c-chipy" role="group" aria-label="Kategorie">
+          <button type="button" class="c-chip" aria-pressed="true" data-kat="">Wszystko <span>{rekordy.length}</span></button>
+          {kategorie.map(({ k, id, lista }) => <button type="button" class="c-chip" aria-pressed="false" data-kat={id}>{k} <span>{lista.length}</span></button>)}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section c-sekcja">
+    <div class="container">
+      {kategorie.map(({ k, id, lista }) => (
+        <section class="c-kat" id={id} data-kategoria={id}>
+          <h2 class="c-kat-t">{k}</h2>
+          <ul class="c-lista">
+            {lista.map((r) => (
+              <li class="c-poz" data-tekst={`${r.co} ${r.firma} ${r.uwagi ?? ''} ${k}`.toLowerCase()}>
+                <div class="c-co"><strong>{r.co}</strong><span>{r.firma}</span></div>
+                <div class="c-cena">{r.cena.startsWith('sprawdź') ? <a class="c-sprawdz" href={r.zrodlo} rel="nofollow noopener" target="_blank">Sprawdź w cenniku</a> : <strong>{r.cena}</strong>}{okres(r) && <span>{okres(r)}</span>}</div>
+                {r.uwagi && <p class="c-uwagi">{r.uwagi}</p>}
+                <p class="c-zrodlo">
+                  <a href={r.zrodlo} rel="nofollow noopener" target="_blank">{host(r.zrodlo)}</a>, sprawdzono {dateShort(new Date(`${r.sprawdzono}T12:00:00`))}
+                  · <a href={tytul.get(r.poradnik)!.url}>Poradnik</a>
+                </p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+      <p class="c-brak" data-brak hidden>Nic nie znalazłem. Spróbuj innego słowa albo wybierz kategorię.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container c-tekst tekst">
+      <h2 class="h2">Jak czytać ten cennik</h2>
+      <p>To ceny z publicznych cenników firm, przepisane z poradników w dniu sprawdzenia. Przy każdej cenie piszę, czy to kwota netto, brutto, czy cennik tego nie podaje. Ceny promocyjne i progi ilościowe są w uwagach. Gdy nie mogę potwierdzić ceny u źródła, zamiast kwoty jest link „Sprawdź w cenniku”. Firmy zmieniają cenniki bez zapowiedzi, więc przed zakupem otwórz źródło.</p>
+      <p>Nie mam umów z firmami z tej tabeli i nie dostaję prowizji od linków. Projektuję strony dla fachowców, dlatego mojej oferty tu nie ma. Ceny przeglądam co kwartał razem z poradnikami. Widzisz nieaktualną cenę? Napisz na <a href={`mailto:${brand.email}`}>{brand.email}</a>.</p>
+      <div class="c-cta"><a class="btn btn--primary" href="/poradniki/">Wszystkie poradniki <Icon name="arrow" size={18} /></a></div>
+    </div>
+  </section>
+</Base>
+
+<script>
+  const filtry = document.querySelector<HTMLElement>('[data-filtry]')!;
+  const pole = filtry.querySelector('input')!;
+  const chipy = [...filtry.querySelectorAll<HTMLButtonElement>('[data-kat]')];
+  const sekcje = [...document.querySelectorAll<HTMLElement>('[data-kategoria]')];
+  const brak = document.querySelector<HTMLElement>('[data-brak]')!;
+  const norm = (s: string) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ł/g, 'l');
+  let kat = '';
+  function filtruj() {
+    const slowa = norm(pole.value.trim()).split(/\s+/).filter(Boolean);
+    let ile = 0;
+    for (const s of sekcje) {
+      let wSekcji = 0;
+      for (const li of s.querySelectorAll<HTMLElement>('[data-tekst]')) {
+        const ok = (!kat || s.dataset.kategoria === kat) && slowa.every((w) => norm(li.dataset.tekst!).includes(w));
+        li.hidden = !ok; if (ok) wSekcji++;
+      }
+      s.hidden = !wSekcji; ile += wSekcji;
+    }
+    brak.hidden = ile > 0;
+  }
+  chipy.forEach((b) => b.addEventListener('click', () => {
+    kat = b.dataset.kat!;
+    chipy.forEach((c) => c.setAttribute('aria-pressed', String(c === b)));
+    filtruj();
+  }));
+  pole.addEventListener('input', filtruj);
+</script>
+
+<style>
+.c-hero{padding:clamp(32px,4vw,56px) 0 clamp(24px,3vw,40px)}
+.c-hero h1{font-size:clamp(2rem,1.4rem + 2.6vw,3.2rem);font-weight:850;margin-top:12px}
+.c-hero .lead{margin-top:16px;max-width:70ch}
+.c-meta{margin-top:14px;font-size:.9375rem;color:var(--muted)}
+.c-meta strong{color:var(--ink)}
+.c-meta a{color:var(--accent-ink);text-decoration:underline;text-underline-offset:3px}
+.c-filtry{margin-top:24px;display:flex;flex-direction:column;gap:14px}
+.c-szukaj{display:block;max-width:560px}
+.c-szukaj input{width:100%;min-height:52px;padding:10px 16px;border:1.5px solid var(--line-strong);border-radius:var(--radius);background:var(--paper);color:var(--ink);font-size:1.0625rem;font-family:var(--font-text)}
+.c-szukaj input:focus{border-color:var(--accent);outline:none;box-shadow:0 0 0 3px var(--accent-soft)}
+.c-chipy{display:flex;flex-wrap:wrap;gap:8px}
+.c-chip{display:inline-flex;align-items:center;gap:6px;padding:9px 14px;border:1px solid var(--line-strong);border-radius:99px;background:none;color:var(--ink);font-weight:700;font-size:.875rem;cursor:pointer;font-family:inherit}
+.c-chip span{font-size:.75rem;color:var(--muted)}
+.c-chip[aria-pressed=true]{border-color:var(--accent);background:var(--accent);color:var(--on-accent)}
+.c-chip[aria-pressed=true] span{color:var(--on-accent);opacity:.8}
+.c-sekcja{padding-top:8px}
+.c-kat+.c-kat{margin-top:40px}
+.c-kat-t{font-size:clamp(1.3rem,1.1rem + .8vw,1.7rem);font-weight:800;margin-bottom:14px;padding-top:12px;border-top:3px solid var(--accent)}
+.c-lista{list-style:none;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.c-poz{display:flex;flex-direction:column;gap:8px;padding:14px 16px;border:1px solid var(--line);border-radius:var(--radius);background:var(--paper)}
+.c-poz[hidden]{display:none}
+.c-co{display:flex;flex-direction:column;gap:2px;min-width:0}
+.c-co strong{font-weight:750;line-height:1.3}
+.c-co span{font-size:.8125rem;color:var(--muted)}
+.c-cena{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px}
+.c-cena strong{font-family:Archivo,sans-serif;font-weight:850;font-size:1.125rem;line-height:1.25;color:var(--accent-ink)}
+.c-sprawdz{font-weight:750;font-size:.9375rem;color:var(--accent-ink);text-decoration:underline;text-underline-offset:3px;white-space:nowrap}
+.c-cena span{font-size:.75rem;color:var(--muted)}
+.c-uwagi{font-size:.875rem;color:var(--ink-2)}
+.c-zrodlo{margin-top:auto;font-size:.75rem;color:var(--muted)}
+.c-zrodlo a{color:var(--muted);text-decoration:underline;text-underline-offset:2px}
+.c-brak{color:var(--muted)}
+.c-tekst{max-width:760px}
+.c-tekst p{margin-bottom:14px}
+.c-tekst .h2{margin-bottom:16px}
+.c-tekst a{color:var(--accent-ink);text-decoration:underline}
+.c-cta{margin-top:22px}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+</style>

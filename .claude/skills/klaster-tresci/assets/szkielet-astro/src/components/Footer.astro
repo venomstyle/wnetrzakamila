@@ -1,0 +1,36 @@
+---
+/* Stopka w dwóch pasach:
+   1) marka + linki serwisu,
+   2) poradniki: równa kolumna na każdy hub, w każdej ta sama liczba linków (jedna linia każdy)
+      i link „Wszystkie: N”, więc kolumny kończą się na tej samej wysokości.
+   Linki budują się z kolekcji: nowe teksty pojawiają się tu same. */
+import Logo from './Logo.astro';
+import { marka } from '../data/marka';
+import { getPoradniki, hubs, inHub, urlOf, plural } from '../lib/poradniki';
+const NA_KOLUMNE = 4;
+const all = await getPoradniki();
+const groups = hubs(all).map((h) => ({ hub: h, items: inHub(all, h) })).filter((g) => g.items.length > 0);
+---
+<footer class="stopka">
+  <div class="container stopka-gora">
+    <div class="stopka-marka"><Logo /><p>{marka.stopka.note}</p></div>
+    <nav aria-label="Serwis"><ul>{[...marka.nav, ...marka.stopka.links].map((l) => <li><a href={l.href}>{l.label}</a></li>)}</ul></nav>
+  </div>
+  {groups.length > 0 && (
+    <div class="container stopka-poradniki" style={`--kolumny:${Math.min(groups.length, 4)}`}>
+      {groups.map(({ hub, items }) => (
+        <nav aria-label={hub.data.kicker}>
+          <p class="stopka-t"><a href={urlOf(hub)}>{hub.data.kicker}</a></p>
+          <ul>
+            {items.slice(0, NA_KOLUMNE).map((p) => {
+              const t = p.data.cover.label ?? p.data.title;
+              return <li><a href={urlOf(p)} title={t}>{t}</a></li>;
+            })}
+          </ul>
+          <a class="stopka-wszystkie" href={urlOf(hub)}>Wszystkie: {items.length} {plural(items.length)}</a>
+        </nav>
+      ))}
+    </div>
+  )}
+  <div class="container stopka-dol"><p>© {new Date().getFullYear()} {marka.name}</p></div>
+</footer>

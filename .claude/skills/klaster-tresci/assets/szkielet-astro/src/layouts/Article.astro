@@ -1,0 +1,160 @@
+---
+/* Layout poradnika. Kolejność bloków jest stała (references/szkielet.md):
+   okruszki → kategoria → H1 → lead → metadane (autor, sprawdzono, czas) → okładka
+   → spis sekcji → „W skrócie” → treść → CTA → FAQ → źródła i zastrzeżenia → autor → powiązane.
+   FAQ, źródła i JSON-LD (Article, BreadcrumbList, FAQPage) pochodzą z frontmattera, więc zawsze są zgodne.
+   Formę bloków (np. spis jako lepka kolumna albo pasek postępu) daje marka w CSS i w razie potrzeby w tym pliku. */
+import Base from './Base.astro';
+import PoradnikCard from '../components/PoradnikCard.astro';
+import { marka } from '../data/marka';
+import { type Poradnik, urlOf, coverOf, ogOf, katOf, dateLong, dateShort, isoDate, isScheduled } from '../lib/poradniki';
+
+interface Props { entry: Poradnik; hub?: Poradnik; related: Poradnik[]; headings: { depth: number; slug: string; text: string }[] }
+const { entry, hub, related, headings } = Astro.props;
+const d = entry.data;
+const url = new URL(urlOf(entry), marka.url).href;
+/* Warstwa świeżości: czytelnik zgłasza zmianę u źródła, a mail ma gotowy temat i adres tekstu. */
+const zglos = `mailto:${marka.email}?subject=${encodeURIComponent(`Zmiana w poradniku: ${d.cover?.label ?? d.title}`)}&body=${encodeURIComponent(`Poradnik: ${url}\n\nCo się zmieniło (cena, regulamin, przepis) i gdzie to widać (link):\n`)}`;
+const spis = [
+  ...headings.filter((h) => h.depth === 2),
+  ...(d.faq.length ? [{ depth: 2, slug: 'pytania', text: 'Pytania i odpowiedzi' }] : []),
+  ...(d.sources.length ? [{ depth: 2, slug: 'zrodla', text: 'Źródła' }] : []),
+];
+const cta = d.cta ?? marka.cta;
+const host = (u: string) => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return u; } };
+const crumbs = [
+  { name: 'Strona główna', url: '/' },
+  { name: marka.blog.name, url: marka.blog.base },
+  ...(hub ? [{ name: hub.data.cover.label ?? hub.data.kicker, url: urlOf(hub) }] : []),
+  { name: d.cover.label ?? d.title, url: urlOf(entry) },
+];
+const ld = [
+  {
+    '@context': 'https://schema.org', '@type': 'Article', headline: d.title, description: d.description,
+    datePublished: isoDate(d.publishedAt), dateModified: isoDate(d.updatedAt), inLanguage: 'pl',
+    author: { '@type': 'Person', name: d.author }, publisher: { '@type': 'Organization', name: marka.name, url: marka.url },
+    image: new URL(ogOf(entry), marka.url).href, mainEntityOfPage: url,
+  },
+  { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: crumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: new URL(c.url, marka.url).href })) },
+  ...(d.faq.length ? [{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: d.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) }] : []),
+];
+---
+<Base title={`${d.seoTitle} | ${marka.name}`} description={d.description} ogImage={ogOf(entry)} ogType="article" noindex={d.draft} ctaHref={cta.href}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(ld)} />
+  <article class="art" data-kat={katOf(entry)}>
+    <header class="art-hero">
+      <div class="container art-hero-grid">
+        <div class="art-hero-txt">
+          <nav class="okruszki" aria-label="Okruszki"><ol>{crumbs.slice(0, -1).map((c) => <li><a href={c.url}>{c.name}</a></li>)}</ol></nav>
+          <p class="kicker">{d.kicker}{d.draft ? <span class="znaczek">Szkic: nie trafi na stronę publiczną</span> : isScheduled(entry) && <span class="znaczek">Zaplanowany na {dateShort(d.publishedAt)}</span>}</p>
+          <h1 class="art-h1">{d.title}</h1>
+          <p class="art-lead">{d.lead}</p>
+          <ul class="art-meta">
+            <li>Autor: {d.author}</li>
+            <li>Sprawdzono <time datetime={isoDate(d.verifiedAt)}>{dateShort(d.verifiedAt)}</time></li>
+            {d.readingTime && <li>{d.readingTime} min czytania</li>}
+          </ul>
+        </div>
+        <figure class="art-okladka"><img src={coverOf(entry)} alt={d.cover.alt ?? ''} width="1600" height="900" fetchpriority="high" /></figure>
+      </div>
+    </header>
+
+    <div class="container art-uklad">
+      {spis.length > 2 && (
+        <nav class="spis" aria-label="W tym tekście" data-spis>
+          <p class="spis-t">W tym tekście</p>
+          <ol>{spis.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
+        </nav>
+      )}
+      <div class="art-kolumna">
+        {d.tldr.length > 0 && (
+          <aside class="skrot" aria-label="W skrócie">
+            <p class="skrot-t">W skrócie</p>
+            <ul>{d.tldr.map((t) => <li>{t}</li>)}</ul>
+          </aside>
+        )}
+        <div class="prose"><slot /></div>
+        <a class="cta" href={cta.href}>
+          <span class="cta-t">{cta.title}</span>
+          <span class="cta-b">{cta.text}</span>
+          <span class="btn btn--primary">{marka.cta.button}</span>
+        </a>
+      </div>
+    </div>
+
+    {d.faq.length > 0 && (
+      <section class="sekcja" id="pytania">
+        <div class="container waska">
+          <h2 class="h2">Pytania i odpowiedzi</h2>
+          <div class="faq">{d.faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}</div>
+        </div>
+      </section>
+    )}
+
+    {d.sources.length > 0 && (
+      <section class="sekcja" id="zrodla">
+        <div class="container">
+          <h2 class="h2">Źródła</h2>
+          <ul class="zrodla">
+            {d.sources.map((s) => (
+              <li><a href={s.url} rel="nofollow noopener" target="_blank">
+                <span class="zr-host">{host(s.url)}</span>
+                <span class="zr-tytul">{s.title}</span>
+                <span class="zr-data">sprawdzono {dateShort(s.checkedAt)}</span>
+              </a></li>
+            ))}
+          </ul>
+          <div class="zmiana">
+            <p><strong>Dane sprawdzono {dateLong(d.verifiedAt)} u źródeł wymienionych wyżej.</strong> Widzisz zmianę w cenniku, regulaminie albo przepisie? Daj znać, poprawimy tekst i zaktualizujemy datę.</p>
+            <a href={zglos}>Zgłoś zmianę</a>
+          </div>
+          {d.ymyl && <p class="zastrzezenie">Ten tekst opisuje przepisy i zasady na dzień {dateLong(d.verifiedAt)}. Nie jest poradą prawną, medyczną ani finansową. W konkretnej sprawie skonsultuj się ze specjalistą.</p>}
+          {d.affiliate && <p class="zastrzezenie">Część linków w tekście to linki partnerskie.</p>}
+        </div>
+      </section>
+    )}
+
+    <section class="sekcja">
+      <div class="container waska autor">
+        <p class="autor-imie">{d.author}</p>
+        <p>{marka.autor.bio}</p>
+      </div>
+    </section>
+
+    {related.length > 0 && (
+      <section class="sekcja">
+        <div class="container">
+          <h2 class="h2">Powiązane poradniki</h2>
+          <div class="karty">{related.map((p) => <PoradnikCard p={p} />)}</div>
+        </div>
+      </section>
+    )}
+  </article>
+</Base>
+
+<script>
+  /* Spis: zaznacza bieżącą sekcję (aria-current), forma zależy od CSS marki. */
+  const spis = document.querySelector<HTMLElement>('[data-spis]');
+  if (spis) {
+    const links = [...spis.querySelectorAll<HTMLAnchorElement>('a')];
+    const targets = links.map((a) => document.getElementById(a.hash.slice(1)));
+    const update = () => {
+      let cur = 0;
+      targets.forEach((t, i) => { if (t && t.getBoundingClientRect().top < 160) cur = i; });
+      links.forEach((a, i) => (i === cur ? a.setAttribute('aria-current', 'true') : a.removeAttribute('aria-current')));
+    };
+    addEventListener('scroll', update, { passive: true });
+    update();
+  }
+  /* Gotowe wzory: przycisk „Kopiuj” kopiuje treść ramki bez etykiety. */
+  document.querySelectorAll<HTMLElement>('.ramka--wzor').forEach((r) => {
+    const btn = document.createElement('button');
+    btn.type = 'button'; btn.className = 'kopiuj'; btn.textContent = 'Kopiuj';
+    btn.addEventListener('click', async () => {
+      const text = [...r.children].filter((c) => !c.classList.contains('ramka-et') && c !== btn).map((c) => (c as HTMLElement).innerText).join('\n\n');
+      try { await navigator.clipboard.writeText(text); btn.textContent = 'Skopiowane'; } catch { btn.textContent = 'Zaznacz i skopiuj'; }
+      setTimeout(() => (btn.textContent = 'Kopiuj'), 2000);
+    });
+    r.appendChild(btn);
+  });
+</script>

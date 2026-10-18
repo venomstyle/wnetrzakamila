@@ -1,0 +1,21 @@
+/* Tokeny: NEUTRALNE wartości zastępcze. Szkielet nie ma własnego wyglądu.
+   Po wyborze kierunku stylu (references/wybory.md) podmień wartości na tokeny marki
+   i dopisz własny plik marki (np. src/styles/marka.css) z formą bloków. Nazwy zmiennych zostają. */
+:root{
+  /* kolory */
+  --bg:#ffffff;--paper:#ffffff;--tint:#f2f2f2;--ink:#111111;--ink-2:#333333;--muted:#666666;--line:#dddddd;
+  --accent:#444444;--accent-ink:#222222;--on-accent:#ffffff;--accent-soft:#eeeeee;
+  --ok:#2e7d4f;--bad:#b3261e;
+  /* kategorie: kolor tła i akcentu karty/okładki per hub (data-kat). Dopisz po jednej parze na hub. */
+  --kat-bg:var(--tint);--kat-ink:var(--accent-ink);
+  /* typografia */
+  --font:system-ui,-apple-system,'Segoe UI',Arial,sans-serif;
+  --font-text:system-ui,-apple-system,'Segoe UI',Arial,sans-serif;
+  --fs-text:1.0625rem;--lh-text:1.7;--measure:68ch;
+  /* forma */
+  --radius:0px;--shadow:none;--border:1px solid var(--line);
+  /* układ */
+  --container:1180px;--gutter:clamp(16px,4vw,48px);--section:clamp(40px,6vw,72px);--header-h:64px;
+}
+/* przykład kategorii (zastąp slugami hubów projektu):
+[data-kat="slug-huba"]{--kat-bg:#...;--kat-ink:#...} */

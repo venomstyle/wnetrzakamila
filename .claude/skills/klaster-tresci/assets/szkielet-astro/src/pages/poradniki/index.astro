@@ -1,0 +1,34 @@
+---
+/* Indeks wszystkich poradników, pogrupowany według hubów. Nagłówek grupy: kategoria + tytuł huba + link
+   „Wszystko w temacie” na linii tytułu (wyrównanie do ostatniej linii, references/przeglad-wizualny.md). */
+import Base from '../../layouts/Base.astro';
+import PoradnikCard from '../../components/PoradnikCard.astro';
+import { marka } from '../../data/marka';
+import { getPoradniki, hubs, inHub, urlOf, katOf, plural } from '../../lib/poradniki';
+const all = await getPoradniki();
+const groups = hubs(all).map((h) => ({ hub: h, items: inHub(all, h) })).filter((g) => g.items.length > 0);
+const count = all.filter((p) => p.data.type !== 'hub').length;
+const ld = { '@context': 'https://schema.org', '@type': 'CollectionPage', name: marka.blog.title, inLanguage: 'pl', url: new URL(marka.blog.base, marka.url).href,
+  hasPart: groups.map(({ hub }) => ({ '@type': 'CollectionPage', name: hub.data.title, url: new URL(urlOf(hub), marka.url).href })) };
+---
+<Base title={`${marka.blog.title} | ${marka.name}`} description={marka.blog.lead}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(ld)} />
+  <section class="hub-hero">
+    <div class="container">
+      <h1 class="hub-h1">{marka.blog.title}</h1>
+      <p class="hub-lead">{marka.blog.lead}</p>
+      <p class="licznik"><strong>{count}</strong> {plural(count)} w {groups.length} {plural(groups.length, ['temacie', 'tematach', 'tematach'])}</p>
+    </div>
+  </section>
+  {groups.map(({ hub, items }) => (
+    <section class="sekcja" data-kat={katOf(hub)}>
+      <div class="container">
+        <div class="grupa-gl">
+          <div><p class="kicker">{hub.data.kicker}</p><h2 class="h2">{hub.data.title}</h2></div>
+          <a class="grupa-wiecej" href={urlOf(hub)}>Wszystko w temacie</a>
+        </div>
+        <div class="karty">{items.map((p) => <PoradnikCard p={p} />)}</div>
+      </div>
+    </section>
+  ))}
+</Base>

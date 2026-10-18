@@ -1,0 +1,31 @@
+---
+/* Test popytu na newsletter (fake door, blueprint skilla): przycisk niczego nie zapisuje, tylko liczy kliknięcia
+   w Plausible (cel „Newsletter: chcę”, po zgodzie na statystyki) i uczciwie mówi, że newslettera jeszcze nie ma.
+   Prawdziwy zapis wymaga formularza, czyli etapu „pelny” (CLAUDE.md). */
+---
+<aside class="nl" data-newsletter>
+  <div>
+    <p class="eyebrow">Wkrótce: newsletter</p>
+    <h2 class="nl-t">Co się zmieniło w cenach dla fachowców, raz w miesiącu</h2>
+    <p class="nl-o">Nowe cenniki portali ze zleceniami, terminali i reklam oraz nowe poradniki. Krótko, z datą sprawdzenia.</p>
+  </div>
+  <div class="nl-akcja">
+    <button type="button" class="btn btn--primary" data-cel="Newsletter: chcę">Chcę taki newsletter</button>
+    <p class="nl-po" hidden>Dzięki. Newslettera jeszcze nie ma, a Twoje kliknięcie pomaga mi zdecydować, czy go uruchomić. Nie zapisuję Twojego adresu. Nowe teksty śledzisz już teraz przez <a href="/rss.xml">RSS</a>.</p>
+  </div>
+</aside>
+<script>
+  for (const box of document.querySelectorAll<HTMLElement>('[data-newsletter]')) {
+    const b = box.querySelector('button')!;
+    b.addEventListener('click', () => { b.hidden = true; box.querySelector<HTMLElement>('.nl-po')!.hidden = false; });
+  }
+</script>
+<style>
+.nl{display:flex;align-items:center;justify-content:space-between;gap:20px 40px;flex-wrap:wrap;padding:clamp(22px,3vw,36px);border:1px dashed var(--line-strong);border-radius:var(--radius);background:var(--paper)}
+.nl>div:first-child{max-width:60ch}
+.nl-t{font-size:clamp(1.25rem,1.1rem + .7vw,1.6rem);font-weight:800;margin-top:8px}
+.nl-o{margin-top:8px;color:var(--ink-2)}
+.nl-akcja{max-width:420px}
+.nl-po{font-size:.9375rem;color:var(--ink-2)}
+.nl-po a{color:var(--accent-ink);text-decoration:underline;text-underline-offset:3px}
+</style>

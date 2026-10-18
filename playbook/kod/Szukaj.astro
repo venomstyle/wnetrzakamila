@@ -1,0 +1,59 @@
+---
+/* Wyszukiwarka poradników: pobiera /poradniki/szukaj.json przy pierwszym użyciu i filtruje w przeglądarce.
+   Dopasowanie bez polskich znaków i wielkości liter; każde słowo zapytania musi wystąpić. */
+---
+<div class="sz" data-szukaj>
+  <label class="sz-pole">
+    <span class="sr-only">Szukaj w poradnikach</span>
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m20 20-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    <input type="search" placeholder="Szukaj, np. opinie, terminal, logo" autocomplete="off" enterkeyhint="search" aria-controls="sz-wyniki" />
+  </label>
+  <ul id="sz-wyniki" class="sz-wyniki" aria-live="polite" hidden></ul>
+</div>
+<script>
+  for (const box of document.querySelectorAll<HTMLElement>('[data-szukaj]')) {
+    const pole = box.querySelector('input')!;
+    const lista = box.querySelector('ul')!;
+    type W = { t: string; u: string; o: string; k: string; h: number; s: string; n?: string };
+    let indeks: W[] | null = null;
+    const norm = (s: string) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ł/g, 'l');
+    async function laduj() {
+      if (indeks) return indeks;
+      const r = await fetch('/poradniki/szukaj.json');
+      indeks = ((await r.json()) as W[]).map((w) => ({ ...w, n: norm(`${w.t} ${w.k} ${w.o} ${w.s}`) }));
+      return indeks;
+    }
+    function el(tag: string, cls: string, txt: string) { const e = document.createElement(tag); e.className = cls; e.textContent = txt; return e; }
+    async function szukaj() {
+      const q = norm(pole.value.trim());
+      if (q.length < 2) { lista.hidden = true; lista.replaceChildren(); return; }
+      const slowa = q.split(/\s+/).filter(Boolean);
+      const wyniki = (await laduj())
+        .filter((w) => slowa.every((s) => w.n!.includes(s)))
+        .map((w) => ({ w, pkt: (norm(w.t).includes(q) ? 3 : 0) + w.h }))
+        .sort((a, b) => b.pkt - a.pkt).slice(0, 8);
+      lista.hidden = false;
+      if (!wyniki.length) { lista.replaceChildren(el('li', 'sz-brak', 'Nic nie znalazłem. Spróbuj innego słowa albo przejrzyj działy poniżej.')); return; }
+      lista.replaceChildren(...wyniki.map(({ w }) => {
+        const li = document.createElement('li'); const a = document.createElement('a'); a.href = w.u;
+        a.append(el('span', 'sz-k', w.k), el('strong', '', w.t), el('span', 'sz-o', w.o)); li.append(a); return li;
+      }));
+    }
+    pole.addEventListener('focus', () => { laduj(); }, { once: true });
+    pole.addEventListener('input', szukaj);
+  }
+</script>
+<style>
+.sz{position:relative;margin-top:24px;max-width:640px}
+.sz-pole{display:flex;align-items:center;gap:10px;padding:0 16px;min-height:52px;border:1.5px solid var(--line-strong);border-radius:var(--radius);background:var(--paper);color:var(--muted)}
+.sz-pole:focus-within{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.sz-pole input{flex:1;min-width:0;border:0;background:none;color:var(--ink);font-size:1.0625rem;font-family:var(--font-text);outline:none;min-height:48px}
+.sz-wyniki{list-style:none;margin-top:8px;border:1px solid var(--line-strong);border-radius:var(--radius);background:var(--bg);overflow:hidden}
+.sz-wyniki li+li{border-top:1px solid var(--line)}
+.sz-wyniki a{display:flex;flex-direction:column;gap:2px;padding:12px 16px}
+.sz-wyniki a:hover,.sz-wyniki a:focus{background:var(--paper)}
+.sz-k{font-size:.6875rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-ink)}
+.sz-o{font-size:.875rem;color:var(--muted);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.sz-brak{padding:14px 16px;color:var(--muted)}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+</style>

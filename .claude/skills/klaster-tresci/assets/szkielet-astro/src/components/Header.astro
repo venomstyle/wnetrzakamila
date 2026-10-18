@@ -1,0 +1,13 @@
+---
+import Logo from './Logo.astro';
+import { marka } from '../data/marka';
+interface Props { ctaHref?: string }
+const { ctaHref = marka.cta.href } = Astro.props;
+---
+<header class="naglowek">
+  <div class="container naglowek-in">
+    <Logo />
+    <nav class="naglowek-nav" aria-label="Menu">{marka.nav.map((l) => <a href={l.href}>{l.label}</a>)}</nav>
+    <a class="btn btn--primary naglowek-cta" href={ctaHref}>{marka.cta.button}</a>
+  </div>
+</header>
