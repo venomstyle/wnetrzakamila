@@ -78,7 +78,7 @@ Kryterium briefu: w top 10 są ≥2 URL-e z <10 domenami linkującymi albo fora,
 | kabel do ładowania samochodu elektrycznego (320) | sprzęt | 10 | 773 | 1 | 1 | nie | preis-zone.pl, swiatbaterii.pl, allegro.pl, tim.pl, ceneo.pl |
 
 **Wnioski.**
-- **20 z 20 SERP-ów spełnia kryterium.** URL-e prawie nie mają linków: mediana RD na URL to 0 w 17 z 20 SERP-ów [B-URL]. Kryterium jest więc łatwe do spełnienia w tej niszy. Siłę dają domeny: mediana RD domen w top 10 wynosi od 128 do 1 945 [B-D].
+- **20 z 20 SERP-ów spełnia kryterium.** URL-e prawie nie mają linków: mediana RD na URL to 0 w 16 z 20 SERP-ów, a w pozostałych 4 wynosi 0,5–2 [B-URL]. Kryterium jest więc łatwe do spełnienia w tej niszy. Siłę dają domeny: mediana RD domen w top 10 wynosi od 128 do 1 945 [B-D].
 - **Kto wygrywa na poziomie URL-i.** „[operator] cennik”: strony operatora (3–7 URL-i w top 10) i portale branżowe (elektrowoz.pl, elektromobilni.pl, evklub.pl). „zasięg [model]”: producent, dealerzy, testy z 2022–2023, fora, YouTube i bazy modeli (otoev.pl, evkx.net). „koszt ładowania”: strony producentów aut (cupra, mazda, volkswagen, hyundai, jaguar) i sklepy z ładowarkami. „ładowarki / stacje [miasto]”: local pack, plugshare.com, chargefinder.com. Dodatkowe SERP-y (poza dwudziestką): „ile kosztuje ładowanie tesli” (140) wygrywają reddit (3 URL-e), interia.pl i elektrowoz.pl; „dacia spring zasięg zimą” (30) autokatalog.pl, motonews.pl, forum daciaklub.pl z 2020 r.; „ładowarki elektryczne warszawa” (50) local pack, equay.pl, plugbox.eu, plugshare.com [S].
 - **AIO w 15 z 20 SERP-ów.** W 11 z nich AIO cytuje domenę z <300 RD (np. stacjeladowaniapojazdow.pl w 3 SERP-ach, lenergizee.pl, sigmapolska.pl, ampergo.pl, amperepoint.pl) [S][B-D]. Brak AIO na frazach sprzętowych i na mapie.
 - **Local pack** stoi nad wynikami na „stacje ładowania”, „stacja ładowania greenway”, „ładowarki elektryczne warszawa” i frazach miejskich [S]. Dlatego frazy operatorów i miast liczę z mnożnikiem 0,3.
@@ -207,9 +207,9 @@ Wszystkie wiersze poza wolumenem, stawką Ceneo i cenami wallboxów to założen
 - **Zależność od jednego źródła danych:** EIPA bez licencji, z limitem pobrań, z kontem kasowanym po 30 dniach bez pobrań i z wątpliwą kompletnością (GreenWay) [CP].
 - **Zarobek:** brak programu partnerskiego z sensowną stawką; leady wykluczone; reklamy przy RPM-ie nieznanym dla PL.
 - **Nawigacja i aplikacje:** największe frazy to nazwy operatorów i marek; kierowcy korzystają z aplikacji operatorów i Map Google.
-- **Sezonowość:** umiarkowana (marzec ok. +30% wobec czerwca dla fraz „do wzięcia” [W]).
+- **Sezonowość:** frazy „do wzięcia” mają szczyt w marcu (115 670) i dołek w czerwcu (68 170), czyli ok. +70% [W]. Pierwszy klaster trzeba opublikować przed marcem.
 
-### Omijamy (tematy prawne i pokrewne; autorzy ich nie ruszają) (`dane/ev-omijamy.csv`, 97 fraz)
+### Omijamy (tematy prawne i pokrewne; autorzy ich nie ruszają) (`dane/ev-omijamy.csv`, 99 fraz)
 
 - **Dopłaty i programy:** NaszEauto („naszeauto” 14 800/mies.), Mój Elektryk („mój elektryk” 2 400, „moj elektryk” 2 900), „dofinansowanie do samochodu elektrycznego” 4 400, „dopłaty do elektryków” 2 900, dotacje do stacji i wallboxów, warunki, wnioski [W].
 - **Ulgi i podatki:** VAT, odliczenia, amortyzacja, akcyza, rozliczanie ładowania w firmie i w domu („jak rozliczyć ładowanie samochodu elektrycznego w domu” 110), samochód na firmę [W].
