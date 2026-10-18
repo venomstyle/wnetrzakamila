@@ -22,8 +22,8 @@ klik do brokera hub,0.02,0.03,zalozenie
 klik do brokera narzedzie,0.02,0.03,zalozenie
 klik do brokera ranking,0.06,0.1,zalozenie
 klik do brokera broker,0.1,0.15,zalozenie
-konwersja klik -> zasilone konto,0.03,0.05,zalozenie
-wyplata za zasilone konto (zl),150,400,zalozenie; brak potwierdzonej stawki dla PL u zrodla
+konwersja klik -> zasilone konto,0.03,0.04,zalozenie
+wyplata za zasilone konto (zl),150,300,zalozenie; brak potwierdzonej stawki dla PL u zrodla
 RPM reklam (zl / 1000 odslon),8,20,zalozenie; brak wiarygodnego zrodla dla PL
 odslony na sesje,1.4,1.7,zalozenie
 sesje,1794,7862,wynik
@@ -34,7 +34,7 @@ sesje_narzedzie,57,396,wynik
 sesje_ranking,93,364,wynik
 sesje_broker,109,403,wynik
 klik_broker,61,407,wynik
-konta,1.8,20.4,wynik
-afiliacja_zl,273,8145,wynik
+konta,1.8,16.3,wynik
+afiliacja_zl,273,4887,wynik
 reklamy_zl,20,267,wynik
-razem_zl,293,8412,wynik
+razem_zl,293,5154,wynik
