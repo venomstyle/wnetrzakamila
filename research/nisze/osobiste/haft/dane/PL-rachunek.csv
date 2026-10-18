@@ -1,0 +1,5 @@
+scenariusz,ruch_mies,wzory_szt,wzory_zl,zestawy_szt,zestawy_marza_zl,afiliacja_zl,reklamy_zl,razem_zl_mies,razem_bez_zestawow,zalozenia,data
+B ostrożny,4000,12.0,254,0.0,0,0,18,272,272,"konwersja na wzór 0.3% × 4.99 EUR × 4.25 zł/EUR; zestaw 0.00% × 180 zł × marża 30%; afiliacja CTR 0% × konw. 0% × koszyk 120 zł × 0%; reklamy 1,5 odsłony/wizytę, RPM 3 zł",2026-10-18
+B realny,12000,96.0,2036,18.0,1296,14,108,3454,2158,"konwersja na wzór 0.8% × 4.99 EUR × 4.25 zł/EUR; zestaw 0.15% × 180 zł × marża 40%; afiliacja CTR 1% × konw. 2% × koszyk 120 zł × 5%; reklamy 1,5 odsłony/wizytę, RPM 6 zł",2026-10-18
+C ostrożny,8000,16.0,339,0.0,0,19,36,395,395,"konwersja na wzór 0.2% × 4.99 EUR × 4.25 zł/EUR; zestaw 0.00% × 180 zł × marża 30%; afiliacja CTR 2% × konw. 2% × koszyk 120 zł × 5%; reklamy 1,5 odsłony/wizytę, RPM 3 zł",2026-10-18
+C realny,25000,125.0,2651,25.0,1800,288,225,4964,3164,"konwersja na wzór 0.5% × 4.99 EUR × 4.25 zł/EUR; zestaw 0.10% × 180 zł × marża 40%; afiliacja CTR 4% × konw. 3% × koszyk 120 zł × 8%; reklamy 1,5 odsłony/wizytę, RPM 6 zł",2026-10-18

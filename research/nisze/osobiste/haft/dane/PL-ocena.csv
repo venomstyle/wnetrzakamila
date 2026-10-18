@@ -1,0 +1,4 @@
+wariant,popyt_rdzenia_sr_mies,ocena_popyt,ocena_serp,ocena_zarobek,ocena_fosa,ocena_ryzyko,wynik_wazony,dopasowanie_do_gridlinga,dopasowanie_do_profilu,zrodlo,data
+A: tylko haft krzyżykowy,"22 498 (T3), −12,7% 12m",4,4,3,4,4,3.75,5,3,"PL-popyt-podsumowanie.csv, PL-serp-podsumowanie.csv, PL-programy.csv; wagi METODA.md",2026-10-18
+B: haft + „zdjęcie → wzór” (bez pixel art),"146 886, −22,2% 12m (z tego zdjęcie/wzór ok. 21 033)",4,3.5,3.5,5,4,3.9,5,3,"PL-popyt-podsumowanie.csv, PL-serp-podsumowanie.csv, PL-programy.csv; wagi METODA.md",2026-10-18
+"C: pełne robótki (B + pixel art + szydełko, druty, amigurumi, haft, makrama…)","377 859, −20,2% 12m",4.5,3,3.5,4,4,3.73,3,3,"PL-popyt-podsumowanie.csv, PL-serp-podsumowanie.csv, PL-programy.csv; wagi METODA.md",2026-10-18
