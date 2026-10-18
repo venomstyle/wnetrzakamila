@@ -1,0 +1,40 @@
+parametr,ostrozny,realny,zrodlo_lub_zalozenie
+wolumen segmentow (mies.),267460,267460,"DataForSEO search_volume + keyword_suggestions, 18.10.2026, bez marek brokerow, nawigacji i wykluczen"
+wolumen encja,146030,146030,j.w.
+wolumen edukacja,52530,52530,j.w.
+wolumen hub,25100,25100,j.w.
+wolumen narzedzie,19660,19660,j.w.
+wolumen ranking,10660,10660,j.w.
+wolumen broker,13480,13480,j.w.
+pokrycie fraz stronami,0.5,0.8,zalozenie
+pozycja encja,8,5,zalozenie
+pozycja edukacja,9,6,zalozenie
+pozycja hub,11,10,zalozenie
+pozycja narzedzie,8,5,zalozenie
+pozycja ranking,8,5,zalozenie
+pozycja broker,9,6,zalozenie
+pozycja glow >=5000,11,9,zalozenie (11 = poza top 10)
+CTR poz.1/5/10,"28,5%/6,1%/1,4%","28,5%/6,1%/1,4%",SEO Inc. 2025 (https://seoinc.com/?p=9742); pozostale pozycje interpolowane (zalozenie)
+"mnoznik AIO (encja/narzedzie/ranking 0,7; edukacja/broker 0,85)",tak,tak,zalozenie na podstawie 9 z 11 SERP z AIO
+klik do brokera encja,0.03,0.05,zalozenie
+klik do brokera edukacja,0.02,0.03,zalozenie
+klik do brokera hub,0.02,0.03,zalozenie
+klik do brokera narzedzie,0.02,0.03,zalozenie
+klik do brokera ranking,0.06,0.1,zalozenie
+klik do brokera broker,0.1,0.15,zalozenie
+konwersja klik -> zasilone konto,0.03,0.05,zalozenie
+wyplata za zasilone konto (zl),150,400,zalozenie; brak potwierdzonej stawki dla PL u zrodla
+RPM reklam (zl / 1000 odslon),8,20,zalozenie; brak wiarygodnego zrodla dla PL
+odslony na sesje,1.4,1.7,zalozenie
+sesje,1794,7862,wynik
+sesje_encja,1231,4876,wynik
+sesje_edukacja,305,1368,wynik
+sesje_hub,0,454,wynik
+sesje_narzedzie,57,396,wynik
+sesje_ranking,93,364,wynik
+sesje_broker,109,403,wynik
+klik_broker,61,407,wynik
+konta,1.8,20.4,wynik
+afiliacja_zl,273,8145,wynik
+reklamy_zl,20,267,wynik
+razem_zl,293,8412,wynik
