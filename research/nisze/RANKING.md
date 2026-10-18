@@ -63,3 +63,9 @@ Dla wybranych finalistów badanie „tak/nie” w kilka godzin:
 - warunki programów partnerskich z oficjalnych stron;
 - licencje danych potwierdzone u źródła;
 - szkic struktury serwisu i model przychodu z rachunkiem na ruchu.
+
+## Decyzje właściciela (18.10.2026)
+
+- **Treści prawne: niedozwolone** (przepisy, pozwolenia, rejestracje, kary, dopłaty i warunki programów, CITES itp.).
+- **Model zarobku:** dobieramy do niszy po badaniu.
+- **Badanie pogłębione:** kampery i kamping, terrarystyka, druk 3D oraz auta elektryczne bez dopłat i przepisów (`finalisci/`).
