@@ -1,0 +1,15 @@
+Zrzuty ekranu wnetrzakamila.pl, wykonane 18.10.2026 przez DataForSEO /v3/on_page/page_screenshot (full_page_screenshot: true).
+Proxy sesji blokuje host api.dataforseo.com/cdn (curl: CONNECT 403), więc plików PNG nie udało się pobrać. Linki mogą po pewnym czasie wygasnąć.
+
+Strona główna, telefon (browser_preset mobile):
+https://api.dataforseo.com/cdn/screenshot/10180825-2594-0444-0000-e1cfa9b96080
+Strona główna, komputer (browser_preset desktop):
+https://api.dataforseo.com/cdn/screenshot/10180825-2594-0444-0000-d8ea9d851aab
+Artykuł „Ile kosztuje projekt domu?”, telefon:
+https://api.dataforseo.com/cdn/screenshot/10180827-2594-0444-0000-f70b372665ad
+Artykuł „Ile kosztuje projekt domu?”, komputer:
+https://api.dataforseo.com/cdn/screenshot/10180827-2594-0444-0000-47e4347be6e9
+Kategoria „Kalkulatory budowlane”, telefon:
+https://api.dataforseo.com/cdn/screenshot/10180827-2594-0444-0000-c52fcc4fd36b
+O mnie, telefon:
+https://api.dataforseo.com/cdn/screenshot/10180827-2594-0444-0000-0026a2f042fd
