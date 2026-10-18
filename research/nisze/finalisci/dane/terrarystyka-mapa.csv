@@ -30,11 +30,11 @@ terrarystyka,agama kołnierzasta,encja,/gatunki/agama-kolnierzasta/,agama kołni
 terrarystyka,agama kołnierzasta,encja,/gatunki/agama-kolnierzasta/,jaszczurka kołnierzasta,170,0.05,LOW,-18,2026-09,2025-10,,170,140,70,390,320,140,140,140,170,110,110,110,110,110,90
 terrarystyka,agama kołnierzasta,poradnik,/poradniki/terrarium-dla-agama-kolnierzasta/,agama kołnierzasta terrarium,40,,LOW,200,2025-11,2026-01,,10,20,10,30,20,40,50,50,40,50,30,40,40,40,40
 terrarystyka,agamy (inne),poradnik,/poradniki/terrarium-dla-agamy-inne/,terrarium dla agamy,720,0.13,HIGH,-41,2026-06,2025-10,,880,880,880,1000,1000,880,880,720,590,480,480,390,390,590,590
-terrarystyka,agamy (inne),encja,/agamy-inne/,agama górska,260,,LOW,-58,2026-08,2025-12,,320,390,210,260,390,480,320,260,320,320,170,140,140,110,140
-terrarystyka,agamy (inne),hub,/agamy-inne/,agama cena,170,0.02,LOW,-18,2026-07,2025-11,,170,170,170,170,210,210,210,210,210,210,170,140,110,170,140
-terrarystyka,agamy (inne),encja,/agamy-inne/,agama czerwonoglowa,170,,LOW,23,2025-12,2025-10,agama czerwonogłowa | agama czerwona,140,170,170,210,210,140,210,210,170,170,170,140,210,170,210
-terrarystyka,agamy (inne),encja,/agamy-inne/,agama zielona,170,,LOW,-29,2026-05,2025-11,,210,210,210,210,260,260,210,210,210,170,140,140,140,170,140
-terrarystyka,agamy (inne),encja,/agamy-inne/,agama rogata,170,,LOW,-7,2026-06,2026-01,,140,170,110,170,170,170,210,170,210,210,210,110,110,110,170
+terrarystyka,agamy (inne),encja,/gatunki/agama-gorska/,agama górska,260,,LOW,-58,2026-08,2025-12,,320,390,210,260,390,480,320,260,320,320,170,140,140,110,140
+terrarystyka,agamy (inne),hub,/agamy/,agama cena,170,0.02,LOW,-18,2026-07,2025-11,,170,170,170,170,210,210,210,210,210,210,170,140,110,170,140
+terrarystyka,agamy (inne),encja,/gatunki/agama-czerwonoglowa/,agama czerwonoglowa,170,,LOW,23,2025-12,2025-10,agama czerwonogłowa | agama czerwona,140,170,170,210,210,140,210,210,170,170,170,140,210,170,210
+terrarystyka,agamy (inne),encja,/gatunki/agama-zielona/,agama zielona,170,,LOW,-29,2026-05,2025-11,,210,210,210,210,260,260,210,210,210,170,140,140,140,170,140
+terrarystyka,agamy (inne),encja,/gatunki/agama-rogata/,agama rogata,170,,LOW,-7,2026-06,2026-01,,140,170,110,170,170,170,210,170,210,210,210,110,110,110,170
 terrarystyka,agamy (inne),poradnik,/poradniki/terrarium-dla-agamy-inne/,agama terrarium,90,0.06,HIGH,-28,2026-05,2025-10,,70,140,110,140,140,90,110,90,70,70,50,50,70,90,70
 terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl,60500,0.08,LOW,-19,2025-10,2026-03,,110000,60500,40500,49500,49500,60500,60500,60500,74000,74000,60500,74000,60500,60500,49500
 terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl cena,5400,1.06,LOW,-22,2025-10,2026-01,,8100,5400,3600,3600,3600,4400,6600,5400,5400,6600,5400,5400,4400,5400,3600
@@ -57,11 +57,11 @@ terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl zielony,170,0.06,LOW,-69
 terrarystyka,aksolotl,poradnik,/poradniki/akwarium-dla-aksolotla/,aksolotl jakie akwarium,140,0.19,MEDIUM,-20,2026-06,2026-01,,140,170,140,170,140,170,210,170,140,170,140,110,110,140,110
 terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl mały,140,0.06,LOW,0,2025-11,2026-05,,140,170,90,90,70,90,90,110,110,210,260,140,170,140,90
 terrarystyka,aksolotl,encja,/gatunki/aksolotl/,dorosły aksolotl,140,,LOW,6,2025-10,2026-03,,140,90,110,70,90,140,140,110,210,170,140,170,140,110,110
-terrarystyka,bezkręgowce (inne),encja,/bezkregowce-inne/,krocionogi,3600,0.04,LOW,-12,2025-12,2025-10,krocionóg,2900,2900,9900,6600,2900,2400,2400,2400,2400,2900,4400,4400,3600,3600,6600
-terrarystyka,bezkręgowce (inne),encja,/bezkregowce-inne/,izopody,1600,0.2,LOW,40,2025-12,2026-08,,1600,1300,1300,1600,1600,1300,1600,1600,1900,1900,1900,1600,1600,2400,1900
-terrarystyka,bezkręgowce (inne),encja,/bezkregowce-inne/,prosionki,1600,,LOW,0,2025-11,2026-06,,1600,1900,1900,1600,880,880,880,1000,1600,1600,1900,2400,1600,1900,1900
-terrarystyka,bezkręgowce (inne),encja,/bezkregowce-inne/,krocionóg olbrzymi,1000,,LOW,38,2025-12,2026-08,,880,720,1000,1000,880,720,880,880,1000,880,1000,1000,1000,1300,1300
-terrarystyka,bezkręgowce (inne),encja,/bezkregowce-inne/,równonogi,720,,LOW,0,2025-10,2025-11,,720,590,480,480,2400,1000,590,480,590,590,590,590,480,720,590
+terrarystyka,bezkręgowce (inne),encja,/gatunki/krocionogi/,krocionogi,3600,0.04,LOW,-12,2025-12,2025-10,krocionóg,2900,2900,9900,6600,2900,2400,2400,2400,2400,2900,4400,4400,3600,3600,6600
+terrarystyka,bezkręgowce (inne),encja,/gatunki/izopody/,izopody,1600,0.2,LOW,40,2025-12,2026-08,,1600,1300,1300,1600,1600,1300,1600,1600,1900,1900,1900,1600,1600,2400,1900
+terrarystyka,bezkręgowce (inne),encja,/gatunki/prosionki/,prosionki,1600,,LOW,0,2025-11,2026-06,,1600,1900,1900,1600,880,880,880,1000,1600,1600,1900,2400,1600,1900,1900
+terrarystyka,bezkręgowce (inne),encja,/gatunki/krocionog-olbrzymi/,krocionóg olbrzymi,1000,,LOW,38,2025-12,2026-08,,880,720,1000,1000,880,720,880,880,1000,880,1000,1000,1000,1300,1300
+terrarystyka,bezkręgowce (inne),encja,/gatunki/rownonogi/,równonogi,720,,LOW,0,2025-10,2025-11,,720,590,480,480,2400,1000,590,480,590,590,590,590,480,720,590
 terrarystyka,bezkręgowce (inne),poradnik,/poradniki/krocionogi-hodowla/,krocionogi hodowla,70,0.02,LOW,13,2025-12,2025-10,,40,40,70,70,70,20,70,70,70,70,70,70,50,50,70
 terrarystyka,boa dusiciel,encja,/gatunki/boa-dusiciel/,boa dusiciel,5400,0.05,LOW,-48,2025-10,2026-05,,6600,18100,4400,4400,4400,4400,5400,5400,5400,5400,6600,4400,5400,5400,4400
 terrarystyka,boa dusiciel,encja,/gatunki/boa-dusiciel/,boa cesarski,1900,,LOW,23,2026-05,2026-03,,1600,1600,1600,1600,1900,1600,1900,1900,4400,1600,1300,1300,1600,2400,1900
@@ -119,40 +119,40 @@ terrarystyka,gekon płaczący,encja,/gatunki/gekon-placzacy/,gekon płaczący ce
 terrarystyka,gekon płaczący,poradnik,/poradniki/terrarium-dla-gekon-placzacy/,gekon płaczący terrarium,170,0.14,HIGH,-30,2026-07,2025-11,,170,170,260,210,260,170,210,210,210,170,140,140,110,140,170
 terrarystyka,gekon toke,encja,/gatunki/gekon-toke/,gekon toke,2900,0.04,LOW,0,2026-06,2025-11,toke gekon,2400,2900,2900,2900,4400,2900,2900,3600,2900,2900,2900,2400,2400,2900,2900
 terrarystyka,gekon toke,encja,/gatunki/gekon-toke/,gekon toke cena,260,0.01,LOW,-15,2026-06,2026-02,,170,260,170,210,260,210,320,390,390,260,210,170,170,170,170
-terrarystyka,gekony (inne),hub,/gekony-inne/,gekon,40500,0.09,LOW,-13,2026-06,2025-10,,33100,40500,33100,74000,40500,40500,33100,33100,33100,33100,33100,27100,27100,33100,33100
+terrarystyka,gekony (inne),hub,/gekony/,gekon,40500,0.09,LOW,-13,2026-06,2025-10,,33100,40500,33100,74000,40500,40500,33100,33100,33100,33100,33100,27100,27100,33100,33100
 terrarystyka,gekony (inne),poradnik,/poradniki/terrarium-dla-gekony-inne/,terrarium dla gekona,4400,0.14,HIGH,2,2026-06,2025-10,,3600,4400,4400,5400,5400,4400,5400,5400,4400,4400,3600,2900,2900,4400,5400
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon murowy,1600,0,LOW,0,2026-03,2025-10,,1000,1300,1300,6600,1900,880,720,590,480,590,590,1000,1000,1300,1300
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon madagaskarski,1600,0.04,LOW,-18,2026-06,2026-04,,1600,1900,1600,1900,1900,1600,1900,1600,1900,2900,1300,1000,1000,1600,1600
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon olbrzymi,1600,0.03,LOW,55,2025-10,2025-12,,1000,1300,1000,1300,1300,1900,1900,1900,1600,1600,1600,1300,1600,1600,1900
-terrarystyka,gekony (inne),hub,/gekony-inne/,gekon ceny,1300,0.02,LOW,-3,2026-06,2025-10,,1000,1300,1300,2400,1600,1300,1000,1000,1000,1300,1000,720,880,1300,1300
-terrarystyka,gekony (inne),hub,/gekony-inne/,gekon cena,1300,0.02,LOW,-3,2026-06,2025-10,,1000,1300,1300,2400,1600,1300,1000,1000,1000,1300,1000,720,880,1300,1300
-terrarystyka,gekony (inne),hub,/gekony-inne/,ile kosztuje gekon,1000,0.02,LOW,-8,2026-06,2025-10,,1000,1300,1300,1900,1300,1000,1000,1000,1000,1000,1000,720,720,1300,1300
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon williamsa,1000,0.04,LOW,10,2026-06,2026-04,,880,1000,1000,1000,1000,1000,1000,1000,1000,1300,1000,720,880,1000,1300
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon niebieski,1000,0.11,LOW,4,2026-06,2025-10,,880,1000,880,1000,1000,1000,1000,1000,1000,1000,1000,880,880,1000,1000
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon domowy,880,0.07,LOW,19,2026-06,2026-08,,720,880,720,880,880,720,880,880,880,880,720,590,880,1000,880
-terrarystyka,gekony (inne),encja,/gekony-inne/,ile żyje gekon,720,,LOW,-6,2025-12,2025-10,,720,880,720,880,720,590,720,880,720,720,720,590,590,720,880
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon omszały,720,0.02,LOW,50,2025-10,2025-12,,390,590,590,590,720,880,720,720,590,590,720,590,590,880,880
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon zielony,720,0.05,LOW,-18,2026-06,2025-10,,880,880,720,880,880,720,880,880,880,880,880,590,590,720,720
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon turecki,590,0.25,LOW,27,2026-03,2025-11,,480,880,590,390,1300,390,480,480,260,390,320,480,590,1000,880
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon różowy,590,0.03,LOW,24,2025-12,2026-09,,480,480,480,590,590,480,590,590,590,590,590,480,480,590,720
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon gruboogonowy,590,0.03,LOW,87,2025-12,2026-08,,390,390,480,590,590,390,590,720,480,720,480,480,590,880,880
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon szczekający,480,0.04,LOW,336,2025-12,2025-10,,90,140,210,1000,480,320,480,480,390,480,320,320,320,720,880
-terrarystyka,gekony (inne),encja,/gekony-inne/,co je gekon,390,,LOW,-5,2026-06,2025-10,,390,390,320,720,480,390,390,390,390,390,320,260,260,390,390
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon żmijowy,320,,LOW,6,2026-05,2026-09,,480,320,320,480,320,320,480,320,260,320,210,210,210,390,590
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon fałdoskóry,320,,LOW,-38,2025-11,2026-03,,390,480,390,320,260,260,320,260,390,320,320,260,260,260,260
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon chiński,320,,LOW,2,2026-05,2025-11,,260,320,260,320,390,390,390,320,260,260,210,210,210,260,390
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon liścioogonowy,320,,LOW,7,2026-05,2025-10,,260,320,260,590,390,320,320,320,320,320,260,260,260,320,320
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon czarny,260,0.01,LOW,-4,2026-06,2026-09,,260,320,320,320,260,260,320,260,320,320,210,170,210,260,390
-terrarystyka,gekony (inne),encja,/gekony-inne/,gekon dzienny,260,,LOW,-7,2026-06,2026-01,,210,210,260,210,320,260,390,320,260,260,210,170,210,210,210
+terrarystyka,gekony (inne),encja,/gatunki/gekon-murowy/,gekon murowy,1600,0,LOW,0,2026-03,2025-10,,1000,1300,1300,6600,1900,880,720,590,480,590,590,1000,1000,1300,1300
+terrarystyka,gekony (inne),encja,/gatunki/gekon-madagaskarski/,gekon madagaskarski,1600,0.04,LOW,-18,2026-06,2026-04,,1600,1900,1600,1900,1900,1600,1900,1600,1900,2900,1300,1000,1000,1600,1600
+terrarystyka,gekony (inne),encja,/gatunki/gekon-olbrzymi/,gekon olbrzymi,1600,0.03,LOW,55,2025-10,2025-12,,1000,1300,1000,1300,1300,1900,1900,1900,1600,1600,1600,1300,1600,1600,1900
+terrarystyka,gekony (inne),hub,/gekony/,gekon ceny,1300,0.02,LOW,-3,2026-06,2025-10,,1000,1300,1300,2400,1600,1300,1000,1000,1000,1300,1000,720,880,1300,1300
+terrarystyka,gekony (inne),hub,/gekony/,gekon cena,1300,0.02,LOW,-3,2026-06,2025-10,,1000,1300,1300,2400,1600,1300,1000,1000,1000,1300,1000,720,880,1300,1300
+terrarystyka,gekony (inne),hub,/gekony/,ile kosztuje gekon,1000,0.02,LOW,-8,2026-06,2025-10,,1000,1300,1300,1900,1300,1000,1000,1000,1000,1000,1000,720,720,1300,1300
+terrarystyka,gekony (inne),encja,/gatunki/gekon-williamsa/,gekon williamsa,1000,0.04,LOW,10,2026-06,2026-04,,880,1000,1000,1000,1000,1000,1000,1000,1000,1300,1000,720,880,1000,1300
+terrarystyka,gekony (inne),encja,/gatunki/gekon-niebieski/,gekon niebieski,1000,0.11,LOW,4,2026-06,2025-10,,880,1000,880,1000,1000,1000,1000,1000,1000,1000,1000,880,880,1000,1000
+terrarystyka,gekony (inne),encja,/gatunki/gekon-domowy/,gekon domowy,880,0.07,LOW,19,2026-06,2026-08,,720,880,720,880,880,720,880,880,880,880,720,590,880,1000,880
+terrarystyka,gekony (inne),encja,/gatunki/gekon/,ile żyje gekon,720,,LOW,-6,2025-12,2025-10,,720,880,720,880,720,590,720,880,720,720,720,590,590,720,880
+terrarystyka,gekony (inne),encja,/gatunki/gekon-omszaly/,gekon omszały,720,0.02,LOW,50,2025-10,2025-12,,390,590,590,590,720,880,720,720,590,590,720,590,590,880,880
+terrarystyka,gekony (inne),encja,/gatunki/gekon-zielony/,gekon zielony,720,0.05,LOW,-18,2026-06,2025-10,,880,880,720,880,880,720,880,880,880,880,880,590,590,720,720
+terrarystyka,gekony (inne),encja,/gatunki/gekon-turecki/,gekon turecki,590,0.25,LOW,27,2026-03,2025-11,,480,880,590,390,1300,390,480,480,260,390,320,480,590,1000,880
+terrarystyka,gekony (inne),encja,/gatunki/gekon-rozowy/,gekon różowy,590,0.03,LOW,24,2025-12,2026-09,,480,480,480,590,590,480,590,590,590,590,590,480,480,590,720
+terrarystyka,gekony (inne),encja,/gatunki/gekon-gruboogonowy/,gekon gruboogonowy,590,0.03,LOW,87,2025-12,2026-08,,390,390,480,590,590,390,590,720,480,720,480,480,590,880,880
+terrarystyka,gekony (inne),encja,/gatunki/gekon-szczekajacy/,gekon szczekający,480,0.04,LOW,336,2025-12,2025-10,,90,140,210,1000,480,320,480,480,390,480,320,320,320,720,880
+terrarystyka,gekony (inne),encja,/gatunki/gekon/,co je gekon,390,,LOW,-5,2026-06,2025-10,,390,390,320,720,480,390,390,390,390,390,320,260,260,390,390
+terrarystyka,gekony (inne),encja,/gatunki/gekon-zmijowy/,gekon żmijowy,320,,LOW,6,2026-05,2026-09,,480,320,320,480,320,320,480,320,260,320,210,210,210,390,590
+terrarystyka,gekony (inne),encja,/gatunki/gekon-faldoskory/,gekon fałdoskóry,320,,LOW,-38,2025-11,2026-03,,390,480,390,320,260,260,320,260,390,320,320,260,260,260,260
+terrarystyka,gekony (inne),encja,/gatunki/gekon-chinski/,gekon chiński,320,,LOW,2,2026-05,2025-11,,260,320,260,320,390,390,390,320,260,260,210,210,210,260,390
+terrarystyka,gekony (inne),encja,/gatunki/gekon-liscioogonowy/,gekon liścioogonowy,320,,LOW,7,2026-05,2025-10,,260,320,260,590,390,320,320,320,320,320,260,260,260,320,320
+terrarystyka,gekony (inne),encja,/gatunki/gekon-czarny/,gekon czarny,260,0.01,LOW,-4,2026-06,2026-09,,260,320,320,320,260,260,320,260,320,320,210,170,210,260,390
+terrarystyka,gekony (inne),encja,/gatunki/gekon-dzienny/,gekon dzienny,260,,LOW,-7,2026-06,2026-01,,210,210,260,210,320,260,390,320,260,260,210,170,210,210,210
 terrarystyka,inne,porównanie/ranking,/porownania/filtr-kubelkowy/,filtr kubełkowy,720,0.17,HIGH,-38,2026-07,2025-10,,880,720,720,1000,1000,880,1000,880,720,720,590,590,480,480,480
 terrarystyka,inne,hub,/inne/,zwierzęta terrarystyczne,260,0.43,LOW,0,2026-05,2025-10,,210,260,210,320,320,260,320,320,260,260,210,210,210,210,260
-terrarystyka,jaszczurki (ogólnie),hub,/jaszczurki-ogolnie/,jaszczurka domowa,1900,0.04,LOW,5,2025-10,2026-01,,1900,2400,1600,1900,1900,1900,2400,1900,2400,2400,2400,1900,1900,2400,1900
-terrarystyka,jaszczurki (ogólnie),hub,/jaszczurki-ogolnie/,jaszczurka hodowla,480,0.02,LOW,-17,2026-03,2025-10,,590,720,590,590,480,480,590,590,390,390,480,390,390,590,590
+terrarystyka,jaszczurki (ogólnie),hub,/jaszczurki/,jaszczurka domowa,1900,0.04,LOW,5,2025-10,2026-01,,1900,2400,1600,1900,1900,1900,2400,1900,2400,2400,2400,1900,1900,2400,1900
+terrarystyka,jaszczurki (ogólnie),hub,/jaszczurki/,jaszczurka hodowla,480,0.02,LOW,-17,2026-03,2025-10,,590,720,590,590,480,480,590,590,390,390,480,390,390,590,590
 terrarystyka,jaszczurki (ogólnie),poradnik,/poradniki/terrarium-dla-jaszczurki-ogolnie/,terrarium dla jaszczurek,480,0.09,HIGH,-28,2025-12,2025-10,terrarium dla jaszczurki,590,880,720,590,590,390,480,390,390,590,590,480,390,590,590
 terrarystyka,jaszczurki (ogólnie),poradnik,/poradniki/terrarium-dla-jaszczurki-ogolnie/,jaszczurka do terrarium,390,0.07,MEDIUM,-6,2026-04,2025-11,jaszczurki do terrarium,390,390,390,390,480,390,480,480,480,320,390,320,320,390,390
-terrarystyka,jaszczurki (ogólnie),hub,/jaszczurki-ogolnie/,ile kosztuje jaszczurka,390,0.01,LOW,-23,2026-06,2026-08,,480,590,480,390,320,320,390,320,390,390,390,260,320,480,390
+terrarystyka,jaszczurki (ogólnie),hub,/jaszczurki/,ile kosztuje jaszczurka,390,0.01,LOW,-23,2026-06,2026-08,,480,590,480,390,320,320,390,320,390,390,390,260,320,480,390
 terrarystyka,jaszczurki (ogólnie),porównanie/ranking,/porownania/jaszczurka-dla-poczatkujacych/,jaszczurka dla początkujących,260,0.01,LOW,-25,2026-06,2025-11,,260,390,260,260,320,260,320,260,260,260,260,170,210,210,260
-terrarystyka,jaszczurki (ogólnie),hub,/jaszczurki-ogolnie/,jaszczurka domowa cena,170,0.01,LOW,33,2025-10,2026-02,,110,140,110,140,140,170,170,210,210,170,170,140,140,170,170
+terrarystyka,jaszczurki (ogólnie),hub,/jaszczurki/,jaszczurka domowa cena,170,0.01,LOW,33,2025-10,2026-02,,110,140,110,140,140,170,170,210,210,170,170,140,140,170,170
 terrarystyka,kameleon jemeński,encja,/gatunki/kameleon-jemenski/,kameleon jemeński,2900,0.06,LOW,9,2026-06,2026-02,,2400,2900,2400,2900,2900,2900,2900,3600,2900,2900,2400,1900,1900,3600,2900
 terrarystyka,kameleon jemeński,encja,/gatunki/kameleon-jemenski/,kameleon jemeński cena,390,0.02,LOW,-6,2026-06,2025-10,,320,390,320,480,480,320,390,390,320,320,320,210,260,390,320
 terrarystyka,kameleony,encja,/gatunki/kameleony/,kameleon lamparci,2900,0.08,LOW,-14,2026-06,2026-04,,2400,3600,2400,2900,2900,2400,2900,2900,2900,3600,2900,1900,1900,2400,2900
@@ -280,20 +280,20 @@ terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski o
 terrarystyka,pyton królewski,poradnik,/poradniki/terrarium-dla-pyton-krolewski/,jakie terrarium dla pytona królewskiego,140,0.1,HIGH,0,2026-04,2025-11,,110,110,140,140,170,140,170,140,110,90,90,90,110,140,110
 terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski czarny,140,,LOW,-7,2026-08,2025-10,,140,140,140,170,140,140,170,140,140,140,140,140,140,110,140
 terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski piebald,140,,LOW,0,2026-04,2026-01,,140,140,170,140,170,110,210,140,140,90,90,90,140,170,140
-terrarystyka,pytony (inne),encja,/pytony-inne/,pyton siatkowy,6600,,LOW,49,2025-10,2026-09,,6600,4400,4400,4400,5400,5400,5400,5400,5400,4400,5400,8100,5400,5400,12100
-terrarystyka,pytony (inne),encja,/pytony-inne/,pyton birmański,5400,,LOW,374,2025-12,2026-01,,2400,1600,1300,1600,1600,1300,22200,1900,1600,1600,1600,1600,1600,22200,1300
-terrarystyka,pytony (inne),encja,/pytony-inne/,pyton zielony,1900,0.05,LOW,-6,2026-05,2026-01,,1900,1600,1900,1900,1900,1900,2400,1900,1900,1900,1600,1600,1600,1600,1900
-terrarystyka,pytony (inne),encja,/pytony-inne/,pyton dywanowy,720,,LOW,28,2026-04,2026-01,,590,720,590,720,720,720,1600,720,720,590,590,590,720,720,1000
-terrarystyka,pytony (inne),encja,/pytony-inne/,pyton skalny,480,,LOW,8,2026-03,2025-11,,720,390,320,390,590,480,590,480,320,480,390,390,480,590,480
-terrarystyka,pytony (inne),encja,/pytony-inne/,pyton krwisty,260,,LOW,-6,2026-03,2026-01,,320,320,260,320,260,260,390,260,170,320,170,260,320,210,320
-terrarystyka,pytony (inne),encja,/pytony-inne/,pyton zielony cena,260,,LOW,6,2026-05,2025-11,,170,210,260,260,320,210,320,320,210,210,170,170,210,210,260
-terrarystyka,pytony (inne),encja,/pytony-inne/,pyton siatkowy długość,210,,LOW,-50,2026-07,2025-10,,320,320,260,260,260,260,260,210,170,170,210,170,110,170,170
-terrarystyka,pytony (inne),encja,/pytony-inne/,pyton siatkowy cena,170,,LOW,67,2025-10,2026-07,,140,110,110,140,170,140,170,170,140,140,140,170,260,170,170
-terrarystyka,pytony (inne),encja,/pytony-inne/,pyton albinos,170,,LOW,-8,2026-03,2025-10,,170,210,140,170,170,170,170,170,140,170,170,170,170,170,140
-terrarystyka,pytony (inne),encja,/pytony-inne/,pyton bananowy,170,,LOW,-29,2026-09,2025-10,,90,210,260,210,170,170,210,210,170,170,110,110,170,140,90
-terrarystyka,pytony (inne),encja,/pytony-inne/,pyton psiogłowy,170,,LOW,41,2026-06,2025-10,,110,70,140,210,210,170,170,140,170,110,140,90,140,140,170
-terrarystyka,pytony (inne),hub,/pytony-inne/,pyton cena,140,,LOW,9,2025-10,2026-03,,90,110,140,90,140,140,170,170,210,210,140,90,170,110,90
-terrarystyka,pytony (inne),encja,/pytony-inne/,pyton ametystowy,140,,LOW,-26,2025-10,2026-02,,170,140,110,90,140,110,110,210,140,170,140,110,90,110,110
+terrarystyka,pytony (inne),encja,/gatunki/pyton-siatkowy/,pyton siatkowy,6600,,LOW,49,2025-10,2026-09,,6600,4400,4400,4400,5400,5400,5400,5400,5400,4400,5400,8100,5400,5400,12100
+terrarystyka,pytony (inne),encja,/gatunki/pyton-birmanski/,pyton birmański,5400,,LOW,374,2025-12,2026-01,,2400,1600,1300,1600,1600,1300,22200,1900,1600,1600,1600,1600,1600,22200,1300
+terrarystyka,pytony (inne),encja,/gatunki/pyton-zielony/,pyton zielony,1900,0.05,LOW,-6,2026-05,2026-01,,1900,1600,1900,1900,1900,1900,2400,1900,1900,1900,1600,1600,1600,1600,1900
+terrarystyka,pytony (inne),encja,/gatunki/pyton-dywanowy/,pyton dywanowy,720,,LOW,28,2026-04,2026-01,,590,720,590,720,720,720,1600,720,720,590,590,590,720,720,1000
+terrarystyka,pytony (inne),encja,/gatunki/pyton-skalny/,pyton skalny,480,,LOW,8,2026-03,2025-11,,720,390,320,390,590,480,590,480,320,480,390,390,480,590,480
+terrarystyka,pytony (inne),encja,/gatunki/pyton-krwisty/,pyton krwisty,260,,LOW,-6,2026-03,2026-01,,320,320,260,320,260,260,390,260,170,320,170,260,320,210,320
+terrarystyka,pytony (inne),encja,/gatunki/pyton-zielony/,pyton zielony cena,260,,LOW,6,2026-05,2025-11,,170,210,260,260,320,210,320,320,210,210,170,170,210,210,260
+terrarystyka,pytony (inne),encja,/gatunki/pyton-siatkowy/,pyton siatkowy długość,210,,LOW,-50,2026-07,2025-10,,320,320,260,260,260,260,260,210,170,170,210,170,110,170,170
+terrarystyka,pytony (inne),encja,/gatunki/pyton-siatkowy/,pyton siatkowy cena,170,,LOW,67,2025-10,2026-07,,140,110,110,140,170,140,170,170,140,140,140,170,260,170,170
+terrarystyka,pytony (inne),encja,/gatunki/pyton-albinos/,pyton albinos,170,,LOW,-8,2026-03,2025-10,,170,210,140,170,170,170,170,170,140,170,170,170,170,170,140
+terrarystyka,pytony (inne),encja,/gatunki/pyton-bananowy/,pyton bananowy,170,,LOW,-29,2026-09,2025-10,,90,210,260,210,170,170,210,210,170,170,110,110,170,140,90
+terrarystyka,pytony (inne),encja,/gatunki/pyton-psioglowy/,pyton psiogłowy,170,,LOW,41,2026-06,2025-10,,110,70,140,210,210,170,170,140,170,110,140,90,140,140,170
+terrarystyka,pytony (inne),hub,/pytony/,pyton cena,140,,LOW,9,2025-10,2026-03,,90,110,140,90,140,140,170,170,210,210,140,90,170,110,90
+terrarystyka,pytony (inne),encja,/gatunki/pyton-ametystowy/,pyton ametystowy,140,,LOW,-26,2025-10,2026-02,,170,140,110,90,140,110,110,210,140,170,140,110,90,110,110
 terrarystyka,scynki,encja,/gatunki/scynki/,scynk krokodylowy,2900,0.01,LOW,0,2026-07,2026-04,scynk krokodyli,1600,2900,1900,1900,2400,1900,1900,1900,5400,6600,2400,2900,1600,2400,2400
 terrarystyka,scynki,encja,/gatunki/scynki/,scynk olbrzymi,1600,0.01,LOW,87,2026-04,2026-09,,590,1900,880,1300,1300,1900,1600,1600,1300,1000,1000,1300,1000,2400,2900
 terrarystyka,scynki,encja,/gatunki/scynki/,scynk,1000,0.03,LOW,16,2026-07,2026-01,,590,1300,720,1000,1000,1000,1300,880,880,880,880,880,720,1000,1300
@@ -303,10 +303,10 @@ terrarystyka,scynki,encja,/gatunki/scynki/,scynk olbrzymi cena,170,0.03,LOW,78,2
 terrarystyka,skorpiony,encja,/gatunki/skorpiony/,skorpion cesarski,1000,0.2,LOW,10,2026-04,2026-01,,1000,1000,1000,1000,1000,1000,1300,1000,1000,880,880,880,1000,1000,1300
 terrarystyka,teju,encja,/gatunki/teju/,teju argentyński,2900,,LOW,-30,2025-10,2026-03,,2400,8100,2900,2900,2900,2900,2900,2900,3600,3600,3600,3600,2900,2900,3600
 terrarystyka,teju,encja,/gatunki/teju/,teju,720,1.15,LOW,-23,2026-07,2026-01,,720,880,720,590,720,590,1000,880,720,720,720,590,480,590,720
-terrarystyka,terrarium i sprzęt (ogólne),hub,/terrarium-i-sprzet-ogolne/,terrarium,9900,0.16,HIGH,-13,2026-06,2025-10,terrarystyka,8100,9900,8100,33100,9900,9900,9900,9900,8100,8100,8100,6600,6600,8100,8100
+terrarystyka,terrarium i sprzęt (ogólne),hub,/terrarium-i-sprzet/,terrarium,9900,0.16,HIGH,-13,2026-06,2025-10,terrarystyka,8100,9900,8100,33100,9900,9900,9900,9900,8100,8100,8100,6600,6600,8100,8100
 terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/mata-grzewcza/,mata grzewcza,6600,0.76,HIGH,-10,2026-07,2026-01,,3600,4400,6600,8100,9900,8100,14800,9900,6600,5400,4400,3600,2900,3600,6600
 terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/mata-grzewcza-do-terrarium/,mata grzewcza do terrarium,1900,0.21,HIGH,4,2026-06,2026-01,,1000,1600,1900,2400,2400,2400,2900,2400,1600,1600,1300,1000,1000,1300,2400
-terrarystyka,terrarium i sprzęt (ogólne),hub,/terrarium-i-sprzet-ogolne/,zwierzęta egzotyczne,1900,0.07,LOW,-28,2026-08,2026-02,,1000,1300,1300,1900,1900,1600,2400,4400,2400,2400,2400,1900,880,720,1000
+terrarystyka,terrarium i sprzęt (ogólne),hub,/terrarium-i-sprzet/,zwierzęta egzotyczne,1900,0.07,LOW,-28,2026-08,2026-02,,1000,1300,1300,1900,1900,1600,2400,4400,2400,2400,2400,1900,880,720,1000
 terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/lampa-uvb/,lampa uvb,1000,0.29,HIGH,-21,2026-06,2025-12,,880,880,1000,1300,1300,1600,1300,1300,1000,880,880,590,590,720,880
 terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/rosliny-do-terrarium/,rośliny do terrarium,880,0.2,HIGH,22,2026-05,2026-01,,720,590,720,880,880,880,1000,1000,1000,880,590,590,720,880,880
 terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/terrarium-80x40/,terrarium 80x40,880,0.15,HIGH,19,2026-06,2026-01,terrarium 80x40x40,480,880,720,720,880,880,1000,880,880,720,720,590,720,880,880
@@ -327,7 +327,7 @@ terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/terra
 terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/terrarium-szklane/,terrarium szklane,480,0.25,HIGH,8,2026-06,2026-01,,390,390,390,480,480,480,590,480,390,480,390,320,390,390,480
 terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/korzenie-do-terrarium/,korzenie do terrarium,390,0.13,HIGH,-12,2026-05,2026-01,korzeń do terrarium,320,390,390,390,390,390,590,590,390,320,260,260,260,320,390
 terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/wodospad-do-terrarium/,wodospad do terrarium,390,0.11,HIGH,-18,2026-06,2026-01,,390,390,390,390,390,390,480,480,480,390,320,260,320,320,320
-terrarystyka,terrarium i sprzęt (ogólne),hub,/terrarium-i-sprzet-ogolne/,gady domowe,390,0.02,LOW,-12,2026-09,2026-01,,390,390,320,390,390,320,590,480,480,480,320,320,320,390,260
+terrarystyka,terrarium i sprzęt (ogólne),hub,/terrarium-i-sprzet/,gady domowe,390,0.02,LOW,-12,2026-09,2026-01,,390,390,320,390,390,320,590,480,480,480,320,320,320,390,260
 terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/terrarium-20x20x30/,terrarium 20x20x30,390,0.19,HIGH,14,2026-05,2025-12,,320,480,320,390,390,480,390,390,390,390,320,320,320,480,480
 terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/lampa-uvb-do-terrarium/,lampa uvb do terrarium,260,0.24,HIGH,-12,2026-07,2026-01,,210,260,260,320,320,320,390,390,320,260,260,210,170,210,260
 terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/higrometr-do-terrarium/,higrometr do terrarium,260,0.23,HIGH,-6,2026-05,2025-10,,260,260,320,320,320,320,320,320,320,260,210,210,210,260,320
@@ -368,12 +368,12 @@ terrarystyka,żaba rogata,encja,/gatunki/zaba-rogata/,rogatka,4400,0.18,LOW,26,2
 terrarystyka,żaba rogata,encja,/gatunki/zaba-rogata/,żaba rogata,2900,0.02,LOW,22,2025-11,2025-10,,2400,2900,2400,3600,2900,2900,2900,2900,3600,3600,2900,2900,2900,2900,3600
 terrarystyka,żaba rogata,encja,/gatunki/zaba-rogata/,żaba rogata cena,210,0.03,LOW,-3,2026-07,2026-04,,170,210,210,210,210,260,210,210,260,320,210,210,140,170,260
 terrarystyka,żaba rogata,poradnik,/poradniki/terrarium-dla-zaba-rogata/,żaba rogata terrarium,140,0.15,LOW,3,2026-02,2026-03,,110,140,140,110,140,110,110,90,170,170,110,140,90,170,140
-terrarystyka,żaby (inne),encja,/zaby-inne/,drzewołazy,2400,0.15,HIGH,0,2026-06,2026-03,drzewołaz,1900,1900,1900,2400,2900,2400,2900,2900,3600,2900,2900,1900,1900,1900,1900
-terrarystyka,żaby (inne),encja,/zaby-inne/,żaba do akwarium,480,0.43,LOW,0,2026-05,2025-12,,390,320,320,480,480,590,590,480,480,480,320,320,320,320,390
-terrarystyka,żaby (inne),encja,/zaby-inne/,żaba hodowlana,480,0.02,LOW,-12,2026-07,2025-10,,480,590,590,590,590,480,590,480,480,590,480,480,390,590,480
-terrarystyka,żaby (inne),encja,/zaby-inne/,żaba szponiasta,480,,LOW,-1,2025-12,2025-10,,390,390,590,590,590,390,480,480,590,590,390,390,390,480,480
+terrarystyka,żaby (inne),encja,/gatunki/drzewolazy/,drzewołazy,2400,0.15,HIGH,0,2026-06,2026-03,drzewołaz,1900,1900,1900,2400,2900,2400,2900,2900,3600,2900,2900,1900,1900,1900,1900
+terrarystyka,żaby (inne),encja,/gatunki/zaba-do-akwarium/,żaba do akwarium,480,0.43,LOW,0,2026-05,2025-12,,390,320,320,480,480,590,590,480,480,480,320,320,320,320,390
+terrarystyka,żaby (inne),encja,/gatunki/zaba-hodowlana/,żaba hodowlana,480,0.02,LOW,-12,2026-07,2025-10,,480,590,590,590,590,480,590,480,480,590,480,480,390,590,480
+terrarystyka,żaby (inne),encja,/gatunki/zaba-szponiasta/,żaba szponiasta,480,,LOW,-1,2025-12,2025-10,,390,390,590,590,590,390,480,480,590,590,390,390,390,480,480
 terrarystyka,żaby (inne),poradnik,/poradniki/terrarium-dla-zaby-inne/,żaba do terrarium,320,0.07,LOW,15,2026-06,2026-01,,260,260,260,320,320,320,390,390,390,320,320,260,260,320,320
-terrarystyka,żaby (inne),encja,/zaby-inne/,drzewołaz żaba,210,0.07,LOW,-13,2026-07,2025-10,drzewołazy żaba | żaba drzewołaz,140,210,170,260,210,260,260,260,260,260,210,170,140,140,170
+terrarystyka,żaby (inne),encja,/gatunki/drzewolaz-zaba/,drzewołaz żaba,210,0.07,LOW,-13,2026-07,2025-10,drzewołazy żaba | żaba drzewołaz,140,210,170,260,210,260,260,260,260,260,210,170,140,140,170
 terrarystyka,żółw grecki,encja,/gatunki/zolw-grecki/,żółw grecki,6600,0.11,LOW,-29,2026-06,2025-10,,8100,9900,8100,8100,8100,6600,8100,6600,6600,6600,6600,5400,6600,6600,5400
 terrarystyka,żółw grecki,encja,/gatunki/zolw-grecki/,żółw grecki cena,880,0.02,LOW,-14,2026-04,2026-01,,1000,1000,880,880,880,880,1000,880,880,720,880,720,880,880,720
 terrarystyka,żółw grecki,encja,/gatunki/zolw-grecki/,żółw grecki ile żyje,480,0.16,LOW,-6,2026-06,2025-12,ile żyje żółw grecki,480,590,480,480,480,590,590,480,480,480,480,390,480,590,390
@@ -384,37 +384,37 @@ terrarystyka,żółw stepowy,encja,/gatunki/zolw-stepowy/,żółw stepowy ile ż
 terrarystyka,żółw stepowy,poradnik,/poradniki/terrarium-dla-zolw-stepowy/,terrarium dla żółwia stepowego,320,0.16,HIGH,-12,2026-06,2025-10,,390,390,390,480,390,320,320,320,320,390,320,260,320,320,390
 terrarystyka,żółw stepowy,encja,/gatunki/zolw-stepowy/,żółw stepowy gdzie kupić,210,0,LOW,-14,2026-06,2026-03,,140,210,210,170,210,170,260,260,320,260,210,140,140,170,170
 terrarystyka,żółw stepowy,poradnik,/poradniki/terrarium-dla-zolw-stepowy/,żółw stepowy terrarium,170,0.08,HIGH,-24,2026-06,2025-10,,170,210,210,210,210,170,210,210,210,210,210,140,140,140,170
-terrarystyka,żółwie (ogólnie),hub,/zolwie-ogolnie/,żółw lądowy,2900,0.05,LOW,7,2025-10,2026-01,,2400,2400,1900,2400,2400,2900,3600,2900,2900,2900,2900,2400,2400,2400,2400
-terrarystyka,żółwie (ogólnie),hub,/zolwie-ogolnie/,żółw wodno lądowy,2900,0.1,LOW,-24,2026-06,2025-10,,3600,3600,3600,3600,3600,3600,3600,2900,2900,2900,2900,2400,2400,2900,2900
-terrarystyka,żółwie (ogólnie),hub,/zolwie-ogolnie/,żółw wodno-lądowy,2900,0.1,LOW,-24,2026-06,2025-10,,3600,3600,3600,3600,3600,3600,3600,2900,2900,2900,2900,2400,2400,2900,2900
+terrarystyka,żółwie (ogólnie),hub,/zolwie/,żółw lądowy,2900,0.05,LOW,7,2025-10,2026-01,,2400,2400,1900,2400,2400,2900,3600,2900,2900,2900,2900,2400,2400,2400,2400
+terrarystyka,żółwie (ogólnie),hub,/zolwie/,żółw wodno lądowy,2900,0.1,LOW,-24,2026-06,2025-10,,3600,3600,3600,3600,3600,3600,3600,2900,2900,2900,2900,2400,2400,2900,2900
+terrarystyka,żółwie (ogólnie),hub,/zolwie/,żółw wodno-lądowy,2900,0.1,LOW,-24,2026-06,2025-10,,3600,3600,3600,3600,3600,3600,3600,2900,2900,2900,2900,2400,2400,2900,2900
 terrarystyka,żółwie (ogólnie),poradnik,/poradniki/terrarium-dla-zolwie-ogolnie/,terrarium dla żółwia,2400,0.11,HIGH,-18,2026-06,2025-10,,2400,2900,2900,2900,2900,2400,2900,2400,2400,2400,1900,1600,1900,2400,2400
-terrarystyka,żółwie (ogólnie),hub,/zolwie-ogolnie/,żółw wodny,1900,0.07,LOW,-29,2026-08,2025-10,,2400,2400,2400,2400,2400,1900,1900,1900,2400,1900,1900,1900,1900,1600,1600
-terrarystyka,żółwie (ogólnie),encja,/zolwie-ogolnie/,żółw jaszczurowaty,1900,,LOW,9,2025-10,2026-07,,1900,1900,1600,1600,1600,1600,1900,1900,1900,1900,1600,1900,2400,1900,1600
+terrarystyka,żółwie (ogólnie),hub,/zolwie/,żółw wodny,1900,0.07,LOW,-29,2026-08,2025-10,,2400,2400,2400,2400,2400,1900,1900,1900,2400,1900,1900,1900,1900,1600,1600
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-jaszczurowaty/,żółw jaszczurowaty,1900,,LOW,9,2025-10,2026-07,,1900,1900,1600,1600,1600,1600,1900,1900,1900,1900,1600,1900,2400,1900,1600
 terrarystyka,żółwie (ogólnie),poradnik,/poradniki/akwarium-dla-zolwia/,akwarium dla żółwia,1600,0.07,HIGH,-16,2026-04,2025-10,,1900,1900,1900,1900,1900,1900,1900,1900,1600,1300,1300,1300,1600,1600,1600
-terrarystyka,żółwie (ogólnie),encja,/zolwie-ogolnie/,żółw lamparci,1600,0.23,LOW,31,2026-01,2026-07,,1900,1900,1600,1600,1600,1600,1300,1300,1300,1300,1300,1300,3600,1900,1600
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-lamparci/,żółw lamparci,1600,0.23,LOW,31,2026-01,2026-07,,1900,1900,1600,1600,1600,1600,1300,1300,1300,1300,1300,1300,3600,1900,1600
 terrarystyka,żółwie (ogólnie),poradnik,/poradniki/akwarium-dla-zolwia-wodno-ladowego/,akwarium dla żółwia wodno-lądowego,1000,0.06,HIGH,20,2025-10,2026-01,,880,1000,880,880,880,1000,1300,1000,1000,1000,1000,880,1000,1000,1300
 terrarystyka,żółwie (ogólnie),poradnik,/poradniki/akwarium-dla-zolwia-wodno-ladowego/,akwarium dla żółwia wodno lądowego,1000,0.06,HIGH,20,2025-10,2026-01,,880,1000,880,880,880,1000,1300,1000,1000,1000,1000,880,1000,1000,1300
-terrarystyka,żółwie (ogólnie),hub,/zolwie-ogolnie/,żółw cena,1000,0.02,LOW,-20,2026-06,2025-10,,1000,1300,1000,1000,1000,1000,1000,1000,1000,1000,1000,880,880,880,880
-terrarystyka,żółwie (ogólnie),encja,/zolwie-ogolnie/,żółw pustynny,1000,,LOW,-36,2026-08,2026-06,,1000,1300,1300,1000,1300,1000,1000,1300,1000,1000,1000,2400,880,720,720
+terrarystyka,żółwie (ogólnie),hub,/zolwie/,żółw cena,1000,0.02,LOW,-20,2026-06,2025-10,,1000,1300,1000,1000,1000,1000,1000,1000,1000,1000,1000,880,880,880,880
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-pustynny/,żółw pustynny,1000,,LOW,-36,2026-08,2026-06,,1000,1300,1300,1000,1300,1000,1000,1300,1000,1000,1000,2400,880,720,720
 terrarystyka,żółwie (ogólnie),poradnik,/poradniki/terrarium-dla-zolwie-ogolnie/,terrarium dla żółwia lądowego,880,0.13,HIGH,-17,2026-06,2026-01,,1000,1000,1000,880,720,880,1000,880,880,880,880,590,720,880,880
-terrarystyka,żółwie (ogólnie),encja,/zolwie-ogolnie/,żółw lądowy cena,880,0.04,LOW,-36,2026-06,2025-10,,1300,1300,1000,1000,1000,1000,1000,880,880,880,880,590,720,880,720
-terrarystyka,żółwie (ogólnie),encja,/zolwie-ogolnie/,żółw hieroglifowy,720,0.01,LOW,-11,2026-07,2025-11,,590,720,590,720,880,880,880,590,590,590,720,480,390,720,590
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-ladowy/,żółw lądowy cena,880,0.04,LOW,-36,2026-06,2025-10,,1300,1300,1000,1000,1000,1000,1000,880,880,880,880,590,720,880,720
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-hieroglifowy/,żółw hieroglifowy,720,0.01,LOW,-11,2026-07,2025-11,,590,720,590,720,880,880,880,590,590,590,720,480,390,720,590
 terrarystyka,żółwie (ogólnie),poradnik,/poradniki/terrarium-dla-zolwie-ogolnie/,terrarium dla żółwia wodno-lądowego,590,0.06,HIGH,-23,2026-06,2025-10,,720,720,720,880,720,720,880,720,590,590,590,480,480,590,590
 terrarystyka,żółwie (ogólnie),poradnik,/poradniki/terrarium-dla-zolwie-ogolnie/,terrarium dla żółwia wodno lądowego,590,0.06,HIGH,-23,2026-06,2025-10,,720,720,720,880,720,720,880,720,590,590,590,480,480,590,590
-terrarystyka,żółwie (ogólnie),encja,/zolwie-ogolnie/,żółw obrzeżony,590,,LOW,-1,2026-06,2026-01,,590,720,480,590,590,720,880,590,590,590,590,480,590,590,590
-terrarystyka,żółwie (ogólnie),encja,/zolwie-ogolnie/,żółw do domu,590,0.05,MEDIUM,-18,2025-12,2025-10,,590,720,720,720,590,480,720,590,480,590,480,480,480,590,590
-terrarystyka,żółwie (ogólnie),encja,/zolwie-ogolnie/,żółw wonny,590,,LOW,31,2025-10,2025-11,,480,480,390,480,590,480,480,590,590,590,590,480,590,590,590
-terrarystyka,żółwie (ogólnie),encja,/zolwie-ogolnie/,żółw mata mata,480,,LOW,51,2026-09,2026-04,,210,260,260,590,390,480,480,480,480,880,480,480,390,390,320
-terrarystyka,żółwie (ogólnie),encja,/zolwie-ogolnie/,żółw lądowy domowy,480,0.06,LOW,-38,2026-06,2025-11,,720,880,720,590,720,480,480,480,480,480,480,390,480,480,480
-terrarystyka,żółwie (ogólnie),encja,/zolwie-ogolnie/,żółw wodno-lądowy cena,480,0.04,LOW,-38,2026-06,2025-10,,720,720,590,590,480,480,590,590,590,590,480,390,390,480,390
-terrarystyka,żółwie (ogólnie),encja,/zolwie-ogolnie/,żółw matamata,480,,LOW,51,2026-09,2026-04,,210,260,260,590,390,480,480,480,480,880,480,480,390,390,320
-terrarystyka,żółwie (ogólnie),encja,/zolwie-ogolnie/,żółw wodno lądowy cena,480,0.04,LOW,-38,2026-06,2025-10,,720,720,590,590,480,480,590,590,590,590,480,390,390,480,390
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-obrzezony/,żółw obrzeżony,590,,LOW,-1,2026-06,2026-01,,590,720,480,590,590,720,880,590,590,590,590,480,590,590,590
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-do-domu/,żółw do domu,590,0.05,MEDIUM,-18,2025-12,2025-10,,590,720,720,720,590,480,720,590,480,590,480,480,480,590,590
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-wonny/,żółw wonny,590,,LOW,31,2025-10,2025-11,,480,480,390,480,590,480,480,590,590,590,590,480,590,590,590
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-mata-mata/,żółw mata mata,480,,LOW,51,2026-09,2026-04,,210,260,260,590,390,480,480,480,480,880,480,480,390,390,320
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-ladowy-domowy/,żółw lądowy domowy,480,0.06,LOW,-38,2026-06,2025-11,,720,880,720,590,720,480,480,480,480,480,480,390,480,480,480
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-wodno-ladowy/,żółw wodno-lądowy cena,480,0.04,LOW,-38,2026-06,2025-10,,720,720,590,590,480,480,590,590,590,590,480,390,390,480,390
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-matamata/,żółw matamata,480,,LOW,51,2026-09,2026-04,,210,260,260,590,390,480,480,480,480,880,480,480,390,390,320
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-wodno-ladowy/,żółw wodno lądowy cena,480,0.04,LOW,-38,2026-06,2025-10,,720,720,590,590,480,480,590,590,590,590,480,390,390,480,390
 terrarystyka,żółwie (ogólnie),poradnik,/poradniki/hibernacja-zolwia/,hibernacja żółwia,70,,LOW,-48,2026-06,2025-11,,70,70,110,110,140,110,140,70,90,70,40,30,70,30,30
 terrarystyka,żółwie (ogólnie),poradnik,/poradniki/zimowanie-zolwia/,zimowanie żółwia,20,,LOW,-60,2026-04,2025-12,,50,20,30,20,20,30,20,30,20,10,20,10,10,10,20
-akwarystyka,akwarium (ogólne),hub,/akwarium-ogolne/,akwarium,27100,0.11,HIGH,-12,2026-06,2025-11,,27100,27100,27100,27100,33100,27100,33100,33100,27100,22200,22200,18100,27100,22200,22200
-akwarystyka,akwarium (ogólne),hub,/akwarium-ogolne/,ryba do akwarium,6600,0.44,LOW,-18,2026-06,2026-01,,5400,6600,6600,8100,8100,8100,9900,8100,6600,6600,5400,4400,4400,5400,5400
-akwarystyka,akwarium (ogólne),hub,/akwarium-ogolne/,ryby do akwarium,6600,0.44,LOW,-18,2026-06,2026-01,,5400,6600,6600,8100,8100,8100,9900,8100,6600,6600,5400,4400,4400,5400,5400
-akwarystyka,akwarium (ogólne),hub,/akwarium-ogolne/,rybki do akwarium,6600,0.44,LOW,-18,2026-06,2026-01,,5400,6600,6600,8100,8100,8100,9900,8100,6600,6600,5400,4400,4400,5400,5400
+akwarystyka,akwarium (ogólne),hub,/akwarium/,akwarium,27100,0.11,HIGH,-12,2026-06,2025-11,,27100,27100,27100,27100,33100,27100,33100,33100,27100,22200,22200,18100,27100,22200,22200
+akwarystyka,akwarium (ogólne),hub,/akwarium/,ryba do akwarium,6600,0.44,LOW,-18,2026-06,2026-01,,5400,6600,6600,8100,8100,8100,9900,8100,6600,6600,5400,4400,4400,5400,5400
+akwarystyka,akwarium (ogólne),hub,/akwarium/,ryby do akwarium,6600,0.44,LOW,-18,2026-06,2026-01,,5400,6600,6600,8100,8100,8100,9900,8100,6600,6600,5400,4400,4400,5400,5400
+akwarystyka,akwarium (ogólne),hub,/akwarium/,rybki do akwarium,6600,0.44,LOW,-18,2026-06,2026-01,,5400,6600,6600,8100,8100,8100,9900,8100,6600,6600,5400,4400,4400,5400,5400
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/filtry-do-akwarium/,filtry do akwarium,5400,0.2,HIGH,-13,2026-06,2026-01,filtr do akwarium,4400,4400,5400,5400,6600,6600,8100,6600,5400,5400,4400,3600,3600,4400,4400
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/rosliny-do-akwarium/,rośliny do akwarium,5400,0.25,HIGH,-12,2026-06,2026-01,,3600,4400,4400,5400,6600,6600,8100,8100,5400,5400,3600,2900,2900,3600,4400
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-200l/,akwarium 200l,4400,0.11,HIGH,-7,2026-06,2026-01,,2900,3600,3600,4400,5400,5400,6600,6600,4400,4400,3600,2900,2900,2900,3600
@@ -426,7 +426,7 @@ akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/odmulacze-do-akwa
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/grzalka-do-akwarium/,grzałka do akwarium,2900,0.16,HIGH,-5,2026-06,2026-01,grzałki do akwarium,1600,1900,2900,3600,3600,3600,5400,4400,2900,2900,1900,1300,1600,1600,2900
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/kamien-do-akwarium/,kamień do akwarium,1900,0.16,HIGH,-12,2026-06,2026-01,kamienie do akwarium,1300,1600,1900,1900,2400,2400,2900,2400,1900,1900,1300,1000,1300,1300,1600
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-30l/,akwarium 30l,1900,0.1,HIGH,7,2026-06,2026-01,,1300,1600,1600,1600,1900,1900,2400,2400,1900,1900,1600,1300,1300,1600,1900
-akwarystyka,akwarium (ogólne),hub,/akwarium-ogolne/,akwarium dla rybek,1600,0.11,HIGH,-12,2026-06,2026-01,,1600,1900,1600,1600,1900,1900,2400,1900,1600,1300,1300,880,1300,1600,1600
+akwarystyka,akwarium (ogólne),hub,/akwarium/,akwarium dla rybek,1600,0.11,HIGH,-12,2026-06,2026-01,,1600,1900,1600,1600,1900,1900,2400,1900,1600,1300,1300,880,1300,1600,1600
 akwarystyka,akwarium (ogólne),poradnik,/poradniki/ospa-rybia/,ospa rybia,1600,0.14,LOW,-15,2026-06,2025-12,,1300,1000,1300,1900,1900,2400,2400,1900,2400,1900,1600,880,880,880,1300
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/podloza-do-akwarium/,podłoża do akwarium,1600,0.17,HIGH,-24,2026-06,2026-01,podłoże do akwarium,1000,1600,1600,1900,2400,2400,2900,2400,1900,1600,1000,880,880,1000,1300
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/filtr-zewnetrzny-do-akwarium/,filtr zewnętrzny do akwarium,1600,0.21,HIGH,-21,2026-06,2025-11,,1300,1300,1600,1900,2400,2400,2400,2400,1900,1600,1300,1000,1000,1000,1300
@@ -435,15 +435,15 @@ akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/lampy-do-akwarium
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/male-akwarium/,małe akwarium,1600,0.08,HIGH,-17,2026-06,2025-11,,1300,1600,1300,1600,1900,1900,1900,1900,1600,1300,1000,880,880,1300,1300
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/piasek-do-akwarium/,piasek do akwarium,1600,0.21,HIGH,-15,2026-06,2026-01,,1300,1300,1300,1600,1900,1900,2400,1900,1600,1600,1000,880,1000,1000,1300
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/lampa-do-akwarium/,lampa do akwarium,1600,0.16,HIGH,-20,2026-06,2025-11,,1300,1600,1600,1900,2400,2400,2400,2400,1600,1600,1300,1000,1000,1300,1300
-akwarystyka,akwarium (ogólne),hub,/akwarium-ogolne/,rybki do akwarium domowego,1300,0.52,LOW,25,2026-06,2026-01,,880,1000,1000,1300,1300,1300,1600,1600,1000,1000,1000,880,1000,1300,1300
-akwarystyka,akwarium (ogólne),hub,/akwarium-ogolne/,ryby do akwarium domowego,1300,0.52,LOW,25,2026-06,2026-01,,880,1000,1000,1300,1300,1300,1600,1600,1000,1000,1000,880,1000,1300,1300
+akwarystyka,akwarium (ogólne),hub,/akwarium/,rybki do akwarium domowego,1300,0.52,LOW,25,2026-06,2026-01,,880,1000,1000,1300,1300,1300,1600,1600,1000,1000,1000,880,1000,1300,1300
+akwarystyka,akwarium (ogólne),hub,/akwarium/,ryby do akwarium domowego,1300,0.52,LOW,25,2026-06,2026-01,,880,1000,1000,1300,1300,1300,1600,1600,1000,1000,1000,880,1000,1300,1300
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-300l/,akwarium 300l,1300,0.11,HIGH,-4,2026-06,2026-01,,1000,1000,1000,1600,1900,1900,2400,1900,1600,1300,1000,880,880,1000,1000
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-na-wymiar/,akwarium na wymiar,1300,0.35,HIGH,6,2026-06,2026-01,,720,1000,1000,1300,1600,1600,1900,1600,1300,1000,880,720,880,1000,1000
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-120l/,akwarium 120l,1300,0.13,HIGH,-6,2026-06,2026-01,,880,1000,1000,1300,1600,1600,1900,1600,1300,1000,880,720,720,1000,1000
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-20l/,akwarium 20l,1300,0.09,HIGH,16,2026-06,2026-01,,1000,1000,1000,1300,1300,1600,1900,1900,1600,1300,1000,880,880,1300,1300
-akwarystyka,akwarium (ogólne),hub,/akwarium-ogolne/,ryby w akwarium,1000,0.11,MEDIUM,-22,2026-07,2025-11,,1300,880,1000,1300,1600,1300,1300,1600,1300,1000,1000,880,720,880,880
-akwarystyka,akwarium (ogólne),hub,/akwarium-ogolne/,rybki w akwarium,1000,0.11,MEDIUM,-22,2026-07,2025-11,,1300,880,1000,1300,1600,1300,1300,1600,1300,1000,1000,880,720,880,880
-akwarystyka,akwarium (ogólne),hub,/akwarium-ogolne/,ryba w akwarium,1000,0.11,MEDIUM,-22,2026-07,2025-11,,1300,880,1000,1300,1600,1300,1300,1600,1300,1000,1000,880,720,880,880
+akwarystyka,akwarium (ogólne),hub,/akwarium/,ryby w akwarium,1000,0.11,MEDIUM,-22,2026-07,2025-11,,1300,880,1000,1300,1600,1300,1300,1600,1300,1000,1000,880,720,880,880
+akwarystyka,akwarium (ogólne),hub,/akwarium/,rybki w akwarium,1000,0.11,MEDIUM,-22,2026-07,2025-11,,1300,880,1000,1300,1600,1300,1300,1600,1300,1000,1000,880,720,880,880
+akwarystyka,akwarium (ogólne),hub,/akwarium/,ryba w akwarium,1000,0.11,MEDIUM,-22,2026-07,2025-11,,1300,880,1000,1300,1600,1300,1300,1600,1300,1000,1000,880,720,880,880
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-50l/,akwarium 50l,1000,0.14,HIGH,-6,2026-06,2025-11,,880,880,880,1000,1300,1000,1300,1300,1000,880,880,590,720,880,880
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-40-l/,akwarium 40 l,1000,0.12,HIGH,0,2026-06,2026-01,,720,880,1000,1000,1300,1300,1600,1300,1000,880,720,590,720,880,1000
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/filtry-do-akwarium-60l/,filtry do akwarium 60l,1000,0.21,HIGH,6,2026-06,2026-01,filtr do akwarium 60l,720,720,880,1000,1000,1000,1300,1300,1000,880,720,590,590,880,1000
@@ -452,9 +452,9 @@ akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/podloze-aktywne-d
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-25l/,akwarium 25l,1000,0.11,HIGH,-6,2026-06,2025-11,,880,880,880,1000,1300,1000,1300,1300,1000,1000,720,590,720,880,880
 akwarystyka,akwarium (ogólne),poradnik,/poradniki/glony-w-akwarium/,glony w akwarium,880,0.09,HIGH,-36,2026-06,2026-01,,880,880,1000,1000,1000,1000,1300,1300,1300,1000,880,590,590,590,590
 akwarystyka,akwarium (ogólne),poradnik,/poradniki/rosliny-plywajace-do-akwarium/,rośliny pływające do akwarium,880,0.13,HIGH,1,2026-07,2026-01,,590,590,590,720,1000,880,1300,1300,880,880,720,590,480,590,720
-akwarystyka,akwarium (ogólne),hub,/akwarium-ogolne/,kolorowe rybki do akwarium,880,0.48,LOW,-33,2026-06,2025-10,,880,880,880,1000,880,1000,1000,1000,880,720,590,480,590,590,590
-akwarystyka,akwarium (ogólne),hub,/akwarium-ogolne/,kolorowe ryby do akwarium,880,0.48,LOW,-33,2026-06,2025-10,,880,880,880,1000,880,1000,1000,1000,880,720,590,480,590,590,590
-akwarystyka,akwarium (ogólne),hub,/akwarium-ogolne/,akwarium z rybkami,880,0.06,HIGH,-18,2026-05,2025-11,,720,880,880,1000,1300,1000,1000,1000,880,720,590,590,590,720,720
+akwarystyka,akwarium (ogólne),hub,/akwarium/,kolorowe rybki do akwarium,880,0.48,LOW,-33,2026-06,2025-10,,880,880,880,1000,880,1000,1000,1000,880,720,590,480,590,590,590
+akwarystyka,akwarium (ogólne),hub,/akwarium/,kolorowe ryby do akwarium,880,0.48,LOW,-33,2026-06,2025-10,,880,880,880,1000,880,1000,1000,1000,880,720,590,480,590,590,590
+akwarystyka,akwarium (ogólne),hub,/akwarium/,akwarium z rybkami,880,0.06,HIGH,-18,2026-05,2025-11,,720,880,880,1000,1300,1000,1000,1000,880,720,590,590,590,720,720
 akwarystyka,akwarium (ogólne),poradnik,/poradniki/rosliny-w-akwarium/,rośliny w akwarium,880,0.08,HIGH,8,2026-08,2026-04,,210,210,210,260,260,260,320,480,480,8100,390,480,260,210,210
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-500l/,akwarium 500l,880,0.14,HIGH,-6,2026-06,2025-11,,590,720,720,1000,1300,1000,1300,1000,720,720,720,590,590,590,720
 akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-10l/,akwarium 10l,880,0.09,HIGH,-26,2026-06,2026-01,,880,1000,720,1000,1000,1000,1300,1000,880,880,720,480,480,720,720

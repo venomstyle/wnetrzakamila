@@ -1,21 +1,21 @@
-fraza,wolumen,ai_overview,aio_cytuje,mediana_domen_linkujacych_url,url_z_lt10_domenami,stare_przed_2023,fora_pdf,najczestszy_typ,drugi_typ,nowa_domena_wejdzie_6_12m,mediana_dom_link_domeny_top10,mediana_bez_platform,wyniki_domena_lt200_bez_platform
-aksolotl,60500,nie,,0.0,10,4,0,poradnik/blog (często blog sklepu) (3),wideo/social (3),TAK,9886.5,126,3
-gekon lamparci,27100,nie,,0.0,10,1,0,poradnik/blog (często blog sklepu) (6),marketplace (1),TAK,1152.5,563,3
-agama brodata,27100,nie,,0.0,9,0,1,poradnik/blog (często blog sklepu) (5),wideo/social (2),TAK,21798.5,563,2
-gekon orzęsiony,22200,nie,,0.0,10,1,0,poradnik/blog (często blog sklepu) (3),wideo/social (2),TAK,20804.0,159,4
-wąż zbożowy,22200,nie,,0.0,10,0,1,poradnik/blog (często blog sklepu) (5),marketplace (2),TAK,1109.0,377,2
-pyton królewski,14800,nie,,0.0,10,2,0,poradnik/blog (często blog sklepu) (5),wideo/social (3),TAK,1170.5,92.5,4
-patyczak,18100,nie,,0.0,10,0,0,poradnik/blog (często blog sklepu) (5),sklep (produkt/kategoria) (2),TAK,536.5,310.0,4
-ślimak afrykański,12100,nie,,0.0,10,1,0,sklep (produkt/kategoria) (3),poradnik/blog (często blog sklepu) (3),TAK,4573.0,286.0,3
-żółw stepowy,6600,nie,,0.0,10,0,0,sklep (produkt/kategoria) (3),poradnik/blog (często blog sklepu) (3),TAK,1135.0,278.5,3
-legwan,12100,nie,,0.0,10,1,0,poradnik/blog (często blog sklepu) (6),wideo/social (3),TAK,4439.0,563,2
-ptasznik goliat,6600,nie,,0.0,9,0,0,poradnik/blog (często blog sklepu) (5),sklep (produkt/kategoria) (3),TAK,150.0,130.5,7
-modliszka storczykowa,8100,nie,,0.0,10,0,0,sklep (produkt/kategoria) (4),poradnik/blog (często blog sklepu) (4),TAK,125.0,85.0,6
-aksolotl cena,5400,tak,fera.pl;www.zoofaster.pl,0.0,9,2,1,poradnik/blog (często blog sklepu) (3),marketplace (3),TAK,2829.0,377,1
-terrarium dla gekona lamparciego,1600,nie,,0.0,10,0,0,sklep (produkt/kategoria) (4),poradnik/blog (często blog sklepu) (4),TAK,243.0,169.5,5
-terrarium dla patyczaków,2900,nie,,0.0,10,2,1,marketplace (7),forum/grupa (1),TAK,59005.0,329,0
-gekon lamparci ile żyje,880,tak,zooart.com.pl;naszezoo.pl,0.0,10,1,0,poradnik/blog (często blog sklepu) (8),wideo/social (2),TAK,1682.5,1226.5,1
-gekon lamparci cena,2400,tak,naszezoo.pl;www.skleprafa.com.pl,0.0,10,1,0,poradnik/blog (często blog sklepu) (4),marketplace (4),TAK,3321.0,494,2
-mata grzewcza do terrarium,1900,nie,,0.0,10,1,0,sklep (produkt/kategoria) (7),marketplace (1),TAK,217.0,148.0,4
-kalkulator akwarium,590,tak,,0.0,10,1,0,narzędzie (9),wideo/social (1),TAK,130.5,128,7
-ptasznik dla początkujących,390,nie,,0.0,10,0,0,poradnik/blog (często blog sklepu) (6),sklep (produkt/kategoria) (4),TAK,83.5,83.5,7
+fraza,wolumen,ai_overview,aio_cytuje,mediana_domen_linkujacych_url,url_z_lt10_domenami,stare_przed_2023,fora_pdf,najczestszy_typ,drugi_typ,nowa_domena_wejdzie_6_12m,mediana_dom_link_domeny_top10,mediana_bez_platform,wyniki_domena_lt200_bez_platform,ocena_jakosciowa
+aksolotl,60500,nie,,0.0,10,4,0,poradnik/blog (często blog sklepu) (3),wideo/social (3),TAK,9886.5,126,3,"TRUDNO: fraza główna, mieszana intencja (Minecraft), panel wiedzy i wideo nad wynikami"
+gekon lamparci,27100,nie,,0.0,10,1,0,poradnik/blog (często blog sklepu) (6),marketplace (1),TAK,1152.5,563,3,TAK
+agama brodata,27100,nie,,0.0,9,0,1,poradnik/blog (często blog sklepu) (5),wideo/social (2),TAK,21798.5,563,2,TAK
+gekon orzęsiony,22200,nie,,0.0,10,1,0,poradnik/blog (często blog sklepu) (3),wideo/social (2),TAK,20804.0,159,4,TAK
+wąż zbożowy,22200,nie,,0.0,10,0,1,poradnik/blog (często blog sklepu) (5),marketplace (2),TAK,1109.0,377,2,TAK
+pyton królewski,14800,nie,,0.0,10,2,0,poradnik/blog (często blog sklepu) (5),wideo/social (3),TAK,1170.5,92.5,4,TAK
+patyczak,18100,nie,,0.0,10,0,0,poradnik/blog (często blog sklepu) (5),sklep (produkt/kategoria) (2),TAK,536.5,310.0,4,TAK
+ślimak afrykański,12100,nie,,0.0,10,1,0,sklep (produkt/kategoria) (3),poradnik/blog (często blog sklepu) (3),TAK,4573.0,286.0,3,TAK
+żółw stepowy,6600,nie,,0.0,10,0,0,sklep (produkt/kategoria) (3),poradnik/blog (często blog sklepu) (3),TAK,1135.0,278.5,3,TAK
+legwan,12100,nie,,0.0,10,1,0,poradnik/blog (często blog sklepu) (6),wideo/social (3),TAK,4439.0,563,2,"TRUDNO: mieszana intencja (pojazd wojskowy Legwan, newsy), panel wiedzy"
+ptasznik goliat,6600,nie,,0.0,9,0,0,poradnik/blog (często blog sklepu) (5),sklep (produkt/kategoria) (3),TAK,150.0,130.5,7,TAK
+modliszka storczykowa,8100,nie,,0.0,10,0,0,sklep (produkt/kategoria) (4),poradnik/blog (często blog sklepu) (4),TAK,125.0,85.0,6,TAK
+aksolotl cena,5400,tak,fera.pl;www.zoofaster.pl,0.0,9,2,1,poradnik/blog (często blog sklepu) (3),marketplace (3),TAK,2829.0,377,1,TAK
+terrarium dla gekona lamparciego,1600,nie,,0.0,10,0,0,sklep (produkt/kategoria) (4),poradnik/blog (często blog sklepu) (4),TAK,243.0,169.5,5,TAK
+terrarium dla patyczaków,2900,nie,,0.0,10,2,1,marketplace (7),forum/grupa (1),TAK,59005.0,329,0,"NIE: 7 z 10 to Allegro/OLX, intencja zakupowa"
+gekon lamparci ile żyje,880,tak,zooart.com.pl;naszezoo.pl,0.0,10,1,0,poradnik/blog (często blog sklepu) (8),wideo/social (2),TAK,1682.5,1226.5,1,"TRUDNO: AI Overview + 8 poradników, mediana bez platform 1227 domen"
+gekon lamparci cena,2400,tak,naszezoo.pl;www.skleprafa.com.pl,0.0,10,1,0,poradnik/blog (często blog sklepu) (4),marketplace (4),TAK,3321.0,494,2,TAK
+mata grzewcza do terrarium,1900,nie,,0.0,10,1,0,sklep (produkt/kategoria) (7),marketplace (1),TAK,217.0,148.0,4,"NIE: 7 sklepów + blok produktów, intencja zakupowa"
+kalkulator akwarium,590,tak,,0.0,10,1,0,narzędzie (9),wideo/social (1),TAK,130.5,128,7,TAK
+ptasznik dla początkujących,390,nie,,0.0,10,0,0,poradnik/blog (często blog sklepu) (6),sklep (produkt/kategoria) (4),TAK,83.5,83.5,7,TAK
