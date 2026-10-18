@@ -1,0 +1,17 @@
+nisza,wariant,adresowalny_popyt_mies,udzial_po_12_mies,wizyty_mies,zrodlo_przychodu,konwersje_mies,zl_mies,zl_rok1,uwagi
+UX,ostrożny,42000,0.03,1260,"kursy (strefakursów 50%, Coursera)",0.5,50,,
+UX,ostrożny,42000,0.03,1260,Framer 50% / 12 mies.,0.06,9,,
+UX,ostrożny,42000,0.03,1260,"reklamy display (RPM 10 zł / 1000 odsłon, 1,5 odsłony na wizytę)",,19,,
+UX,ostrożny,42000,0.03,1260,RAZEM w 12. miesiącu,,79,354,"rok 1 ≈ 4,5 × miesiąc 12 (start ruchu od 4. mies., liniowy wzrost)"
+UX,realny,42000,0.08,3360,"kursy (strefakursów 50%, Coursera)",4.03,806,,
+UX,realny,42000,0.08,3360,Framer 50% / 12 mies.,0.67,202,,
+UX,realny,42000,0.08,3360,"reklamy display (RPM 10 zł / 1000 odsłon, 1,5 odsłony na wizytę)",,50,,
+UX,realny,42000,0.08,3360,RAZEM w 12. miesiącu,,1058,4763,"rok 1 ≈ 4,5 × miesiąc 12 (start ruchu od 4. mies., liniowy wzrost)"
+TW,ostrożny,27000,0.03,810,"narzędzia (vidIQ, ElevenLabs, Riverside)",0.49,49,,
+TW,ostrożny,27000,0.03,810,"sprzęt (x-kom, śr. 4% od 500 zł)",0.15,3,,
+TW,ostrożny,27000,0.03,810,"reklamy display (RPM 10 zł / 1000 odsłon, 1,5 odsłony na wizytę)",,12,,
+TW,ostrożny,27000,0.03,810,RAZEM w 12. miesiącu,,64,286,"rok 1 ≈ 4,5 × miesiąc 12 (start ruchu od 4. mies., liniowy wzrost)"
+TW,realny,27000,0.08,2160,"narzędzia (vidIQ, ElevenLabs, Riverside)",2.59,389,,
+TW,realny,27000,0.08,2160,"sprzęt (x-kom, śr. 4% od 500 zł)",1.04,21,,
+TW,realny,27000,0.08,2160,"reklamy display (RPM 10 zł / 1000 odsłon, 1,5 odsłony na wizytę)",,32,,
+TW,realny,27000,0.08,2160,RAZEM w 12. miesiącu,,442,1989,"rok 1 ≈ 4,5 × miesiąc 12 (start ruchu od 4. mies., liniowy wzrost)"

@@ -1,0 +1,27 @@
+wariant,miesiac,wizyty,odslony,reklamy_zl,konta_maklerskie_zasilone,afiliacja_broker_zl,subskrypcje_tradingview,tradingview_zl,razem_zl
+ostrozny,1,167,267,2.67,0.02,0.0,0.005,0.19,2.86
+ostrozny,2,333,533,5.33,0.05,0.0,0.01,0.39,5.72
+ostrozny,3,500,800,8.0,0.07,0.0,0.015,0.58,8.58
+ostrozny,4,667,1067,10.67,0.1,0.0,0.02,0.78,11.44
+ostrozny,5,833,1333,13.33,0.12,0.0,0.025,0.97,14.3
+ostrozny,6,1000,1600,16.0,0.15,0.0,0.03,1.17,17.17
+ostrozny,7,1167,1867,18.67,0.18,0.0,0.035,1.36,20.03
+ostrozny,8,1333,2133,21.33,0.2,0.0,0.04,1.55,22.89
+ostrozny,9,1500,2400,24.0,0.22,0.0,0.045,1.75,25.75
+ostrozny,10,1667,2667,26.67,0.25,0.0,0.05,1.94,28.61
+ostrozny,11,1833,2933,29.33,0.27,0.0,0.055,2.14,31.47
+ostrozny,12,2000,3200,32.0,0.3,0.0,0.06,2.33,34.33
+realny,1,667,1067,26.67,0.33,50.0,0.067,6.48,83.14
+realny,2,1333,2133,53.33,0.67,100.0,0.133,12.95,166.28
+realny,3,2000,3200,80.0,1.0,150.0,0.2,19.43,249.43
+realny,4,2667,4267,106.67,1.33,200.0,0.267,25.9,332.57
+realny,5,3333,5333,133.33,1.67,250.0,0.333,32.38,415.71
+realny,6,4000,6400,160.0,2.0,300.0,0.4,38.85,498.85
+realny,7,4667,7467,186.67,2.33,350.0,0.467,45.33,581.99
+realny,8,5333,8533,213.33,2.67,400.0,0.533,51.8,665.14
+realny,9,6000,9600,240.0,3.0,450.0,0.6,58.28,748.28
+realny,10,6667,10667,266.67,3.33,500.0,0.667,64.75,831.42
+realny,11,7333,11733,293.33,3.67,550.0,0.733,71.23,914.56
+realny,12,8000,12800,320.0,4.0,600.0,0.8,77.7,997.7
+
+zalozenia,"ruch rosnie liniowo do M12: ostrozny 2000, realny 8000 wizyt/mies.","1,6 odslony/wizyte","RPM ostrozny 10 zl, realny 25 zl (zalozenie, nie zrodlo)","broker: CTR 0,5%/1%, konwersja 3%/5%, CPA 0 zl (stawka XTB niejawna) / 150 zl (zalozenie, tylko konta akcji/ETF, bez CFD)","TradingView: CTR 0,3%/0,5%, zakup 1%/2%, prowizja 10/25 USD (stawki 10-400 USD z pl.tradingview.com/partner-rules, 18.10.2026)","USDPLN 3,8852 (TradingView FX_IDC:USDPLN, 18.10.2026)"

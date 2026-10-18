@@ -1,0 +1,17 @@
+zalozenie,ostrozny,realny,podstawa
+wizyty,4000,15000,"wizyty/mies. w 12. miesiącu: założenie; punkt odniesienia spotprice.pl ETV 13 962/mies. przy 142 domenach linkujących (bulk_traffic_estimation, 2026-10-18)"
+odslony_na_wizyte,1.5,1.5,założenie
+rpm_zl,5,10,"przychód z reklam na 1000 odsłon: założenie; CPC rdzenia 0,13–0,24 USD (Google Ads)"
+klik_do_dealera,0.05,0.1,odsetek wizyt z kliknięciem do sklepu: założenie
+udzial_goldenmark,0.1,0.2,część kliknięć do jedynego potwierdzonego programu sklepowego (Goldenmark) przy rankingu tylko po cenie: założenie; spotprice.pl ma 55 dealerów
+konwersja,0.02,0.03,zamówienia / kliknięcia: założenie
+koszyk_zl,3000,6000,"średnie zamówienie: założenie; sztabka 1 g od ok. 571 zł, 1 oz od ok. 16 381 zł (spotprice.pl, 18.10.2026)"
+stawka_gm,0.003,0.007,"prowizja Goldenmark: NIEPUBLICZNA, założenie; marża 1 oz nad spot u najtańszego dealera to +1,2–1,6% (spotprice.pl), więc wysoka prowizja jest mało prawdopodobna"
+bv_konta_na_wizyte,0.0002,0.0005,nowe zasilone konta BullionVault na wizytę: założenie
+bv_obrot_zl,8000,15000,roczny obrót polecanego klienta: założenie
+
+wynik_12_mies,wizyty,reklamy_zl,zamowienia_goldenmark,afiliacja_goldenmark_zl,nowe_konta_bv,bullionvault_zl_mies,razem_zl_mies
+ostrozny,4000,30,0.4,4,0.8,0.7,34
+realny,15000,225,9.0,378,7.5,11.7,615
+
+stala,"BullionVault: 25% x 0,50% = 0,125% obrotu przez 2 lata",https://www.bullionvault.com/help/referral_programme.html; https://www.bullionvault.com/help/tariff.html,2026-10-18
