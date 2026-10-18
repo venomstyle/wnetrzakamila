@@ -1,0 +1,18 @@
+parametr,ostrozny,realny,zrodlo_lub_zalozenie
+pula fraz w modelu (9 klastrów),34 745 wyszukiwań/mies.,34 745 wyszukiwań/mies.,uslugi-druku-popyt-klastry.csv
+udział intencji usługowej,"50% (ceny, projektowanie, żywica), 60% (B2B tech, skan), 100% (reszta)",j.w.,założenie; „druk 3d ceny”: 4 z 10 wyników to sklepy z drukarkami (SERP 18.10.2026)
+pokrycie fraz stronami po 12 mies.,60%,85%,założenie (jak w druk3d.md)
+pozycje,6–8,3–5,założenie
+CTR poz. 1/5/10,"28,5% / 6,1% / 1,4%","28,5% / 6,1% / 1,4%",SEO Inc. 2025 (https://seoinc.com/?p=9742); reszta interpolacja = założenie
+mnożnik SERP,"×0,7 przy AIO, ×0,6 przy Local Pack, ×0,8 B2B",j.w.,"założenie; AIO 8/16, Local Pack 10/16 (SERP 18.10.2026)"
+sesje/mies.,366,1325,obliczenie rachunek.py
+konwersja formularza „wyślij plik do wyceny”,1–4% zależnie od klastra,3–7%,założenie
+zapytania/mies.,9.9,68.5,obliczenie
+w tym B2B,3.0,20.8,udział B2B per klaster = założenie
+cena zapytania B2C,5 zł,10 zł,założenie: 5–10% typowego zlecenia 50–150 zł (uslugi-druku-popyt-ceny.csv)
+cena zapytania B2B,40 zł,80 zł,założenie: 5–10% zlecenia 400–1500 zł (CAD+druk min. 400 zł netto order3d.pl; seria 25 szt. 545–1050 zł geometryhustlers.pl)
+"zapytania sprzedawalne (jest firma, która płaci)",50%,80%,założenie; firmy przychodzą same (bez zimnego kontaktu)
+ile firm dostaje to samo zapytanie,1,2,założenie (model katalogów zapytań)
+przychód z opłat za zapytania,77 zł/mies.,3428 zł/mies.,obliczenie
+alternatywa: abonament za wpis,3 firmy × 49 zł = 147 zł/mies.,15 firm × 99 zł = 1485 zł/mies.,"założenie, brak publicznych stawek konkurencji"
+górna granica z Google Ads: koszt zapytania drukarni,"CPC 1,12–1,70 USD × 3,90 zł ÷ konwersja 10% = 44–66 zł",÷ konwersja 5% = 87–133 zł,"CPC: search_volume/live 18.10.2026; kurs USD 3,8952 zł (NBP 15.10.2026, źródło wtórne comparic.pl); konwersja strony = założenie"
