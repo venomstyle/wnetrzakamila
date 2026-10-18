@@ -1,0 +1,23 @@
+parametr,ostrozny,realny,zrodlo_lub_zalozenie
+frazy_do_wziecia (bez wariantów i wykluczonych),732,732,druk3d-mapa.csv (uwzglednic=tak; wariant_od puste)
+suma_wolumenu_mies,492330,492330,/v3/keywords_data/google_ads/search_volume/live 2026-10-18
+pokrycie_fraz_stronami_po_12_mies,60%,85%,założenie
+pozycja_hub_glowa_ge5000,poza top10,10,założenie
+pozycja_hub,10,7,założenie
+pozycja_encja_glowa_ge5000,poza top10,8,założenie
+pozycja_encja,8,5,założenie
+pozycja_ranking_porownanie,6,4,założenie
+pozycja_poradnik,5,3,założenie
+pozycja_narzedzie,5,3,założenie
+CTR poz.1/5/10,28.5% / 6.1% / 1.4%,28.5% / 6.1% / 1.4%,SEO Inc. 2025 (https://seoinc.com/?p=9742); poz. 3/4/6/7/8 interpolacja = założenie
+korekta_AIO (poradnik/narzędzie/porównania),x0.7,x0.7,założenie oparte na GrowthSRC 2025 (spadek CTR poz.1 z 28% do 19%) via https://marketing4ecommerce.net/en/seo-organic-positioning-no-longer-guarantees-success/
+sesje_mies_po_12_mies,4110,17157,obliczenie (model.py)
+klik_do_sklepu: encja/ranking/poradnik/narzędzie/hub,8%/12%/2%/2%/3%,8%/12%/2%/2%/3%,założenie
+konwersja_w_sklepie,2%,3%,założenie
+srednia_wartosc_zamowienia,600 zł,900 zł,"założenie; ceny w SERP 18.10.2026: Bambu P1S 1655,72 zł (eu.store.bambulab.com), Elegoo Centauri Carbon 1369 zł (x-kom.pl), Creality K1C 1299,99 zł (mediaexpert.pl), filament PETG 30–61 zł (allegro.pl)"
+prowizja,3%,5%,"założenie; strony programów: Elegoo 5%+, Anycubic od 5% (AU), Creality bez %; Bambu bez %"
+RPM_reklam_zl_na_1000_odslon,5 zł,10 zł,założenie (brak wiarygodnego źródła dla PL)
+odslony_na_sesje,1.3,1.6,założenie
+przychod_afiliacja_mies,96 zł,1585 zł,obliczenie
+przychod_reklamy_mies,27 zł,275 zł,obliczenie
+przychod_razem_mies_po_12_mies,123 zł,1859 zł,obliczenie
