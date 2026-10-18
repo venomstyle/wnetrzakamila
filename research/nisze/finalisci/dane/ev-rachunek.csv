@@ -1,0 +1,29 @@
+parametr,ostrozny,realny,zrodlo_lub_zalozenie
+frazy w mapie (bez wariantów),492,492,ev-mapa.csv
+suma wolumenu mapy /mies.,1023820,1023820,/v3/keywords_data/google_ads/search_volume/live 2026-10-18
+frazy „do wzięcia: tak” / wolumen,386 / 88650,j.w.,ev-mapa.csv (kolumna do_wziecia)
+frazy „częściowo” (local pack) / wolumen,44 / 268180,j.w.,"mnożnik CTR 0,3 (założenie)"
+frazy „głowa” / wolumen,4 / 40530,j.w.,tylko w wariancie realnym (poz. 9)
+frazy „nie” (nazwy marek i modeli; PHEV) / wolumen,58 / 626460,j.w.,poza rachunkiem
+krzywa CTR,"poz.1 28,5%; poz.5 6,1%; poz.10 1,4%",j.w.,"SEO Inc. 2025 (https://seoinc.com/?p=9742) – przyjęta jak w druk3d.md, nie weryfikowałem ponownie; pozycje pośrednie: interpolacja liniowa (założenie)"
+mnożnik AIO,"0,7","0,7",założenie (AIO w 15 z 20 SERP-ów); strony sprzętu bez mnożnika (brak AIO w 3 z 3 SERP-ów)
+pokrycie fraz stronami,60%,85%,założenie
+pozycje: głowy / local pack / encje modeli / encje operatorów / narzędzia / sprzęt / rankingi aut / poradniki,poza top 10 / 8 / 6 / 6 / 6 / 8 / 8 / 8,9 / 5 / 3 / 3 / 3 / 5 / 5 / 5,założenie
+"sesje: local pack (operator nawig., mapa, miasto) (44 fraz, 268180/mies.)",1593,4172,wyliczenie
+"sesje: głowy (hub ogólny) (4 fraz, 40530/mies.)",0,792,wyliczenie
+"sesje: sprzęt (wallbox, kabel, ładowarka) (91 fraz, 33910/mies.)",671,1758,wyliczenie
+"sesje: rankingi i porównania aut (55 fraz, 13680/mies.)",190,497,wyliczenie
+"sesje: encje operatorów (cennik, ceny) (18 fraz, 4440/mies.)",97,457,wyliczenie
+"sesje: narzędzia (koszt, czas, mapa) (93 fraz, 15840/mies.)",351,1652,wyliczenie
+"sesje: poradniki i huby tematyczne (65 fraz, 13060/mies.)",181,474,wyliczenie
+"sesje: encje modeli (zasięg, bateria) (64 fraz, 7720/mies.)",169,795,wyliczenie
+SESJE /mies. razem,3251,10596,wyliczenie
+odsłony na sesję,"1,3","1,6",założenie
+RPM display (zł / 1000 odsłon),5,10,założenie – brak wiarygodnego źródła dla PL
+przychód z reklam zł/mies.,21,170,wyliczenie
+klik do sklepu: strony sprzętu / rankingi aut,8% / 3%,12% / 5%,założenie
+kliki do sklepu /mies.,59,236,wyliczenie
+przychód na klik,"0,10 zł (Ceneo CPC 0,20 zł × 50% przejść do sklepu)","0,90 zł (konwersja 2% × koszyk 1 500 zł × 3% prowizji)",ostrożny: stawka Ceneo z affi.io; realny: założenie – programu sklepu z wallboxami z prowizją nie znalazłem; ceny wallboxów 11 kW 988–2 413 zł (Google popular products w SERP „wallbox 11kw” 18.10.2026)
+przychód z afiliacji zł/mies.,6,212,wyliczenie
+RAZEM zł/mies. po 12 mies.,27,382,wyliczenie
+punkt odniesienia: ruch konkurentów (ETV/mies.),stacjeladowaniapojazdow.pl 2 482; gdzieladowac.eu 763; stacje.com.pl 927; stacjomat.pl 625,elektromobilni.pl 31 440; elektrowoz.pl 20 186; otoev.pl 15 078; chinskisamochod.com 14 450,/v3/dataforseo_labs/google/bulk_traffic_estimation/live 2026-10-18

@@ -1,0 +1,501 @@
+dzial,temat,typ_strony,docelowy_url,fraza,wolumen_sr_12m,cpc_usd,konkurencja,trend_rr_proc_07-09,min_miesiac,max_miesiac,warianty_scalone,2025-07,2025-08,2025-09,2025-10,2025-11,2025-12,2026-01,2026-02,2026-03,2026-04,2026-05,2026-06,2026-07,2026-08,2026-09
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata,27100,0.07,LOW,7,2026-05,2025-10,,22200,27100,22200,27100,27100,27100,27100,27100,27100,27100,22200,22200,22200,27100,27100
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata cena,1600,0.02,LOW,-18,2026-06,2026-01,,1600,1900,1600,1600,1600,1600,1900,1600,1600,1600,1600,1300,1300,1600,1300
+terrarystyka,agama brodata,poradnik,/poradniki/terrarium-dla-agama-brodata/,terrarium dla agamy brodatej,1000,0.16,HIGH,23,2025-11,2026-01,,720,1000,720,880,720,880,1300,1300,1000,1000,880,880,1000,1000,1000
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata ile żyje,880,,LOW,-24,2026-06,2025-10,ile żyje agama brodata,880,1000,1000,1000,1000,880,880,720,880,880,720,590,590,880,720
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata terrarium,720,0.09,HIGH,-6,2026-06,2026-01,terraria agama brodata | terrarium agama brodata,590,720,590,720,720,720,880,880,720,590,590,480,480,720,590
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata kolory,590,0.1,LOW,16,2026-06,2026-08,,590,590,590,590,590,590,720,720,720,590,590,480,590,880,590
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,pogona,390,0.06,LOW,-19,2026-03,2025-11,,590,480,480,480,590,390,390,390,320,320,480,390,480,390,390
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,co je agama brodata,260,0.02,LOW,-19,2026-03,2025-12,agama brodata co je,320,320,260,260,260,320,320,260,210,260,260,210,260,260,210
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata karłowata,260,0.48,LOW,-17,2026-06,2025-10,,260,320,320,390,390,260,390,320,210,210,170,140,170,320,260
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,ile kosztuje agama brodata,260,0.37,LOW,0,2025-10,2026-01,agama brodata ile kosztuje,260,320,210,210,210,260,320,320,320,320,260,210,210,320,260
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata yellow,260,0.06,LOW,-29,2026-05,2025-10,,320,320,260,320,260,260,320,260,210,210,170,170,170,260,210
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,jaszczurka agama brodata,260,0.05,LOW,108,2025-10,2026-08,,170,170,170,170,210,260,260,260,260,260,320,170,320,480,260
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata hodowla,260,0.12,MEDIUM,-24,2026-08,2026-01,,260,320,260,210,210,260,390,390,390,320,320,210,260,170,210
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata wielkość,260,0.05,LOW,22,2026-06,2026-01,,170,210,260,210,260,260,320,260,260,210,210,170,260,260,260
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata red,210,,LOW,21,2025-10,2026-01,,210,210,140,170,170,210,260,210,210,210,210,210,210,210,260
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata biała,210,0.03,LOW,-35,2026-05,2025-11,,260,320,260,260,320,260,260,210,210,170,140,140,170,210,170
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata czerwona,210,,LOW,-8,2026-06,2025-12,,210,170,140,170,170,260,260,260,210,210,210,140,140,170,170
+terrarystyka,agama brodata,poradnik,/poradniki/terrarium-dla-agama-brodata/,terrarium dla agamy brodatej 120x60x60,170,0.21,HIGH,90,2026-03,2026-01,,90,110,110,170,140,170,210,140,90,140,140,110,170,210,210
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,pogona vitticeps,170,0,LOW,-26,2025-11,2026-01,,140,170,260,170,110,140,210,210,140,210,170,140,110,170,140
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata czarna,140,0.01,LOW,52,2026-06,2026-01,,110,110,90,140,140,110,210,170,170,110,110,90,90,210,170
+terrarystyka,agama brodata,encja,/gatunki/agama-brodata/,agama brodata citrus,140,0.02,LOW,44,2025-12,2026-08,,110,140,110,110,110,90,110,140,140,140,140,140,140,210,170
+terrarystyka,agama brodata,narzędzie,/narzedzia/koszt-startu-terrarium/,ile kosztuje utrzymanie agamy brodatej,20,,LOW,0,2026-01,2025-10,,20,10,20,20,20,20,10,20,20,20,20,10,10,20,20
+terrarystyka,agama błotna,encja,/gatunki/agama-blotna/,agama błotna,1600,0.03,LOW,-24,2026-06,2025-11,,1600,1900,1600,1600,1900,1600,1900,1900,1600,1600,1300,1000,1300,1300,1300
+terrarystyka,agama błotna,poradnik,/poradniki/terrarium-dla-agama-blotna/,agama błotna terrarium,90,0.07,MEDIUM,-30,2026-07,2026-01,,110,110,110,110,110,90,140,110,90,90,90,90,70,90,70
+terrarystyka,agama karłowata,encja,/gatunki/agama-karlowata/,agama karłowata,880,0.02,LOW,10,2026-05,2025-11,,720,880,880,880,1000,880,1000,880,880,880,590,720,720,1000,1000
+terrarystyka,agama karłowata,poradnik,/poradniki/terrarium-dla-agama-karlowata/,agama karłowata terrarium,70,0.05,HIGH,40,2026-05,2026-01,,30,50,70,50,90,90,110,90,90,70,40,50,50,90,70
+terrarystyka,agama kołnierzasta,encja,/gatunki/agama-kolnierzasta/,agama kołnierzasta,4400,0.12,LOW,61,2025-10,2025-12,,2400,2400,1900,2400,2900,12100,6600,4400,4400,3600,3600,2900,3600,3600,3600
+terrarystyka,agama kołnierzasta,encja,/gatunki/agama-kolnierzasta/,agama kołnierzasta cena,480,0.1,LOW,52,2025-10,2026-01,,260,320,260,260,320,480,720,590,480,480,390,320,320,480,480
+terrarystyka,agama kołnierzasta,encja,/gatunki/agama-kolnierzasta/,jaszczurka kołnierzasta,170,0.05,LOW,-18,2026-09,2025-10,,170,140,70,390,320,140,140,140,170,110,110,110,110,110,90
+terrarystyka,agama kołnierzasta,poradnik,/poradniki/terrarium-dla-agama-kolnierzasta/,agama kołnierzasta terrarium,40,,LOW,200,2025-11,2026-01,,10,20,10,30,20,40,50,50,40,50,30,40,40,40,40
+terrarystyka,agamy (inne),poradnik,/poradniki/terrarium-dla-agamy-inne/,terrarium dla agamy,720,0.13,HIGH,-41,2026-06,2025-10,,880,880,880,1000,1000,880,880,720,590,480,480,390,390,590,590
+terrarystyka,agamy (inne),encja,/gatunki/agama-gorska/,agama górska,260,,LOW,-58,2026-08,2025-12,,320,390,210,260,390,480,320,260,320,320,170,140,140,110,140
+terrarystyka,agamy (inne),hub,/agamy/,agama cena,170,0.02,LOW,-18,2026-07,2025-11,,170,170,170,170,210,210,210,210,210,210,170,140,110,170,140
+terrarystyka,agamy (inne),encja,/gatunki/agama-czerwonoglowa/,agama czerwonoglowa,170,,LOW,23,2025-12,2025-10,agama czerwonogłowa | agama czerwona,140,170,170,210,210,140,210,210,170,170,170,140,210,170,210
+terrarystyka,agamy (inne),encja,/gatunki/agama-zielona/,agama zielona,170,,LOW,-29,2026-05,2025-11,,210,210,210,210,260,260,210,210,210,170,140,140,140,170,140
+terrarystyka,agamy (inne),encja,/gatunki/agama-rogata/,agama rogata,170,,LOW,-7,2026-06,2026-01,,140,170,110,170,170,170,210,170,210,210,210,110,110,110,170
+terrarystyka,agamy (inne),poradnik,/poradniki/terrarium-dla-agamy-inne/,agama terrarium,90,0.06,HIGH,-28,2026-05,2025-10,,70,140,110,140,140,90,110,90,70,70,50,50,70,90,70
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl,60500,0.08,LOW,-19,2025-10,2026-03,,110000,60500,40500,49500,49500,60500,60500,60500,74000,74000,60500,74000,60500,60500,49500
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl cena,5400,1.06,LOW,-22,2025-10,2026-01,,8100,5400,3600,3600,3600,4400,6600,5400,5400,6600,5400,5400,4400,5400,3600
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl niebieski,2900,0.08,HIGH,7,2025-10,2026-04,niebieski aksolotl,2900,2400,1900,1900,2400,2400,2900,2900,2900,3600,2900,2900,2900,2900,1900
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,ile kosztuje aksolotl,1000,,LOW,27,2025-10,2026-04,aksolotl ile kosztuje,1000,1000,590,880,880,1000,1300,1000,1300,1600,1300,1000,1000,1300,1000
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl gdzie kupić,880,0.63,LOW,25,2025-10,2026-01,,880,720,480,590,720,880,1300,880,880,880,880,720,880,1000,720
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl niebieski cena,720,,LOW,-11,2025-10,2026-01,,1000,720,480,480,480,590,880,720,720,880,590,880,590,880,480
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl ile żyje,720,0.01,LOW,25,2025-10,2026-04,ile żyje aksolotl,590,480,260,320,390,590,720,720,880,1000,880,720,590,590,480
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl hodowla,590,0.02,LOW,-13,2026-09,2026-01,hodowla aksolotl,880,590,480,480,480,480,720,590,590,720,720,720,590,720,390
+terrarystyka,aksolotl,poradnik,/poradniki/akwarium-dla-aksolotla/,akwarium dla aksolotla,480,0.12,HIGH,-9,2026-06,2026-01,,590,480,320,390,390,480,590,480,480,480,590,320,390,480,390
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl fioletowy,480,0.07,HIGH,-9,2025-10,2026-08,,720,590,390,390,390,390,480,480,480,480,480,480,480,590,480
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl co je,390,,LOW,39,2025-10,2026-01,co je aksolotl,320,260,170,210,320,320,390,390,390,390,390,390,390,390,260
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl rozowy,320,0.14,MEDIUM,8,2026-09,2026-04,aksolotl różowy,320,260,210,260,260,320,320,320,320,390,320,260,320,320,210
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl kolory,320,0.02,LOW,-32,2025-10,2026-01,,720,480,320,320,320,320,390,320,320,390,390,390,320,390,320
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl akwarium,260,0.06,MEDIUM,-16,2026-05,2025-12,,320,260,170,260,260,320,320,320,260,260,210,210,210,210,210
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl do kupienia,260,0.04,LOW,121,2025-10,2026-08,,140,140,110,140,170,260,320,260,260,320,320,210,260,390,210
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl czarny,210,0.06,LOW,14,2025-10,2026-08,,210,210,140,140,170,170,210,210,210,210,210,210,170,260,210
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,ile kosztuje aksolotl niebieski,210,,LOW,88,2025-10,2026-04,,110,140,90,140,170,210,260,260,210,320,260,210,210,260,170
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl zielony,170,0.06,LOW,-69,2026-09,2025-10,,880,390,170,210,210,170,210,210,210,210,210,210,170,170,110
+terrarystyka,aksolotl,poradnik,/poradniki/akwarium-dla-aksolotla/,aksolotl jakie akwarium,140,0.19,MEDIUM,-20,2026-06,2026-01,,140,170,140,170,140,170,210,170,140,170,140,110,110,140,110
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,aksolotl mały,140,0.06,LOW,0,2025-11,2026-05,,140,170,90,90,70,90,90,110,110,210,260,140,170,140,90
+terrarystyka,aksolotl,encja,/gatunki/aksolotl/,dorosły aksolotl,140,,LOW,6,2025-10,2026-03,,140,90,110,70,90,140,140,110,210,170,140,170,140,110,110
+terrarystyka,bezkręgowce (inne),encja,/gatunki/krocionogi/,krocionogi,3600,0.04,LOW,-12,2025-12,2025-10,krocionóg,2900,2900,9900,6600,2900,2400,2400,2400,2400,2900,4400,4400,3600,3600,6600
+terrarystyka,bezkręgowce (inne),encja,/gatunki/izopody/,izopody,1600,0.2,LOW,40,2025-12,2026-08,,1600,1300,1300,1600,1600,1300,1600,1600,1900,1900,1900,1600,1600,2400,1900
+terrarystyka,bezkręgowce (inne),encja,/gatunki/prosionki/,prosionki,1600,,LOW,0,2025-11,2026-06,,1600,1900,1900,1600,880,880,880,1000,1600,1600,1900,2400,1600,1900,1900
+terrarystyka,bezkręgowce (inne),encja,/gatunki/krocionog-olbrzymi/,krocionóg olbrzymi,1000,,LOW,38,2025-12,2026-08,,880,720,1000,1000,880,720,880,880,1000,880,1000,1000,1000,1300,1300
+terrarystyka,bezkręgowce (inne),encja,/gatunki/rownonogi/,równonogi,720,,LOW,0,2025-10,2025-11,,720,590,480,480,2400,1000,590,480,590,590,590,590,480,720,590
+terrarystyka,bezkręgowce (inne),poradnik,/poradniki/krocionogi-hodowla/,krocionogi hodowla,70,0.02,LOW,13,2025-12,2025-10,,40,40,70,70,70,20,70,70,70,70,70,70,50,50,70
+terrarystyka,boa dusiciel,encja,/gatunki/boa-dusiciel/,boa dusiciel,5400,0.05,LOW,-48,2025-10,2026-05,,6600,18100,4400,4400,4400,4400,5400,5400,5400,5400,6600,4400,5400,5400,4400
+terrarystyka,boa dusiciel,encja,/gatunki/boa-dusiciel/,boa cesarski,1900,,LOW,23,2026-05,2026-03,,1600,1600,1600,1600,1900,1600,1900,1900,4400,1600,1300,1300,1600,2400,1900
+terrarystyka,boa dusiciel,encja,/gatunki/boa-dusiciel/,wąż boa,1600,,LOW,-22,2026-08,2026-03,boa wąż,1900,1900,1600,1600,1600,1600,1600,1600,1900,1900,1900,1600,1600,1300,1300
+terrarystyka,boa dusiciel,encja,/gatunki/boa-dusiciel/,wąż dusiciel,720,,LOW,56,2025-12,2026-09,,880,590,390,590,720,480,1000,880,590,590,590,880,720,880,1300
+terrarystyka,boa dusiciel,encja,/gatunki/boa-dusiciel/,boa dusiciel cena,260,,LOW,-29,2026-06,2026-01,,320,390,320,260,260,260,390,320,260,320,260,210,210,260,260
+terrarystyka,boa dusiciel,poradnik,/poradniki/terrarium-dla-boa-dusiciel/,boa dusiciel terrarium,40,,LOW,-31,2026-06,2025-11,,40,70,50,40,70,40,50,50,40,50,40,10,40,40,30
+terrarystyka,gekon gargulcowy,encja,/gatunki/gekon-gargulcowy/,gekon gargulcowy,2400,0.04,LOW,39,2025-10,2026-09,gargulec gekon,1600,2400,2400,2400,2400,2400,2400,2900,2400,2400,2400,2400,2400,2900,3600
+terrarystyka,gekon gargulcowy,encja,/gatunki/gekon-gargulcowy/,gekon gargulcowy cena,170,0.02,LOW,37,2026-06,2026-01,,90,170,170,140,170,170,260,170,170,140,170,110,170,210,210
+terrarystyka,gekon gargulcowy,poradnik,/poradniki/terrarium-dla-gekon-gargulcowy/,gekon gargulcowy terrarium,50,0.13,HIGH,58,2025-12,2025-11,,20,50,50,50,70,40,70,50,70,40,50,40,70,70,50
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci,27100,0.09,LOW,22,2026-06,2026-01,,22200,27100,27100,27100,27100,27100,33100,33100,27100,33100,27100,22200,27100,33100,33100
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci cena,2400,0.04,LOW,16,2026-06,2026-09,,1900,2400,1900,2400,2400,1900,2400,2400,2400,2400,1900,1600,1900,2400,2900
+terrarystyka,gekon lamparci,poradnik,/poradniki/terrarium-dla-gekon-lamparci/,terrarium dla gekona lamparciego,1600,0.14,HIGH,13,2025-12,2026-01,,1300,1600,1600,1600,1600,1300,1900,1900,1900,1600,1300,1300,1300,1900,1900
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci rozowy,880,0.04,LOW,0,2026-06,2026-01,gekon lamparci różowy,720,1000,880,880,880,880,1000,880,720,880,720,590,720,1000,880
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci terrarium,880,0.1,HIGH,5,2026-06,2026-01,terrarium gekon lamparci,720,880,880,880,880,880,1000,880,880,880,880,590,720,880,1000
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci ile żyje,880,0.07,LOW,0,2026-06,2025-10,ile żyje gekon lamparci,880,1000,880,1000,1000,880,1000,1000,880,1000,880,720,880,880,1000
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci black night,720,0.02,LOW,9,2026-06,2026-09,,590,720,590,590,590,720,720,590,720,720,590,480,480,720,880
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci black pearl,590,0.02,LOW,-18,2026-06,2025-10,,590,880,720,880,720,590,720,720,590,720,590,390,480,720,590
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,ile kosztuje gekon lamparci,480,0.03,LOW,-18,2025-12,2026-08,,720,880,590,590,480,390,480,480,480,590,480,390,480,720,590
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci niebieski,390,0.03,LOW,9,2025-12,2026-08,,390,590,390,390,390,320,390,320,390,480,320,320,320,590,590
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci czarny,390,0.04,LOW,10,2026-05,2026-09,czarny gekon lamparci,390,480,390,390,390,390,480,390,390,480,320,320,320,480,590
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,co je gekon lamparci,320,0.03,LOW,-8,2026-06,2025-10,gekon lamparci co je,320,480,390,390,390,320,390,320,320,390,320,260,320,390,390
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci hodowla,320,0.1,LOW,-11,2026-06,2025-11,,210,480,260,260,390,320,320,320,320,320,320,210,210,320,320
+terrarystyka,gekon lamparci,poradnik,/poradniki/terrarium-dla-gekon-lamparci/,terrarium dla gekona lamparciego 60x40x40,260,0.15,HIGH,-11,2026-06,2026-01,,140,320,260,320,260,260,390,320,260,210,170,140,170,210,260
+terrarystyka,gekon lamparci,poradnik,/poradniki/terrarium-dla-gekon-lamparci/,jakie terrarium dla gekona lamparciego,210,0.08,HIGH,-13,2026-05,2025-11,,210,320,260,210,260,260,260,260,260,210,170,170,170,260,260
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci biały,210,0.01,LOW,-13,2026-03,2026-04,,210,260,210,210,210,210,210,210,140,320,210,140,170,210,210
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci albino,170,0,LOW,-20,2026-06,2026-01,gekon lamparci albinos,210,210,140,170,170,170,210,210,170,170,210,140,140,170,140
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci kolory,170,,LOW,8,2025-11,2026-04,,170,170,170,170,140,140,170,170,140,210,170,140,170,170,210
+terrarystyka,gekon lamparci,poradnik,/poradniki/terrarium-dla-gekon-lamparci/,gotowe terrarium dla gekona lamparciego,140,0.13,HIGH,-14,2026-05,2025-10,,90,170,170,170,140,140,140,110,140,110,90,90,90,110,170
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci wielkość,140,,LOW,-14,2026-06,2025-12,,110,140,110,110,140,170,170,170,140,140,140,90,110,110,90
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci wymagania,140,0.02,LOW,0,2026-06,2025-11,,70,90,90,140,170,170,170,140,140,140,110,70,70,90,90
+terrarystyka,gekon lamparci,encja,/gatunki/gekon-lamparci/,gekon lamparci odmiany barwne,140,,LOW,-13,2026-06,2026-01,,170,210,140,110,170,110,210,170,140,110,110,90,110,170,170
+terrarystyka,gekon lamparci,poradnik,/poradniki/terrarium-dla-gekon-lamparci/,gekon lamparci jakie terrarium,110,0.04,HIGH,-14,2026-06,2025-11,,70,110,110,110,170,140,170,140,110,90,110,70,70,90,90
+terrarystyka,gekon lamparci,narzędzie,/narzedzia/koszt-startu-terrarium/,ile kosztuje utrzymanie gekona lamparciego,20,,LOW,-17,2026-06,2026-03,,20,30,10,20,20,20,20,20,30,20,30,10,20,10,20
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,gekon orzęsiony,22200,0.09,LOW,33,2026-05,2026-01,gekon orzesiony,18100,18100,18100,22200,22200,22200,27100,27100,22200,22200,18100,18100,18100,27100,27100
+terrarystyka,gekon orzęsiony,poradnik,/poradniki/terrarium-dla-gekon-orzesiony/,terrarium dla gekona orzęsionego,1300,0.17,HIGH,68,2026-06,2026-09,,720,880,1000,1000,1300,1300,1300,1600,1300,1000,1000,880,880,1600,1900
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,gekon orzęsiony cena,1000,0.04,LOW,26,2026-05,2025-11,,880,1000,880,1000,1300,1000,1000,1300,1300,1000,880,880,880,1300,1300
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,gekon orzęsiony terrarium,720,0.11,HIGH,35,2026-06,2025-11,terrarium gekon orzęsiony,480,590,590,720,880,720,880,880,720,720,590,480,480,880,880
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,ile żyje gekon orzęsiony,480,,LOW,7,2026-06,2026-01,gekon orzęsiony ile żyje,390,390,480,480,480,480,590,590,480,390,320,260,390,480,480
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,gekon orzęsiony czarny,390,0.08,LOW,8,2026-06,2025-11,,320,390,390,390,480,390,480,480,480,390,320,260,320,390,480
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,gekon orzęsiony hodowla,320,0.12,MEDIUM,23,2026-06,2025-11,,210,260,320,320,390,320,390,390,390,320,260,210,260,320,390
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,gekon orzęsiony lilly white,320,0.05,LOW,241,2025-10,2026-03,,90,90,90,110,320,320,320,320,390,320,210,210,210,320,390
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,gekon orzęsiony kolory,260,0.93,LOW,37,2026-06,2026-08,,170,210,210,210,210,210,260,260,260,260,260,170,170,320,320
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,gekon orzęsiony odmiany,260,,LOW,-13,2026-06,2025-11,,210,260,320,260,320,260,260,320,260,260,170,140,170,260,260
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,gekon orzęsiony bez ogona,210,,LOW,24,2025-10,2026-01,,170,210,170,210,210,210,260,260,260,210,210,210,210,210,260
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,gekon orzęsiony odmiany barwne,170,,LOW,-12,2026-05,2025-11,,170,170,170,170,210,210,210,210,210,140,110,110,110,170,170
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,gekon orzęsiony zielony,170,0.05,LOW,16,2026-06,2025-11,,110,170,170,170,210,210,210,210,210,170,140,110,140,210,170
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,co je gekon orzęsiony,170,0.01,LOW,-6,2026-06,2025-12,gekon orzęsiony co je,170,170,170,170,170,210,210,170,170,210,140,90,140,170,170
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,ile kosztuje gekon orzęsiony,170,0.03,LOW,67,2026-06,2026-09,,110,170,170,140,170,170,210,210,170,170,170,110,170,260,320
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,gekon orzęsiony dalmatian,170,0.02,LOW,24,2025-10,2026-01,,90,140,140,110,140,170,210,210,210,170,140,110,110,140,210
+terrarystyka,gekon orzęsiony,encja,/gatunki/gekon-orzesiony/,gekon orzęsiony harlequin,140,,LOW,24,2026-07,2026-09,,110,110,110,110,170,110,170,170,170,110,140,110,90,110,210
+terrarystyka,gekon orzęsiony,poradnik,/poradniki/terrarium-dla-gekon-orzesiony/,gekon orzęsiony jakie terrarium,70,0.1,HIGH,29,2026-05,2026-01,,50,40,50,70,70,70,90,90,90,70,40,50,40,50,90
+terrarystyka,gekon płaczący,encja,/gatunki/gekon-placzacy/,gekon placzacy,5400,0.03,LOW,16,2026-06,2025-10,gekon płaczący,4400,5400,5400,6600,5400,4400,5400,5400,5400,5400,4400,3600,4400,6600,6600
+terrarystyka,gekon płaczący,encja,/gatunki/gekon-placzacy/,gekon płaczący cena,210,0.01,LOW,-5,2026-06,2025-10,,260,260,210,260,260,210,260,260,260,260,210,140,170,260,260
+terrarystyka,gekon płaczący,poradnik,/poradniki/terrarium-dla-gekon-placzacy/,gekon płaczący terrarium,170,0.14,HIGH,-30,2026-07,2025-11,,170,170,260,210,260,170,210,210,210,170,140,140,110,140,170
+terrarystyka,gekon toke,encja,/gatunki/gekon-toke/,gekon toke,2900,0.04,LOW,0,2026-06,2025-11,toke gekon,2400,2900,2900,2900,4400,2900,2900,3600,2900,2900,2900,2400,2400,2900,2900
+terrarystyka,gekon toke,encja,/gatunki/gekon-toke/,gekon toke cena,260,0.01,LOW,-15,2026-06,2026-02,,170,260,170,210,260,210,320,390,390,260,210,170,170,170,170
+terrarystyka,gekony (inne),hub,/gekony/,gekon,40500,0.09,LOW,-13,2026-06,2025-10,,33100,40500,33100,74000,40500,40500,33100,33100,33100,33100,33100,27100,27100,33100,33100
+terrarystyka,gekony (inne),poradnik,/poradniki/terrarium-dla-gekony-inne/,terrarium dla gekona,4400,0.14,HIGH,2,2026-06,2025-10,,3600,4400,4400,5400,5400,4400,5400,5400,4400,4400,3600,2900,2900,4400,5400
+terrarystyka,gekony (inne),encja,/gatunki/gekon-murowy/,gekon murowy,1600,0,LOW,0,2026-03,2025-10,,1000,1300,1300,6600,1900,880,720,590,480,590,590,1000,1000,1300,1300
+terrarystyka,gekony (inne),encja,/gatunki/gekon-madagaskarski/,gekon madagaskarski,1600,0.04,LOW,-18,2026-06,2026-04,,1600,1900,1600,1900,1900,1600,1900,1600,1900,2900,1300,1000,1000,1600,1600
+terrarystyka,gekony (inne),encja,/gatunki/gekon-olbrzymi/,gekon olbrzymi,1600,0.03,LOW,55,2025-10,2025-12,,1000,1300,1000,1300,1300,1900,1900,1900,1600,1600,1600,1300,1600,1600,1900
+terrarystyka,gekony (inne),hub,/gekony/,gekon ceny,1300,0.02,LOW,-3,2026-06,2025-10,,1000,1300,1300,2400,1600,1300,1000,1000,1000,1300,1000,720,880,1300,1300
+terrarystyka,gekony (inne),hub,/gekony/,gekon cena,1300,0.02,LOW,-3,2026-06,2025-10,,1000,1300,1300,2400,1600,1300,1000,1000,1000,1300,1000,720,880,1300,1300
+terrarystyka,gekony (inne),hub,/gekony/,ile kosztuje gekon,1000,0.02,LOW,-8,2026-06,2025-10,,1000,1300,1300,1900,1300,1000,1000,1000,1000,1000,1000,720,720,1300,1300
+terrarystyka,gekony (inne),encja,/gatunki/gekon-williamsa/,gekon williamsa,1000,0.04,LOW,10,2026-06,2026-04,,880,1000,1000,1000,1000,1000,1000,1000,1000,1300,1000,720,880,1000,1300
+terrarystyka,gekony (inne),encja,/gatunki/gekon-niebieski/,gekon niebieski,1000,0.11,LOW,4,2026-06,2025-10,,880,1000,880,1000,1000,1000,1000,1000,1000,1000,1000,880,880,1000,1000
+terrarystyka,gekony (inne),encja,/gatunki/gekon-domowy/,gekon domowy,880,0.07,LOW,19,2026-06,2026-08,,720,880,720,880,880,720,880,880,880,880,720,590,880,1000,880
+terrarystyka,gekony (inne),encja,/gatunki/gekon/,ile żyje gekon,720,,LOW,-6,2025-12,2025-10,,720,880,720,880,720,590,720,880,720,720,720,590,590,720,880
+terrarystyka,gekony (inne),encja,/gatunki/gekon-omszaly/,gekon omszały,720,0.02,LOW,50,2025-10,2025-12,,390,590,590,590,720,880,720,720,590,590,720,590,590,880,880
+terrarystyka,gekony (inne),encja,/gatunki/gekon-zielony/,gekon zielony,720,0.05,LOW,-18,2026-06,2025-10,,880,880,720,880,880,720,880,880,880,880,880,590,590,720,720
+terrarystyka,gekony (inne),encja,/gatunki/gekon-turecki/,gekon turecki,590,0.25,LOW,27,2026-03,2025-11,,480,880,590,390,1300,390,480,480,260,390,320,480,590,1000,880
+terrarystyka,gekony (inne),encja,/gatunki/gekon-rozowy/,gekon różowy,590,0.03,LOW,24,2025-12,2026-09,,480,480,480,590,590,480,590,590,590,590,590,480,480,590,720
+terrarystyka,gekony (inne),encja,/gatunki/gekon-gruboogonowy/,gekon gruboogonowy,590,0.03,LOW,87,2025-12,2026-08,,390,390,480,590,590,390,590,720,480,720,480,480,590,880,880
+terrarystyka,gekony (inne),encja,/gatunki/gekon-szczekajacy/,gekon szczekający,480,0.04,LOW,336,2025-12,2025-10,,90,140,210,1000,480,320,480,480,390,480,320,320,320,720,880
+terrarystyka,gekony (inne),encja,/gatunki/gekon/,co je gekon,390,,LOW,-5,2026-06,2025-10,,390,390,320,720,480,390,390,390,390,390,320,260,260,390,390
+terrarystyka,gekony (inne),encja,/gatunki/gekon-zmijowy/,gekon żmijowy,320,,LOW,6,2026-05,2026-09,,480,320,320,480,320,320,480,320,260,320,210,210,210,390,590
+terrarystyka,gekony (inne),encja,/gatunki/gekon-faldoskory/,gekon fałdoskóry,320,,LOW,-38,2025-11,2026-03,,390,480,390,320,260,260,320,260,390,320,320,260,260,260,260
+terrarystyka,gekony (inne),encja,/gatunki/gekon-chinski/,gekon chiński,320,,LOW,2,2026-05,2025-11,,260,320,260,320,390,390,390,320,260,260,210,210,210,260,390
+terrarystyka,gekony (inne),encja,/gatunki/gekon-liscioogonowy/,gekon liścioogonowy,320,,LOW,7,2026-05,2025-10,,260,320,260,590,390,320,320,320,320,320,260,260,260,320,320
+terrarystyka,gekony (inne),encja,/gatunki/gekon-czarny/,gekon czarny,260,0.01,LOW,-4,2026-06,2026-09,,260,320,320,320,260,260,320,260,320,320,210,170,210,260,390
+terrarystyka,gekony (inne),encja,/gatunki/gekon-dzienny/,gekon dzienny,260,,LOW,-7,2026-06,2026-01,,210,210,260,210,320,260,390,320,260,260,210,170,210,210,210
+terrarystyka,inne,porównanie/ranking,/porownania/filtr-kubelkowy/,filtr kubełkowy,720,0.17,HIGH,-38,2026-07,2025-10,,880,720,720,1000,1000,880,1000,880,720,720,590,590,480,480,480
+terrarystyka,inne,hub,/inne/,zwierzęta terrarystyczne,260,0.43,LOW,0,2026-05,2025-10,,210,260,210,320,320,260,320,320,260,260,210,210,210,210,260
+terrarystyka,jaszczurki (ogólnie),hub,/jaszczurki/,jaszczurka domowa,1900,0.04,LOW,5,2025-10,2026-01,,1900,2400,1600,1900,1900,1900,2400,1900,2400,2400,2400,1900,1900,2400,1900
+terrarystyka,jaszczurki (ogólnie),hub,/jaszczurki/,jaszczurka hodowla,480,0.02,LOW,-17,2026-03,2025-10,,590,720,590,590,480,480,590,590,390,390,480,390,390,590,590
+terrarystyka,jaszczurki (ogólnie),poradnik,/poradniki/terrarium-dla-jaszczurki-ogolnie/,terrarium dla jaszczurek,480,0.09,HIGH,-28,2025-12,2025-10,terrarium dla jaszczurki,590,880,720,590,590,390,480,390,390,590,590,480,390,590,590
+terrarystyka,jaszczurki (ogólnie),poradnik,/poradniki/terrarium-dla-jaszczurki-ogolnie/,jaszczurka do terrarium,390,0.07,MEDIUM,-6,2026-04,2025-11,jaszczurki do terrarium,390,390,390,390,480,390,480,480,480,320,390,320,320,390,390
+terrarystyka,jaszczurki (ogólnie),hub,/jaszczurki/,ile kosztuje jaszczurka,390,0.01,LOW,-23,2026-06,2026-08,,480,590,480,390,320,320,390,320,390,390,390,260,320,480,390
+terrarystyka,jaszczurki (ogólnie),porównanie/ranking,/porownania/jaszczurka-dla-poczatkujacych/,jaszczurka dla początkujących,260,0.01,LOW,-25,2026-06,2025-11,,260,390,260,260,320,260,320,260,260,260,260,170,210,210,260
+terrarystyka,jaszczurki (ogólnie),hub,/jaszczurki/,jaszczurka domowa cena,170,0.01,LOW,33,2025-10,2026-02,,110,140,110,140,140,170,170,210,210,170,170,140,140,170,170
+terrarystyka,kameleon jemeński,encja,/gatunki/kameleon-jemenski/,kameleon jemeński,2900,0.06,LOW,9,2026-06,2026-02,,2400,2900,2400,2900,2900,2900,2900,3600,2900,2900,2400,1900,1900,3600,2900
+terrarystyka,kameleon jemeński,encja,/gatunki/kameleon-jemenski/,kameleon jemeński cena,390,0.02,LOW,-6,2026-06,2025-10,,320,390,320,480,480,320,390,390,320,320,320,210,260,390,320
+terrarystyka,kameleony,encja,/gatunki/kameleony/,kameleon lamparci,2900,0.08,LOW,-14,2026-06,2026-04,,2400,3600,2400,2900,2900,2400,2900,2900,2900,3600,2900,1900,1900,2400,2900
+terrarystyka,kameleony,hub,/kameleony/,kameleon cena,2400,0.02,LOW,-27,2026-06,2025-10,,1900,4400,2900,2900,2900,2400,2900,2900,2400,2900,2400,1600,1900,2400,2400
+terrarystyka,kameleony,poradnik,/poradniki/terrarium-dla-kameleony/,terrarium dla kameleona,1000,0.08,HIGH,-12,2026-06,2025-11,,1000,1300,1000,1300,1600,1000,1300,1300,1300,1000,880,590,720,880,1300
+terrarystyka,kameleony,encja,/gatunki/kameleony/,kameleon jacksona,590,,LOW,13,2025-10,2026-01,,390,480,320,390,480,390,1900,880,720,590,480,390,390,480,480
+terrarystyka,kameleony,encja,/gatunki/kameleony/,kameleon domowy,320,0.03,LOW,-25,2026-06,2026-01,,260,480,320,320,320,260,390,320,320,320,260,210,210,260,320
+terrarystyka,kameleony,encja,/gatunki/kameleony/,kameleon lamparci cena,320,0.03,LOW,-18,2026-06,2025-10,,390,480,320,480,320,320,480,390,390,390,320,210,260,390,320
+terrarystyka,kameleony,encja,/gatunki/kameleony/,kameleon mały,320,0.04,LOW,-8,2026-06,2025-10,,260,390,260,390,320,260,390,390,320,320,260,210,260,320,260
+terrarystyka,kameleony,encja,/gatunki/kameleony/,kameleon hodowla,260,0.05,MEDIUM,-15,2026-06,2025-10,,170,320,260,260,260,260,260,210,260,260,260,170,170,260,210
+terrarystyka,kameleony,poradnik,/poradniki/terrarium-dla-kameleony/,kameleon terrarium,210,0.09,HIGH,-41,2026-06,2026-02,,210,320,260,260,260,260,260,320,260,170,140,90,90,170,210
+terrarystyka,kameleony,encja,/gatunki/kameleony/,ile kosztuje kameleon domowy,210,0.02,LOW,-14,2026-01,2026-05,,390,210,140,210,170,140,90,110,210,260,320,260,260,210,170
+terrarystyka,karaczany,encja,/gatunki/karaczany/,karaczan madagaskarski,2400,0.18,LOW,-6,2025-11,2025-10,,2900,2400,2400,2900,2400,2400,2400,2400,2400,2400,2400,2900,2400,2400,2400
+terrarystyka,karaczany,encja,/gatunki/karaczany/,karaczan turecki,2400,0.17,MEDIUM,-6,2025-11,2025-10,,2900,2900,2900,2900,1900,2400,2400,1900,2400,2400,1900,2400,2900,2900,2400
+terrarystyka,karaczany,encja,/gatunki/karaczany/,karaczan argentyński,880,0.51,LOW,-4,2025-10,2026-01,,1000,1000,1000,880,880,880,1000,1000,1000,880,880,1000,1000,1000,880
+terrarystyka,karaczany,encja,/gatunki/karaczany/,karaczan dubia,390,0.28,LOW,42,2025-11,2026-09,dubia karaczan,320,320,390,390,320,390,480,390,390,390,390,480,390,480,590
+terrarystyka,karaczany,encja,/gatunki/karaczany/,karaczan zielony,260,0.65,LOW,16,2025-12,2026-08,,390,320,260,210,210,140,210,210,320,260,260,390,390,480,260
+terrarystyka,karaczany,encja,/gatunki/karaczany/,karaczan ozdobny,260,0.13,LOW,41,2025-11,2025-12,,170,210,260,210,170,320,260,260,260,260,320,320,260,320,320
+terrarystyka,karaczany,encja,/gatunki/karaczany/,karaczan brazylijski,170,,LOW,-14,2026-04,2025-10,,210,170,210,210,170,210,210,170,210,140,170,170,170,170,170
+terrarystyka,karaczany,poradnik,/poradniki/karaczan-turecki-hodowla/,karaczan turecki hodowla,70,0.07,LOW,-38,2026-08,2025-10,,110,90,90,110,110,70,90,90,90,70,50,50,70,40,70
+terrarystyka,karaczany,poradnik,/poradniki/karaczan-madagaskarski-hodowla/,karaczan madagaskarski hodowla,70,,LOW,-17,2025-11,2026-01,,70,90,70,70,50,70,90,50,90,50,70,50,50,70,70
+terrarystyka,karmówki i suplementy,poradnik,/poradniki/macznik-mlynarek/,mącznik młynarek,3600,0.19,LOW,-45,2026-04,2026-06,,9900,9900,4400,3600,3600,2900,2900,2400,2400,1900,2400,8100,5400,5400,2400
+terrarystyka,karmówki i suplementy,poradnik,/poradniki/larwy-macznika/,larwy mącznika,1000,0.36,HIGH,-29,2025-12,2026-02,,1900,1300,880,1000,1000,720,1000,1300,880,880,1000,1000,1300,880,720
+terrarystyka,legwan,encja,/gatunki/legwan/,legwan,12100,0.1,LOW,-12,2026-06,2026-01,,12100,12100,12100,12100,12100,12100,14800,14800,12100,9900,9900,8100,9900,9900,12100
+terrarystyka,legwan,encja,/gatunki/legwan/,legwan zielony,5400,0.09,LOW,32,2025-10,2026-01,,3600,4400,4400,4400,5400,6600,8100,8100,5400,5400,4400,5400,4400,6600,5400
+terrarystyka,legwan,encja,/gatunki/legwan/,legwan niebieski,480,,LOW,-10,2026-06,2025-12,,390,390,480,480,590,880,590,590,480,480,390,210,260,480,390
+terrarystyka,legwan,encja,/gatunki/legwan/,legwan zielony cena,480,0.01,LOW,-49,2026-05,2026-01,,590,720,720,590,590,590,720,590,480,390,320,390,320,320,390
+terrarystyka,legwan,encja,/gatunki/legwan/,legwan olbrzymi,390,,LOW,-13,2026-03,2026-02,,390,480,390,390,390,390,390,480,320,320,320,320,320,390,390
+terrarystyka,legwan,encja,/gatunki/legwan/,legwan cena,390,0.01,LOW,-43,2026-05,2025-10,,390,590,590,590,480,390,590,480,480,390,260,260,260,320,320
+terrarystyka,legwan,encja,/gatunki/legwan/,legwan obrożny,390,,LOW,24,2025-10,2025-12,,260,260,260,260,390,480,480,480,390,320,320,260,260,320,390
+terrarystyka,legwan,poradnik,/poradniki/terrarium-dla-legwan/,terrarium dla legwana,210,0.06,HIGH,-34,2026-05,2025-10,,170,210,260,260,260,260,260,210,170,210,110,140,140,140,140
+terrarystyka,legwan,encja,/gatunki/legwan/,legwan czerwony,140,,LOW,-35,2026-05,2025-12,,170,140,170,210,210,260,170,210,210,140,90,90,110,90,110
+terrarystyka,legwan,encja,/gatunki/legwan/,legwan domowy,140,0.01,LOW,-21,2026-04,2025-12,,110,110,170,140,140,170,140,140,170,90,110,110,110,110,90
+terrarystyka,legwan,encja,/gatunki/legwan/,legwan olbrzymi cena,140,,LOW,-30,2026-05,2026-01,,140,210,210,170,140,170,210,170,110,140,90,140,110,140,140
+terrarystyka,legwan,encja,/gatunki/legwan/,legwan malachitowy,140,,LOW,-44,2026-01,2025-12,,260,210,170,140,140,170,110,140,170,140,110,140,110,140,110
+terrarystyka,legwan,encja,/gatunki/legwan/,legwan czarny,140,,LOW,80,2025-10,2026-02,,70,90,90,90,90,90,170,210,210,140,140,170,170,140,140
+terrarystyka,legwan,poradnik,/poradniki/terrarium-dla-legwan/,legwan zielony terrarium,110,0.13,HIGH,-50,2026-09,2026-01,,140,140,140,110,140,140,170,140,140,90,90,90,70,90,50
+terrarystyka,modliszki,hub,/modliszki/,modliszka,27100,0.08,LOW,6,2025-11,2026-08,,33100,74000,74000,27100,14800,14800,14800,14800,18100,18100,18100,18100,27100,90500,74000
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka storczykowa,8100,0.1,LOW,0,2026-05,2026-08,,8100,12100,12100,9900,8100,8100,8100,8100,8100,8100,6600,6600,8100,12100,12100
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka diabelska,1900,0.05,LOW,4,2025-11,2026-08,,1600,2900,2900,1900,1300,1900,1600,1300,1600,1600,1600,1300,1900,2900,2900
+terrarystyka,modliszki,poradnik,/poradniki/terrarium-dla-modliszki/,terrarium dla modliszki,880,0.12,HIGH,15,2026-06,2026-08,terrarium dla modliszek,720,1600,1600,1000,720,720,590,720,720,590,590,480,720,1900,1900
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka liściogłowa,720,0.15,LOW,-10,2026-06,2025-10,,720,880,1000,880,590,720,590,590,720,590,590,480,590,880,880
+terrarystyka,modliszki,encja,/gatunki/modliszki/,ile żyje modliszka,720,0.01,LOW,-7,2025-12,2026-08,,590,1600,1900,880,480,390,390,390,390,480,390,390,590,1600,1600
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka orchidea,590,0.05,LOW,-20,2025-12,2026-08,,720,1000,880,590,480,390,390,480,480,480,480,480,480,880,720
+terrarystyka,modliszki,encja,/gatunki/modliszki/,co je modliszka,590,,LOW,-2,2026-01,2026-08,modliszka co je,480,1900,2400,720,260,170,140,140,170,170,140,170,390,2400,1900
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka olbrzymia,590,0.15,LOW,62,2025-12,2026-08,,390,880,880,480,480,320,390,320,390,390,390,480,590,1600,1300
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka szara,590,,LOW,1921,2026-01,2026-09,,20,140,170,30,30,20,10,10,10,10,20,40,170,2900,3600
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka oczkowa,480,0.26,LOW,-17,2025-12,2026-08,,590,720,590,480,480,390,390,390,480,390,390,390,390,590,590
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka zielona,390,0.35,LOW,-4,2025-12,2026-08,,390,1300,1300,320,170,110,140,170,170,140,170,170,260,1600,1000
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka gwinejska,390,0.21,LOW,70,2025-10,2026-08,,260,390,480,260,390,260,260,260,320,260,320,320,480,720,720
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka cena,320,0.06,MEDIUM,-1,2026-01,2026-08,,260,720,720,390,260,210,170,210,260,210,170,170,210,880,590
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka storczykowa cena,320,0.11,LOW,17,2026-01,2026-09,,320,390,480,480,260,260,210,260,320,260,260,260,320,480,590
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka brązowa,260,0.03,LOW,41,2025-12,2026-08,,110,720,880,210,50,40,40,40,70,50,50,40,110,1300,1000
+terrarystyka,modliszki,encja,/gatunki/modliszki/,ile kosztuje modliszka,260,0.03,LOW,-36,2025-12,2026-08,,320,1300,1000,320,170,110,140,140,170,140,140,140,210,880,590
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka samica,210,0.22,LOW,0,2026-01,2026-08,,170,720,880,210,90,70,50,70,70,70,90,70,170,880,720
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka samiec,210,0.22,LOW,0,2026-01,2026-08,,170,720,880,210,90,70,50,70,70,70,90,70,170,880,720
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka chińska,210,0.44,LOW,3,2026-06,2026-08,,170,390,480,210,140,140,210,170,140,140,140,90,110,480,480
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka storczykowa ile żyje,210,,LOW,5,2025-11,2026-03,,140,210,210,210,140,210,170,170,260,210,170,170,170,210,210
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka terrarium,170,0.11,HIGH,14,2026-02,2026-08,,110,210,260,210,140,140,140,110,140,140,110,110,140,260,260
+terrarystyka,modliszki,encja,/gatunki/modliszki/,modliszka samiec i samica,170,0.02,LOW,-32,2025-12,2026-08,,140,880,1000,70,70,50,70,90,70,70,70,70,110,880,390
+terrarystyka,modliszki,poradnik,/poradniki/modliszka-hodowla/,modliszka hodowla,140,0.13,MEDIUM,12,2026-05,2026-08,,90,210,260,170,140,90,110,140,110,90,70,110,110,260,260
+terrarystyka,patyczaki,hub,/patyczaki/,patyczak,18100,0.09,LOW,-6,2026-02,2026-09,,18100,18100,22200,18100,18100,18100,18100,14800,18100,18100,18100,14800,14800,18100,22200
+terrarystyka,patyczaki,poradnik,/poradniki/terrarium-dla-patyczaki/,terrarium dla patyczaków,2900,0.1,HIGH,6,2026-01,2025-10,terrarium dla patyczaka,2400,2400,3600,3600,3600,2900,2400,2400,2900,2400,2400,2400,2400,2900,3600
+terrarystyka,patyczaki,poradnik,/poradniki/co-jedza-patyczaki/,co jedzą patyczaki,2400,0.01,LOW,-19,2026-06,2025-10,,2400,2400,2900,3600,3600,2900,2900,2400,2900,2400,2400,1900,1900,1900,2400
+terrarystyka,patyczaki,encja,/gatunki/patyczaki/,ile żyje patyczak,1900,0,LOW,-18,2026-06,2025-10,patyczak ile żyje,1900,2400,2900,2900,2400,2400,2400,1900,1900,1900,1900,1600,1600,1900,2400
+terrarystyka,patyczaki,encja,/gatunki/patyczaki/,patyczak hodowla,1000,0.03,MEDIUM,26,2026-04,2026-09,patyczaki hodowla,880,880,1000,1300,1300,1000,1300,1000,880,720,880,720,1000,880,1600
+terrarystyka,patyczaki,encja,/gatunki/patyczaki/,patyczak olbrzymi,590,0.01,LOW,-30,2026-06,2025-10,,880,1000,880,880,720,590,590,720,590,590,480,390,480,720,720
+terrarystyka,patyczaki,encja,/gatunki/patyczaki/,co je patyczak,590,0.01,LOW,-23,2026-07,2025-10,patyczak co je,480,480,720,720,720,590,590,480,590,590,480,390,320,390,590
+terrarystyka,patyczaki,encja,/gatunki/patyczaki/,patyczak cena,480,0.02,LOW,0,2026-06,2025-10,,390,480,480,590,480,480,480,480,590,390,390,320,390,480,480
+terrarystyka,patyczaki,encja,/gatunki/patyczaki/,ile kosztuje patyczak,480,0.02,LOW,-28,2026-06,2025-10,,720,590,720,720,590,480,480,390,590,390,390,320,390,480,590
+terrarystyka,patyczaki,encja,/gatunki/patyczaki/,patyczak indyjski,480,,LOW,42,2025-12,2026-08,,390,390,480,480,590,390,480,390,480,480,480,480,480,720,590
+terrarystyka,patyczaki,poradnik,/poradniki/terrarium-dla-patyczaki/,patyczaki terrarium,390,0.06,HIGH,-18,2026-02,2025-10,patyczak terrarium,390,390,590,590,390,390,390,320,480,480,390,320,320,320,480
+terrarystyka,patyczaki,poradnik,/poradniki/patyczak-rozmnazanie/,patyczak rozmnażanie,260,,LOW,0,2026-07,2025-10,,260,210,260,320,320,320,320,260,320,260,260,260,210,260,260
+terrarystyka,patyczaki,encja,/gatunki/patyczaki/,patyczak gigant,260,0.02,LOW,-61,2025-10,2026-03,,1600,390,170,170,210,210,210,260,320,260,170,260,210,320,320
+terrarystyka,patyczaki,poradnik,/poradniki/patyczak-jak-hodowac/,patyczak jak hodować,210,0.04,MEDIUM,148,2025-12,2026-09,,50,110,170,210,210,140,170,210,210,210,210,210,170,260,390
+terrarystyka,patyczaki,poradnik,/poradniki/terrarium-dla-patyczaki/,terrarium na patyczaki,210,0.1,HIGH,2,2026-07,2025-10,,170,170,320,320,260,210,210,170,260,170,170,170,140,210,320
+terrarystyka,patyczaki,poradnik,/poradniki/jak-dlugo-zyje-patyczak/,jak długo żyje patyczak,170,0.01,LOW,16,2025-12,2025-11,,110,170,170,170,210,140,210,140,140,140,170,140,140,210,170
+terrarystyka,patyczaki,poradnik,/poradniki/terrarium-dla-patyczaki/,jak urządzić terrarium dla patyczaka,170,0.05,HIGH,-13,2026-04,2025-10,,170,170,260,210,170,140,140,140,170,110,110,110,140,170,210
+terrarystyka,patyczaki,encja,/gatunki/patyczaki/,patyczak zwisający,170,0.04,HIGH,8,2025-12,2025-10,,170,170,140,210,140,90,140,170,170,140,170,110,140,170,210
+terrarystyka,patyczaki,encja,/gatunki/patyczaki/,patyczak skrzydlaty,170,,LOW,-5,2026-01,2026-08,,170,210,170,170,170,170,140,170,170,140,140,140,140,210,170
+terrarystyka,patyczaki,encja,/gatunki/patyczaki/,patyczak niebieski,170,,LOW,-13,2026-07,2026-03,,170,140,210,170,170,140,170,170,210,210,140,140,110,170,170
+terrarystyka,patyczaki,encja,/gatunki/patyczaki/,patyczak wietnamski,170,,LOW,67,2025-12,2026-02,,110,110,110,140,170,90,140,210,140,170,170,110,170,210,170
+terrarystyka,patyczaki,encja,/gatunki/patyczaki/,patyczak czerwonoskrzydły,170,,LOW,-6,2025-12,2025-11,,170,170,170,170,210,110,170,140,170,170,210,170,140,170,170
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik goliat,6600,0.12,LOW,-7,2025-11,2026-05,,8100,8100,6600,5400,4400,4400,5400,5400,5400,6600,8100,6600,6600,8100,6600
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik kędzierzawy,2900,0.19,LOW,31,2025-11,2026-08,,2400,2900,2400,2900,2400,2400,2900,2900,2900,2900,2900,2900,2900,3600,3600
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik białokolanowy,1900,0.19,LOW,-11,2025-11,2026-06,,1900,1900,1900,1900,1600,1600,1600,1900,1900,1600,1600,2400,1600,1900,1600
+terrarystyka,ptaszniki,hub,/ptaszniki/,pająk ptasznik,1600,0.07,LOW,0,2025-11,2025-10,pająki ptasznik | ptasznik pająk,1900,1900,1600,1900,1600,1600,1600,1600,1900,1900,1900,1600,1900,1900,1600
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik olbrzymi,1300,0.14,LOW,-12,2025-10,2026-02,,1900,1900,1300,1300,1300,1300,1300,1600,1300,1300,1300,1300,1300,1600,1600
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik australijski,1300,,LOW,-19,2025-12,2026-06,,1900,1900,1000,1000,1000,880,1000,1000,1300,1300,1300,1600,1600,1300,1000
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik czerwonokolanowy,1300,0.18,LOW,17,2025-10,2026-08,,1300,1300,1000,1000,1000,1300,1000,1000,1300,1300,1300,1000,1300,1600,1300
+terrarystyka,ptaszniki,poradnik,/poradniki/terrarium-dla-ptaszniki/,terrarium dla pająka,1000,0.13,HIGH,-33,2026-06,2025-10,,1300,1300,1300,1300,1300,1300,1000,1000,1000,880,880,720,720,1000,880
+terrarystyka,ptaszniki,poradnik,/poradniki/terrarium-dla-ptaszniki/,terrarium dla skakuna,1000,0.09,HIGH,185,2025-10,2026-08,,480,590,720,590,720,720,880,720,590,720,880,1000,1600,1900,1600
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik fioletowy,1000,0.03,LOW,-39,2026-06,2025-10,,1600,1600,1300,1300,1300,1000,1300,1300,1300,1300,880,720,880,1000,880
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik niebieski,880,0.15,LOW,-29,2025-11,2025-10,niebieski ptasznik,1300,1600,1000,1000,880,1000,880,880,880,880,1000,880,880,1000,880
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik słoneczny,480,0.16,LOW,-13,2025-11,2025-10,,590,590,480,590,480,590,480,480,480,480,480,480,480,480,480
+terrarystyka,ptaszniki,poradnik,/poradniki/terrarium-dla-ptaszniki/,terrarium dla ptasznika,390,0.14,HIGH,2,2026-05,2025-10,,390,480,390,480,390,390,480,480,480,480,320,320,320,480,480
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik metallica,390,0.41,LOW,-20,2025-10,2025-12,metallica ptasznik,480,590,390,390,390,480,390,390,390,390,390,390,390,390,390
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik różowy,390,0.07,MEDIUM,-28,2026-06,2025-10,,480,480,480,590,390,390,390,320,390,390,320,260,390,320,320
+terrarystyka,ptaszniki,porównanie/ranking,/porownania/ptasznik-dla-poczatkujacych/,ptasznik dla początkujących,390,0.15,HIGH,-18,2026-06,2025-11,ptasznik dla poczatkujacego,390,480,390,390,480,390,480,480,390,390,320,260,320,320,390
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,electric blue ptasznik,390,0.08,LOW,-13,2026-06,2026-02,,390,480,390,390,390,390,390,480,390,480,390,320,390,390,320
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik królewski,390,0.11,LOW,-13,2025-12,2025-10,,480,390,390,390,390,320,390,390,320,390,390,320,390,390,320
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik wielobarwny,320,0.41,LOW,-6,2026-01,2025-10,,320,390,390,390,320,320,260,320,390,390,320,320,320,390,320
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik śnieżny,320,0.36,LOW,-32,2026-08,2025-12,,390,390,320,390,390,480,320,320,320,320,320,260,260,170,320
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik kolorowy,320,0.25,LOW,-23,2026-05,2026-04,,390,390,390,320,320,320,320,320,320,390,260,320,260,320,320
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik cena,320,0.12,MEDIUM,-18,2026-06,2026-01,,390,320,320,320,320,320,390,390,390,390,320,260,260,320,260
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik nadrzewny,260,0.14,LOW,34,2026-01,2026-05,,170,210,210,260,210,210,170,210,260,260,480,260,320,260,210
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik wenezuelski,260,0.31,LOW,-35,2026-06,2025-11,,390,390,260,260,320,260,260,260,260,320,260,210,210,210,260
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik goliat cena,260,0.1,LOW,15,2025-10,2026-01,,260,260,210,210,260,260,320,260,260,260,260,210,260,320,260
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,nicaragua ptasznik,210,0.19,LOW,-34,2026-07,2026-03,,260,210,210,210,210,210,210,170,260,260,170,140,110,170,170
+terrarystyka,ptaszniki,encja,/gatunki/ptaszniki/,ptasznik ukraiński,170,,LOW,-43,2025-12,2026-08,,320,480,320,210,170,110,140,110,170,170,170,170,210,260,170
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski,14800,0.09,LOW,15,2026-05,2026-01,,12100,14800,12100,14800,14800,14800,18100,14800,14800,18100,12100,12100,18100,14800,12100
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski cena,1300,0.05,LOW,-7,2026-06,2026-04,,1300,1600,1300,1300,1300,1300,1600,1300,1300,1900,1000,880,1600,1300,1000
+terrarystyka,pyton królewski,poradnik,/poradniki/terrarium-dla-pyton-krolewski/,terrarium dla pytona królewskiego,590,0.16,HIGH,8,2026-06,2026-01,,390,480,590,590,590,590,720,720,590,480,590,390,390,590,590
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski biały,480,0.21,LOW,0,2025-10,2026-01,biały pyton królewski,480,480,390,390,480,480,720,390,480,480,390,390,480,480,390
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski albino,480,,LOW,-13,2026-06,2026-01,pyton królewski albinos,480,590,480,390,480,390,590,590,390,390,390,320,480,480,390
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski niebieski,390,0.02,LOW,-19,2026-06,2025-10,,480,480,480,480,480,390,480,480,480,390,390,320,390,390,390
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski długość,320,,LOW,0,2026-06,2026-01,,260,320,320,320,320,260,390,320,320,390,260,170,320,320,260
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski rozmiar,320,0.3,LOW,14,2026-06,2026-01,pyton królewski rozmiary,260,320,260,320,320,320,390,320,260,320,260,210,320,320,320
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski hodowla,320,,LOW,-13,2026-06,2026-01,hodowla pyton królewski,320,390,320,320,260,320,390,320,320,320,260,210,260,320,320
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,ile kosztuje pyton królewski,260,0.03,LOW,-10,2026-03,2026-04,,260,390,260,210,210,210,260,260,170,390,210,170,390,260,170
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski banana,210,,LOW,-2,2026-05,2026-01,,170,260,210,210,210,260,390,260,210,210,170,170,210,210,210
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,ile żyje pyton królewski,210,,LOW,7,2026-05,2025-10,pyton królewski ile żyje,210,170,210,210,210,210,210,210,210,210,170,170,210,210,210
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski terrarium,210,0.1,HIGH,-25,2026-06,2025-11,terrarium pyton królewski,210,260,260,260,320,260,320,260,210,210,210,140,170,170,210
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski odmiany barwne,170,,LOW,-24,2026-06,2026-01,,170,210,210,170,210,140,260,210,170,170,140,90,140,170,140
+terrarystyka,pyton królewski,poradnik,/poradniki/terrarium-dla-pyton-krolewski/,jakie terrarium dla pytona królewskiego,140,0.1,HIGH,0,2026-04,2025-11,,110,110,140,140,170,140,170,140,110,90,90,90,110,140,110
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski czarny,140,,LOW,-7,2026-08,2025-10,,140,140,140,170,140,140,170,140,140,140,140,140,140,110,140
+terrarystyka,pyton królewski,encja,/gatunki/pyton-krolewski/,pyton królewski piebald,140,,LOW,0,2026-04,2026-01,,140,140,170,140,170,110,210,140,140,90,90,90,140,170,140
+terrarystyka,pytony (inne),encja,/gatunki/pyton-siatkowy/,pyton siatkowy,6600,,LOW,49,2025-10,2026-09,,6600,4400,4400,4400,5400,5400,5400,5400,5400,4400,5400,8100,5400,5400,12100
+terrarystyka,pytony (inne),encja,/gatunki/pyton-birmanski/,pyton birmański,5400,,LOW,374,2025-12,2026-01,,2400,1600,1300,1600,1600,1300,22200,1900,1600,1600,1600,1600,1600,22200,1300
+terrarystyka,pytony (inne),encja,/gatunki/pyton-zielony/,pyton zielony,1900,0.05,LOW,-6,2026-05,2026-01,,1900,1600,1900,1900,1900,1900,2400,1900,1900,1900,1600,1600,1600,1600,1900
+terrarystyka,pytony (inne),encja,/gatunki/pyton-dywanowy/,pyton dywanowy,720,,LOW,28,2026-04,2026-01,,590,720,590,720,720,720,1600,720,720,590,590,590,720,720,1000
+terrarystyka,pytony (inne),encja,/gatunki/pyton-skalny/,pyton skalny,480,,LOW,8,2026-03,2025-11,,720,390,320,390,590,480,590,480,320,480,390,390,480,590,480
+terrarystyka,pytony (inne),encja,/gatunki/pyton-krwisty/,pyton krwisty,260,,LOW,-6,2026-03,2026-01,,320,320,260,320,260,260,390,260,170,320,170,260,320,210,320
+terrarystyka,pytony (inne),encja,/gatunki/pyton-zielony/,pyton zielony cena,260,,LOW,6,2026-05,2025-11,,170,210,260,260,320,210,320,320,210,210,170,170,210,210,260
+terrarystyka,pytony (inne),encja,/gatunki/pyton-siatkowy/,pyton siatkowy długość,210,,LOW,-50,2026-07,2025-10,,320,320,260,260,260,260,260,210,170,170,210,170,110,170,170
+terrarystyka,pytony (inne),encja,/gatunki/pyton-siatkowy/,pyton siatkowy cena,170,,LOW,67,2025-10,2026-07,,140,110,110,140,170,140,170,170,140,140,140,170,260,170,170
+terrarystyka,pytony (inne),encja,/gatunki/pyton-albinos/,pyton albinos,170,,LOW,-8,2026-03,2025-10,,170,210,140,170,170,170,170,170,140,170,170,170,170,170,140
+terrarystyka,pytony (inne),encja,/gatunki/pyton-bananowy/,pyton bananowy,170,,LOW,-29,2026-09,2025-10,,90,210,260,210,170,170,210,210,170,170,110,110,170,140,90
+terrarystyka,pytony (inne),encja,/gatunki/pyton-psioglowy/,pyton psiogłowy,170,,LOW,41,2026-06,2025-10,,110,70,140,210,210,170,170,140,170,110,140,90,140,140,170
+terrarystyka,pytony (inne),hub,/pytony/,pyton cena,140,,LOW,9,2025-10,2026-03,,90,110,140,90,140,140,170,170,210,210,140,90,170,110,90
+terrarystyka,pytony (inne),encja,/gatunki/pyton-ametystowy/,pyton ametystowy,140,,LOW,-26,2025-10,2026-02,,170,140,110,90,140,110,110,210,140,170,140,110,90,110,110
+terrarystyka,scynki,encja,/gatunki/scynki/,scynk krokodylowy,2900,0.01,LOW,0,2026-07,2026-04,scynk krokodyli,1600,2900,1900,1900,2400,1900,1900,1900,5400,6600,2400,2900,1600,2400,2400
+terrarystyka,scynki,encja,/gatunki/scynki/,scynk olbrzymi,1600,0.01,LOW,87,2026-04,2026-09,,590,1900,880,1300,1300,1900,1600,1600,1300,1000,1000,1300,1000,2400,2900
+terrarystyka,scynki,encja,/gatunki/scynki/,scynk,1000,0.03,LOW,16,2026-07,2026-01,,590,1300,720,1000,1000,1000,1300,880,880,880,880,880,720,1000,1300
+terrarystyka,scynki,encja,/gatunki/scynki/,scynk ognisty,590,0.17,LOW,-24,2025-10,2026-01,,590,1300,480,480,590,590,720,720,720,720,480,480,480,720,590
+terrarystyka,scynki,encja,/gatunki/scynki/,scynk krokodylowy cena,390,0.05,LOW,-31,2026-07,2026-03,,210,590,210,320,390,320,320,320,1000,1000,320,320,170,320,210
+terrarystyka,scynki,encja,/gatunki/scynki/,scynk olbrzymi cena,170,0.03,LOW,78,2025-11,2026-08,,50,320,90,110,90,210,140,170,110,140,140,110,110,390,320
+terrarystyka,skorpiony,encja,/gatunki/skorpiony/,skorpion cesarski,1000,0.2,LOW,10,2026-04,2026-01,,1000,1000,1000,1000,1000,1000,1300,1000,1000,880,880,880,1000,1000,1300
+terrarystyka,teju,encja,/gatunki/teju/,teju argentyński,2900,,LOW,-30,2025-10,2026-03,,2400,8100,2900,2900,2900,2900,2900,2900,3600,3600,3600,3600,2900,2900,3600
+terrarystyka,teju,encja,/gatunki/teju/,teju,720,1.15,LOW,-23,2026-07,2026-01,,720,880,720,590,720,590,1000,880,720,720,720,590,480,590,720
+terrarystyka,terrarium i sprzęt (ogólne),hub,/terrarium-i-sprzet/,terrarium,9900,0.16,HIGH,-13,2026-06,2025-10,terrarystyka,8100,9900,8100,33100,9900,9900,9900,9900,8100,8100,8100,6600,6600,8100,8100
+terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/mata-grzewcza/,mata grzewcza,6600,0.76,HIGH,-10,2026-07,2026-01,,3600,4400,6600,8100,9900,8100,14800,9900,6600,5400,4400,3600,2900,3600,6600
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/mata-grzewcza-do-terrarium/,mata grzewcza do terrarium,1900,0.21,HIGH,4,2026-06,2026-01,,1000,1600,1900,2400,2400,2400,2900,2400,1600,1600,1300,1000,1000,1300,2400
+terrarystyka,terrarium i sprzęt (ogólne),hub,/terrarium-i-sprzet/,zwierzęta egzotyczne,1900,0.07,LOW,-28,2026-08,2026-02,,1000,1300,1300,1900,1900,1600,2400,4400,2400,2400,2400,1900,880,720,1000
+terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/lampa-uvb/,lampa uvb,1000,0.29,HIGH,-21,2026-06,2025-12,,880,880,1000,1300,1300,1600,1300,1300,1000,880,880,590,590,720,880
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/rosliny-do-terrarium/,rośliny do terrarium,880,0.2,HIGH,22,2026-05,2026-01,,720,590,720,880,880,880,1000,1000,1000,880,590,590,720,880,880
+terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/terrarium-80x40/,terrarium 80x40,880,0.15,HIGH,19,2026-06,2026-01,terrarium 80x40x40,480,880,720,720,880,880,1000,880,880,720,720,590,720,880,880
+terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/terrarium-40x40x60/,terrarium 40x40x60,880,0.22,HIGH,23,2025-10,2026-09,,590,880,880,720,1000,880,1000,1000,1000,880,720,720,720,880,1300
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/terrarium-dla-slimakow/,terrarium dla ślimaków,720,0.1,HIGH,14,2025-12,2026-05,terrarium dla ślimaka,880,720,720,590,480,390,480,390,480,590,1000,1000,880,880,880
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/lampy-grzewcze-do-terrarium/,lampy grzewcze do terrarium,720,0.19,HIGH,8,2026-06,2025-11,,390,590,590,720,880,720,880,720,720,720,590,390,390,590,720
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/lampa-grzewcza-do-terrarium/,lampa grzewcza do terrarium,720,0.19,HIGH,8,2026-06,2025-11,,390,590,590,720,880,720,880,720,720,720,590,390,390,590,720
+terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/terrarium-120x60x60/,terrarium 120x60x60,720,0.25,HIGH,63,2025-10,2026-08,,590,590,590,590,720,720,880,880,720,720,720,590,880,1000,1000
+terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/terrarium-60x40x40/,terrarium 60x40x40,720,0.2,HIGH,-6,2026-06,2025-11,,720,880,720,720,880,720,880,880,720,720,590,480,590,720,880
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/termostat-do-terrarium/,termostat do terrarium,590,0.16,HIGH,64,2026-05,2026-01,termometr do terrarium,320,390,480,590,590,590,880,720,590,720,480,480,480,590,880
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/lampy-do-terrarium/,lampy do terrarium,480,0.19,HIGH,-23,2026-06,2025-10,,320,390,590,590,590,590,590,590,480,480,390,260,260,260,480
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/lampa-do-terrarium/,lampa do terrarium,480,0.19,HIGH,-23,2026-06,2025-10,,320,390,590,590,590,590,590,590,480,480,390,260,260,260,480
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/zraszacz-do-terrarium/,zraszacz do terrarium,480,0.16,HIGH,7,2026-05,2025-11,,320,320,390,390,590,480,590,590,590,480,320,320,320,390,390
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/scianka-do-terrarium/,ścianka do terrarium,480,0.08,HIGH,1,2026-05,2026-01,,480,480,480,590,590,590,720,590,590,480,320,320,390,480,590
+terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/terrarium-100x50x50/,terrarium 100x50x50,480,0.16,HIGH,14,2026-04,2026-01,,390,480,390,480,480,480,590,590,590,390,480,390,480,480,480
+terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/terrarium-45x45x60/,terrarium 45x45x60,480,0.21,HIGH,89,2026-05,2026-09,,260,320,320,390,390,390,480,590,390,390,320,390,390,590,720
+terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/terrarium-30x30x30/,terrarium 30x30x30,480,0.18,HIGH,-8,2026-06,2025-11,,390,590,480,480,590,480,590,590,480,480,390,320,390,480,480
+terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/terrarium-szklane/,terrarium szklane,480,0.25,HIGH,8,2026-06,2026-01,,390,390,390,480,480,480,590,480,390,480,390,320,390,390,480
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/korzenie-do-terrarium/,korzenie do terrarium,390,0.13,HIGH,-12,2026-05,2026-01,korzeń do terrarium,320,390,390,390,390,390,590,590,390,320,260,260,260,320,390
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/wodospad-do-terrarium/,wodospad do terrarium,390,0.11,HIGH,-18,2026-06,2026-01,,390,390,390,390,390,390,480,480,480,390,320,260,320,320,320
+terrarystyka,terrarium i sprzęt (ogólne),hub,/terrarium-i-sprzet/,gady domowe,390,0.02,LOW,-12,2026-09,2026-01,,390,390,320,390,390,320,590,480,480,480,320,320,320,390,260
+terrarystyka,terrarium i sprzęt (ogólne),porównanie/ranking,/porownania/terrarium-20x20x30/,terrarium 20x20x30,390,0.19,HIGH,14,2026-05,2025-12,,320,480,320,390,390,480,390,390,390,390,320,320,320,480,480
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/lampa-uvb-do-terrarium/,lampa uvb do terrarium,260,0.24,HIGH,-12,2026-07,2026-01,,210,260,260,320,320,320,390,390,320,260,260,210,170,210,260
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/higrometr-do-terrarium/,higrometr do terrarium,260,0.23,HIGH,-6,2026-05,2025-10,,260,260,320,320,320,320,320,320,320,260,210,210,210,260,320
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/podloze-do-terrarium/,podłoże do terrarium,260,0.26,HIGH,-19,2026-05,2026-01,,320,260,260,320,320,260,390,390,390,260,210,210,260,210,210
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/weterynarz-gady/,weterynarz gady,210,0.49,LOW,-26,2025-11,2026-03,,260,260,170,210,170,210,260,170,320,260,210,170,170,170,170
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/oswietlenie-terrarium/,oświetlenie terrarium,110,0.16,HIGH,-21,2026-06,2026-03,,90,110,90,110,110,110,140,140,170,110,90,40,70,90,70
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/terrarium-bioaktywne/,terrarium bioaktywne,110,0.12,HIGH,164,2025-10,2026-09,bioaktywne terrarium,40,50,50,70,90,90,90,90,140,90,110,70,90,110,170
+terrarystyka,terrarium i sprzęt (ogólne),narzędzie,/narzedzia/koszt-startu-terrarium/,ile kosztuje terrarium,110,0.03,HIGH,6,2026-06,2026-01,,110,140,90,110,110,110,170,110,110,90,90,70,110,140,110
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/brumacja/,brumacja,110,,LOW,15,2026-06,2026-01,,70,40,90,110,140,170,260,170,110,110,90,50,50,70,110
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/kabel-grzewczy-terrarium/,kabel grzewczy terrarium,90,0.17,HIGH,108,2026-04,2026-01,,30,40,50,90,110,70,140,70,90,50,70,50,50,90,110
+terrarystyka,terrarium i sprzęt (ogólne),poradnik,/poradniki/wlokno-kokosowe-terrarium/,włókno kokosowe terrarium,30,0.31,HIGH,83,2025-10,2026-08,,30,10,20,20,20,20,20,20,30,20,30,20,30,40,40
+terrarystyka,warany,hub,/warany/,waran,12100,0.08,LOW,47,2025-10,2026-03,,8100,8100,9900,8100,9900,9900,12100,12100,18100,14800,8100,8100,18100,8100,12100
+terrarystyka,warany,encja,/gatunki/warany/,waran stepowy,1600,,LOW,-6,2025-10,2026-01,,1600,1600,1900,1600,1900,1900,2900,1900,1600,1600,1600,1600,1600,1600,1600
+terrarystyka,wąż królewski,encja,/gatunki/waz-krolewski/,wąż królewski,590,0.04,LOW,-1,2025-10,2026-01,,720,590,480,590,590,590,880,720,720,720,590,590,590,590,590
+terrarystyka,wąż mleczny,encja,/gatunki/waz-mleczny/,wąż mleczny,880,0.1,LOW,-14,2026-07,2025-11,,1000,1000,880,880,1000,880,1000,1000,1000,1000,880,880,720,880,880
+terrarystyka,wąż zbożowy,encja,/gatunki/waz-zbozowy/,wąż zbożowy,22200,0.2,LOW,7,2025-10,2026-01,,22200,22200,18100,18100,22200,22200,27100,22200,27100,22200,22200,18100,22200,22200,22200
+terrarystyka,wąż zbożowy,encja,/gatunki/waz-zbozowy/,wąż zbożowy cena,1900,0.03,LOW,12,2025-11,2026-01,,1600,1900,1600,1900,1600,1900,2400,2400,1900,1900,1900,1600,1900,1900,1900
+terrarystyka,wąż zbożowy,poradnik,/poradniki/terrarium-dla-waz-zbozowy/,terrarium dla węża zbożowego,1000,0.17,HIGH,11,2026-06,2026-01,,720,880,880,1000,1000,1000,1300,1000,1000,1000,880,720,880,880,1000
+terrarystyka,wąż zbożowy,encja,/gatunki/waz-zbozowy/,ile kosztuje wąż zbożowy,590,0.03,LOW,7,2026-06,2026-01,,480,590,480,590,590,480,720,590,590,590,590,390,480,590,590
+terrarystyka,wąż zbożowy,poradnik,/poradniki/terrarium-dla-waz-zbozowy/,wąż zbożowy terrarium,480,0.09,HIGH,-19,2026-06,2026-01,,480,590,480,480,590,480,720,590,590,590,480,320,390,390,480
+terrarystyka,wąż zbożowy,encja,/gatunki/waz-zbozowy/,ile żyje wąż zbożowy,480,,LOW,7,2026-06,2026-01,wąż zbożowy ile żyje,390,480,390,480,480,480,590,480,480,590,480,390,480,480,390
+terrarystyka,wąż zbożowy,encja,/gatunki/waz-zbozowy/,wąż zbożowy albino,320,0.01,LOW,-18,2026-06,2025-10,,390,480,390,390,320,320,390,320,390,390,390,260,320,390,320
+terrarystyka,wąż zbożowy,encja,/gatunki/waz-zbozowy/,wąż zbożowy co je,210,,LOW,-34,2026-06,2025-11,,210,260,260,210,260,260,260,260,210,210,170,140,140,170,170
+terrarystyka,wąż zbożowy,encja,/gatunki/waz-zbozowy/,wąż zbożowy hodowla,170,0.21,LOW,-13,2026-06,2026-01,,170,210,170,170,170,170,260,170,170,260,170,140,170,170,140
+terrarystyka,węże (ogólnie),poradnik,/poradniki/terrarium-dla-weze-ogolnie/,terrarium dla węża,1600,0.15,HIGH,-22,2026-06,2025-11,,1600,1900,1900,1900,2400,1900,2400,1900,1600,1600,1300,1000,1300,1300,1600
+terrarystyka,węże (ogólnie),poradnik,/poradniki/wylinka-weza/,wylinka węża,390,,LOW,-13,2025-12,2026-03,,480,590,480,390,320,260,320,320,480,480,480,480,480,480,390
+terrarystyka,węże (ogólnie),porównanie/ranking,/porownania/mrozone-myszy-dla-wezy/,mrożone myszy dla węży,210,0.31,HIGH,90,2025-10,2026-03,,90,110,110,90,170,170,210,170,260,260,170,140,170,210,210
+terrarystyka,ślimak afrykański,encja,/gatunki/slimak-afrykanski/,ślimak afrykański,12100,0.05,LOW,32,2025-12,2026-09,afrykański ślimak,12100,9900,12100,12100,12100,9900,9900,9900,9900,9900,12100,12100,14800,12100,18100
+terrarystyka,ślimak afrykański,encja,/gatunki/slimak-afrykanski/,ślimak afrykański cena,1000,0.02,LOW,8,2026-01,2026-09,,1300,1300,1300,1300,1000,1000,880,880,1000,1000,1300,1300,1300,1300,1600
+terrarystyka,ślimak afrykański,poradnik,/poradniki/terrarium-dla-slimak-afrykanski/,terrarium dla ślimaka afrykańskiego,590,0.13,HIGH,24,2026-02,2026-09,,480,590,590,480,480,480,480,390,480,480,590,590,590,590,880
+terrarystyka,ślimak afrykański,poradnik,/poradniki/terrarium-dla-slimak-afrykanski/,ślimak afrykański terrarium,480,0.07,HIGH,10,2026-04,2026-09,,480,480,480,390,480,390,480,390,390,320,590,480,480,390,720
+terrarystyka,ślimak afrykański,encja,/gatunki/slimak-afrykanski/,ile żyje ślimak afrykański,390,0.01,LOW,1,2025-12,2026-09,ślimak afrykański ile żyje,390,480,480,390,390,320,390,320,390,320,390,320,390,390,590
+terrarystyka,ślimak afrykański,encja,/gatunki/slimak-afrykanski/,ślimak achatina,390,0.07,LOW,43,2025-12,2026-07,,480,320,390,320,390,260,320,320,260,320,390,320,720,590,390
+terrarystyka,ślimak afrykański,encja,/gatunki/slimak-afrykanski/,ile kosztuje ślimak afrykański,320,0.03,LOW,50,2026-01,2026-09,,390,320,320,210,170,210,140,140,210,320,480,480,480,480,590
+terrarystyka,ślimak afrykański,encja,/gatunki/slimak-afrykanski/,ślimak afrykański hodowla,320,0.43,LOW,8,2025-11,2026-09,,260,260,320,320,260,260,260,320,260,260,320,320,260,260,390
+terrarystyka,ślimak afrykański,encja,/gatunki/slimak-afrykanski/,co je ślimak afrykański,170,0.01,LOW,6,2026-02,2025-10,ślimak afrykański co je,170,140,170,170,170,140,140,110,140,140,170,170,170,170,170
+terrarystyka,żaba rogata,encja,/gatunki/zaba-rogata/,rogatka,4400,0.18,LOW,26,2025-10,2026-09,,3600,4400,3600,3600,3600,3600,3600,5400,4400,3600,3600,3600,3600,4400,6600
+terrarystyka,żaba rogata,encja,/gatunki/zaba-rogata/,żaba rogata,2900,0.02,LOW,22,2025-11,2025-10,,2400,2900,2400,3600,2900,2900,2900,2900,3600,3600,2900,2900,2900,2900,3600
+terrarystyka,żaba rogata,encja,/gatunki/zaba-rogata/,żaba rogata cena,210,0.03,LOW,-3,2026-07,2026-04,,170,210,210,210,210,260,210,210,260,320,210,210,140,170,260
+terrarystyka,żaba rogata,poradnik,/poradniki/terrarium-dla-zaba-rogata/,żaba rogata terrarium,140,0.15,LOW,3,2026-02,2026-03,,110,140,140,110,140,110,110,90,170,170,110,140,90,170,140
+terrarystyka,żaby (inne),encja,/gatunki/drzewolazy/,drzewołazy,2400,0.15,HIGH,0,2026-06,2026-03,drzewołaz,1900,1900,1900,2400,2900,2400,2900,2900,3600,2900,2900,1900,1900,1900,1900
+terrarystyka,żaby (inne),encja,/gatunki/zaba-do-akwarium/,żaba do akwarium,480,0.43,LOW,0,2026-05,2025-12,,390,320,320,480,480,590,590,480,480,480,320,320,320,320,390
+terrarystyka,żaby (inne),encja,/gatunki/zaba-hodowlana/,żaba hodowlana,480,0.02,LOW,-12,2026-07,2025-10,,480,590,590,590,590,480,590,480,480,590,480,480,390,590,480
+terrarystyka,żaby (inne),encja,/gatunki/zaba-szponiasta/,żaba szponiasta,480,,LOW,-1,2025-12,2025-10,,390,390,590,590,590,390,480,480,590,590,390,390,390,480,480
+terrarystyka,żaby (inne),poradnik,/poradniki/terrarium-dla-zaby-inne/,żaba do terrarium,320,0.07,LOW,15,2026-06,2026-01,,260,260,260,320,320,320,390,390,390,320,320,260,260,320,320
+terrarystyka,żaby (inne),encja,/gatunki/drzewolaz-zaba/,drzewołaz żaba,210,0.07,LOW,-13,2026-07,2025-10,drzewołazy żaba | żaba drzewołaz,140,210,170,260,210,260,260,260,260,260,210,170,140,140,170
+terrarystyka,żółw grecki,encja,/gatunki/zolw-grecki/,żółw grecki,6600,0.11,LOW,-29,2026-06,2025-10,,8100,9900,8100,8100,8100,6600,8100,6600,6600,6600,6600,5400,6600,6600,5400
+terrarystyka,żółw grecki,encja,/gatunki/zolw-grecki/,żółw grecki cena,880,0.02,LOW,-14,2026-04,2026-01,,1000,1000,880,880,880,880,1000,880,880,720,880,720,880,880,720
+terrarystyka,żółw grecki,encja,/gatunki/zolw-grecki/,żółw grecki ile żyje,480,0.16,LOW,-6,2026-06,2025-12,ile żyje żółw grecki,480,590,480,480,480,590,590,480,480,480,480,390,480,590,390
+terrarystyka,żółw grecki,poradnik,/poradniki/terrarium-dla-zolw-grecki/,żółw grecki terrarium,170,0.11,HIGH,-13,2026-06,2025-11,,170,210,170,170,210,210,210,170,170,170,170,110,140,170,170
+terrarystyka,żółw stepowy,encja,/gatunki/zolw-stepowy/,żółw stepowy,6600,0.1,LOW,-18,2025-12,2025-10,,8100,8100,6600,6600,6600,5400,6600,6600,6600,6600,6600,5400,6600,6600,5400
+terrarystyka,żółw stepowy,encja,/gatunki/zolw-stepowy/,żółw stepowy cena,880,0.04,LOW,-21,2025-11,2025-10,,1300,1300,880,1000,880,880,880,1000,1000,1000,1000,880,880,1000,880
+terrarystyka,żółw stepowy,encja,/gatunki/zolw-stepowy/,żółw stepowy ile żyje,390,0.01,LOW,-5,2026-09,2025-12,ile żyje żółw stepowy,480,480,390,390,390,480,480,480,390,480,390,390,480,480,320
+terrarystyka,żółw stepowy,poradnik,/poradniki/terrarium-dla-zolw-stepowy/,terrarium dla żółwia stepowego,320,0.16,HIGH,-12,2026-06,2025-10,,390,390,390,480,390,320,320,320,320,390,320,260,320,320,390
+terrarystyka,żółw stepowy,encja,/gatunki/zolw-stepowy/,żółw stepowy gdzie kupić,210,0,LOW,-14,2026-06,2026-03,,140,210,210,170,210,170,260,260,320,260,210,140,140,170,170
+terrarystyka,żółw stepowy,poradnik,/poradniki/terrarium-dla-zolw-stepowy/,żółw stepowy terrarium,170,0.08,HIGH,-24,2026-06,2025-10,,170,210,210,210,210,170,210,210,210,210,210,140,140,140,170
+terrarystyka,żółwie (ogólnie),hub,/zolwie/,żółw lądowy,2900,0.05,LOW,7,2025-10,2026-01,,2400,2400,1900,2400,2400,2900,3600,2900,2900,2900,2900,2400,2400,2400,2400
+terrarystyka,żółwie (ogólnie),hub,/zolwie/,żółw wodno lądowy,2900,0.1,LOW,-24,2026-06,2025-10,,3600,3600,3600,3600,3600,3600,3600,2900,2900,2900,2900,2400,2400,2900,2900
+terrarystyka,żółwie (ogólnie),hub,/zolwie/,żółw wodno-lądowy,2900,0.1,LOW,-24,2026-06,2025-10,,3600,3600,3600,3600,3600,3600,3600,2900,2900,2900,2900,2400,2400,2900,2900
+terrarystyka,żółwie (ogólnie),poradnik,/poradniki/terrarium-dla-zolwie-ogolnie/,terrarium dla żółwia,2400,0.11,HIGH,-18,2026-06,2025-10,,2400,2900,2900,2900,2900,2400,2900,2400,2400,2400,1900,1600,1900,2400,2400
+terrarystyka,żółwie (ogólnie),hub,/zolwie/,żółw wodny,1900,0.07,LOW,-29,2026-08,2025-10,,2400,2400,2400,2400,2400,1900,1900,1900,2400,1900,1900,1900,1900,1600,1600
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-jaszczurowaty/,żółw jaszczurowaty,1900,,LOW,9,2025-10,2026-07,,1900,1900,1600,1600,1600,1600,1900,1900,1900,1900,1600,1900,2400,1900,1600
+terrarystyka,żółwie (ogólnie),poradnik,/poradniki/akwarium-dla-zolwia/,akwarium dla żółwia,1600,0.07,HIGH,-16,2026-04,2025-10,,1900,1900,1900,1900,1900,1900,1900,1900,1600,1300,1300,1300,1600,1600,1600
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-lamparci/,żółw lamparci,1600,0.23,LOW,31,2026-01,2026-07,,1900,1900,1600,1600,1600,1600,1300,1300,1300,1300,1300,1300,3600,1900,1600
+terrarystyka,żółwie (ogólnie),poradnik,/poradniki/akwarium-dla-zolwia-wodno-ladowego/,akwarium dla żółwia wodno-lądowego,1000,0.06,HIGH,20,2025-10,2026-01,,880,1000,880,880,880,1000,1300,1000,1000,1000,1000,880,1000,1000,1300
+terrarystyka,żółwie (ogólnie),poradnik,/poradniki/akwarium-dla-zolwia-wodno-ladowego/,akwarium dla żółwia wodno lądowego,1000,0.06,HIGH,20,2025-10,2026-01,,880,1000,880,880,880,1000,1300,1000,1000,1000,1000,880,1000,1000,1300
+terrarystyka,żółwie (ogólnie),hub,/zolwie/,żółw cena,1000,0.02,LOW,-20,2026-06,2025-10,,1000,1300,1000,1000,1000,1000,1000,1000,1000,1000,1000,880,880,880,880
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-pustynny/,żółw pustynny,1000,,LOW,-36,2026-08,2026-06,,1000,1300,1300,1000,1300,1000,1000,1300,1000,1000,1000,2400,880,720,720
+terrarystyka,żółwie (ogólnie),poradnik,/poradniki/terrarium-dla-zolwie-ogolnie/,terrarium dla żółwia lądowego,880,0.13,HIGH,-17,2026-06,2026-01,,1000,1000,1000,880,720,880,1000,880,880,880,880,590,720,880,880
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-ladowy/,żółw lądowy cena,880,0.04,LOW,-36,2026-06,2025-10,,1300,1300,1000,1000,1000,1000,1000,880,880,880,880,590,720,880,720
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-hieroglifowy/,żółw hieroglifowy,720,0.01,LOW,-11,2026-07,2025-11,,590,720,590,720,880,880,880,590,590,590,720,480,390,720,590
+terrarystyka,żółwie (ogólnie),poradnik,/poradniki/terrarium-dla-zolwie-ogolnie/,terrarium dla żółwia wodno-lądowego,590,0.06,HIGH,-23,2026-06,2025-10,,720,720,720,880,720,720,880,720,590,590,590,480,480,590,590
+terrarystyka,żółwie (ogólnie),poradnik,/poradniki/terrarium-dla-zolwie-ogolnie/,terrarium dla żółwia wodno lądowego,590,0.06,HIGH,-23,2026-06,2025-10,,720,720,720,880,720,720,880,720,590,590,590,480,480,590,590
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-obrzezony/,żółw obrzeżony,590,,LOW,-1,2026-06,2026-01,,590,720,480,590,590,720,880,590,590,590,590,480,590,590,590
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-do-domu/,żółw do domu,590,0.05,MEDIUM,-18,2025-12,2025-10,,590,720,720,720,590,480,720,590,480,590,480,480,480,590,590
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-wonny/,żółw wonny,590,,LOW,31,2025-10,2025-11,,480,480,390,480,590,480,480,590,590,590,590,480,590,590,590
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-mata-mata/,żółw mata mata,480,,LOW,51,2026-09,2026-04,,210,260,260,590,390,480,480,480,480,880,480,480,390,390,320
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-ladowy-domowy/,żółw lądowy domowy,480,0.06,LOW,-38,2026-06,2025-11,,720,880,720,590,720,480,480,480,480,480,480,390,480,480,480
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-wodno-ladowy/,żółw wodno-lądowy cena,480,0.04,LOW,-38,2026-06,2025-10,,720,720,590,590,480,480,590,590,590,590,480,390,390,480,390
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-matamata/,żółw matamata,480,,LOW,51,2026-09,2026-04,,210,260,260,590,390,480,480,480,480,880,480,480,390,390,320
+terrarystyka,żółwie (ogólnie),encja,/gatunki/zolw-wodno-ladowy/,żółw wodno lądowy cena,480,0.04,LOW,-38,2026-06,2025-10,,720,720,590,590,480,480,590,590,590,590,480,390,390,480,390
+terrarystyka,żółwie (ogólnie),poradnik,/poradniki/hibernacja-zolwia/,hibernacja żółwia,70,,LOW,-48,2026-06,2025-11,,70,70,110,110,140,110,140,70,90,70,40,30,70,30,30
+terrarystyka,żółwie (ogólnie),poradnik,/poradniki/zimowanie-zolwia/,zimowanie żółwia,20,,LOW,-60,2026-04,2025-12,,50,20,30,20,20,30,20,30,20,10,20,10,10,10,20
+akwarystyka,akwarium (ogólne),hub,/akwarium/,akwarium,27100,0.11,HIGH,-12,2026-06,2025-11,,27100,27100,27100,27100,33100,27100,33100,33100,27100,22200,22200,18100,27100,22200,22200
+akwarystyka,akwarium (ogólne),hub,/akwarium/,ryba do akwarium,6600,0.44,LOW,-18,2026-06,2026-01,,5400,6600,6600,8100,8100,8100,9900,8100,6600,6600,5400,4400,4400,5400,5400
+akwarystyka,akwarium (ogólne),hub,/akwarium/,ryby do akwarium,6600,0.44,LOW,-18,2026-06,2026-01,,5400,6600,6600,8100,8100,8100,9900,8100,6600,6600,5400,4400,4400,5400,5400
+akwarystyka,akwarium (ogólne),hub,/akwarium/,rybki do akwarium,6600,0.44,LOW,-18,2026-06,2026-01,,5400,6600,6600,8100,8100,8100,9900,8100,6600,6600,5400,4400,4400,5400,5400
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/filtry-do-akwarium/,filtry do akwarium,5400,0.2,HIGH,-13,2026-06,2026-01,filtr do akwarium,4400,4400,5400,5400,6600,6600,8100,6600,5400,5400,4400,3600,3600,4400,4400
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/rosliny-do-akwarium/,rośliny do akwarium,5400,0.25,HIGH,-12,2026-06,2026-01,,3600,4400,4400,5400,6600,6600,8100,8100,5400,5400,3600,2900,2900,3600,4400
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-200l/,akwarium 200l,4400,0.11,HIGH,-7,2026-06,2026-01,,2900,3600,3600,4400,5400,5400,6600,6600,4400,4400,3600,2900,2900,2900,3600
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-60l/,akwarium 60l,4400,0.14,HIGH,0,2026-06,2025-12,,2900,2900,3600,3600,4400,5400,5400,5400,4400,3600,3600,2900,2900,2900,3600
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-100l/,akwarium 100l,4400,0.11,HIGH,16,2026-06,2026-01,,2900,2900,2900,3600,4400,5400,6600,5400,4400,4400,3600,2900,2900,3600,3600
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/korzen-do-akwarium/,korzeń do akwarium,3600,0.14,HIGH,0,2026-06,2026-01,korzenie do akwarium,2400,2900,3600,4400,4400,5400,6600,5400,4400,3600,2400,1900,2400,2900,3600
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/napowietrzacz-do-akwarium/,napowietrzacz do akwarium,3600,0.16,HIGH,-13,2026-07,2026-01,napowietrzacze do akwarium,2900,2900,3600,4400,4400,4400,5400,4400,4400,3600,2900,2900,2400,2900,2900
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/odmulacze-do-akwarium/,odmulacze do akwarium,2900,0.15,HIGH,-5,2026-06,2026-01,odmulacz do akwarium,1900,1900,2400,2900,2900,2900,3600,3600,2900,2900,1900,1600,1600,1900,2400
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/grzalka-do-akwarium/,grzałka do akwarium,2900,0.16,HIGH,-5,2026-06,2026-01,grzałki do akwarium,1600,1900,2900,3600,3600,3600,5400,4400,2900,2900,1900,1300,1600,1600,2900
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/kamien-do-akwarium/,kamień do akwarium,1900,0.16,HIGH,-12,2026-06,2026-01,kamienie do akwarium,1300,1600,1900,1900,2400,2400,2900,2400,1900,1900,1300,1000,1300,1300,1600
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-30l/,akwarium 30l,1900,0.1,HIGH,7,2026-06,2026-01,,1300,1600,1600,1600,1900,1900,2400,2400,1900,1900,1600,1300,1300,1600,1900
+akwarystyka,akwarium (ogólne),hub,/akwarium/,akwarium dla rybek,1600,0.11,HIGH,-12,2026-06,2026-01,,1600,1900,1600,1600,1900,1900,2400,1900,1600,1300,1300,880,1300,1600,1600
+akwarystyka,akwarium (ogólne),poradnik,/poradniki/ospa-rybia/,ospa rybia,1600,0.14,LOW,-15,2026-06,2025-12,,1300,1000,1300,1900,1900,2400,2400,1900,2400,1900,1600,880,880,880,1300
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/podloza-do-akwarium/,podłoża do akwarium,1600,0.17,HIGH,-24,2026-06,2026-01,podłoże do akwarium,1000,1600,1600,1900,2400,2400,2900,2400,1900,1600,1000,880,880,1000,1300
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/filtr-zewnetrzny-do-akwarium/,filtr zewnętrzny do akwarium,1600,0.21,HIGH,-21,2026-06,2025-11,,1300,1300,1600,1900,2400,2400,2400,2400,1900,1600,1300,1000,1000,1000,1300
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/co2-do-akwarium/,co2 do akwarium,1600,0.16,HIGH,-4,2026-06,2026-01,,1000,1000,1300,1600,1900,1900,2400,2400,1900,1600,1000,880,880,1000,1300
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/lampy-do-akwarium/,lampy do akwarium,1600,0.16,HIGH,-20,2026-06,2025-11,,1300,1600,1600,1900,2400,2400,2400,2400,1600,1600,1300,1000,1000,1300,1300
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/male-akwarium/,małe akwarium,1600,0.08,HIGH,-17,2026-06,2025-11,,1300,1600,1300,1600,1900,1900,1900,1900,1600,1300,1000,880,880,1300,1300
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/piasek-do-akwarium/,piasek do akwarium,1600,0.21,HIGH,-15,2026-06,2026-01,,1300,1300,1300,1600,1900,1900,2400,1900,1600,1600,1000,880,1000,1000,1300
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/lampa-do-akwarium/,lampa do akwarium,1600,0.16,HIGH,-20,2026-06,2025-11,,1300,1600,1600,1900,2400,2400,2400,2400,1600,1600,1300,1000,1000,1300,1300
+akwarystyka,akwarium (ogólne),hub,/akwarium/,rybki do akwarium domowego,1300,0.52,LOW,25,2026-06,2026-01,,880,1000,1000,1300,1300,1300,1600,1600,1000,1000,1000,880,1000,1300,1300
+akwarystyka,akwarium (ogólne),hub,/akwarium/,ryby do akwarium domowego,1300,0.52,LOW,25,2026-06,2026-01,,880,1000,1000,1300,1300,1300,1600,1600,1000,1000,1000,880,1000,1300,1300
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-300l/,akwarium 300l,1300,0.11,HIGH,-4,2026-06,2026-01,,1000,1000,1000,1600,1900,1900,2400,1900,1600,1300,1000,880,880,1000,1000
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-na-wymiar/,akwarium na wymiar,1300,0.35,HIGH,6,2026-06,2026-01,,720,1000,1000,1300,1600,1600,1900,1600,1300,1000,880,720,880,1000,1000
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-120l/,akwarium 120l,1300,0.13,HIGH,-6,2026-06,2026-01,,880,1000,1000,1300,1600,1600,1900,1600,1300,1000,880,720,720,1000,1000
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-20l/,akwarium 20l,1300,0.09,HIGH,16,2026-06,2026-01,,1000,1000,1000,1300,1300,1600,1900,1900,1600,1300,1000,880,880,1300,1300
+akwarystyka,akwarium (ogólne),hub,/akwarium/,ryby w akwarium,1000,0.11,MEDIUM,-22,2026-07,2025-11,,1300,880,1000,1300,1600,1300,1300,1600,1300,1000,1000,880,720,880,880
+akwarystyka,akwarium (ogólne),hub,/akwarium/,rybki w akwarium,1000,0.11,MEDIUM,-22,2026-07,2025-11,,1300,880,1000,1300,1600,1300,1300,1600,1300,1000,1000,880,720,880,880
+akwarystyka,akwarium (ogólne),hub,/akwarium/,ryba w akwarium,1000,0.11,MEDIUM,-22,2026-07,2025-11,,1300,880,1000,1300,1600,1300,1300,1600,1300,1000,1000,880,720,880,880
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-50l/,akwarium 50l,1000,0.14,HIGH,-6,2026-06,2025-11,,880,880,880,1000,1300,1000,1300,1300,1000,880,880,590,720,880,880
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-40-l/,akwarium 40 l,1000,0.12,HIGH,0,2026-06,2026-01,,720,880,1000,1000,1300,1300,1600,1300,1000,880,720,590,720,880,1000
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/filtry-do-akwarium-60l/,filtry do akwarium 60l,1000,0.21,HIGH,6,2026-06,2026-01,filtr do akwarium 60l,720,720,880,1000,1000,1000,1300,1300,1000,880,720,590,590,880,1000
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-40l/,akwarium 40l,1000,0.12,HIGH,0,2026-06,2026-01,,720,880,1000,1000,1300,1300,1600,1300,1000,880,720,590,720,880,1000
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/podloze-aktywne-do-akwarium/,podłoże aktywne do akwarium,1000,0.16,HIGH,14,2026-06,2026-01,,590,720,720,1300,1300,1300,1900,1900,1600,1000,720,590,720,880,720
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-25l/,akwarium 25l,1000,0.11,HIGH,-6,2026-06,2025-11,,880,880,880,1000,1300,1000,1300,1300,1000,1000,720,590,720,880,880
+akwarystyka,akwarium (ogólne),poradnik,/poradniki/glony-w-akwarium/,glony w akwarium,880,0.09,HIGH,-36,2026-06,2026-01,,880,880,1000,1000,1000,1000,1300,1300,1300,1000,880,590,590,590,590
+akwarystyka,akwarium (ogólne),poradnik,/poradniki/rosliny-plywajace-do-akwarium/,rośliny pływające do akwarium,880,0.13,HIGH,1,2026-07,2026-01,,590,590,590,720,1000,880,1300,1300,880,880,720,590,480,590,720
+akwarystyka,akwarium (ogólne),hub,/akwarium/,kolorowe rybki do akwarium,880,0.48,LOW,-33,2026-06,2025-10,,880,880,880,1000,880,1000,1000,1000,880,720,590,480,590,590,590
+akwarystyka,akwarium (ogólne),hub,/akwarium/,kolorowe ryby do akwarium,880,0.48,LOW,-33,2026-06,2025-10,,880,880,880,1000,880,1000,1000,1000,880,720,590,480,590,590,590
+akwarystyka,akwarium (ogólne),hub,/akwarium/,akwarium z rybkami,880,0.06,HIGH,-18,2026-05,2025-11,,720,880,880,1000,1300,1000,1000,1000,880,720,590,590,590,720,720
+akwarystyka,akwarium (ogólne),poradnik,/poradniki/rosliny-w-akwarium/,rośliny w akwarium,880,0.08,HIGH,8,2026-08,2026-04,,210,210,210,260,260,260,320,480,480,8100,390,480,260,210,210
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-500l/,akwarium 500l,880,0.14,HIGH,-6,2026-06,2025-11,,590,720,720,1000,1300,1000,1300,1000,720,720,720,590,590,590,720
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-10l/,akwarium 10l,880,0.09,HIGH,-26,2026-06,2026-01,,880,1000,720,1000,1000,1000,1300,1000,880,880,720,480,480,720,720
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/uzdatniacz-wody-do-akwarium/,uzdatniacz wody do akwarium,880,0.16,HIGH,31,2025-10,2026-01,,480,480,590,590,720,880,1000,1000,1000,880,720,590,590,720,720
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-112l/,akwarium 112l,880,0.12,HIGH,-13,2026-06,2025-12,,590,590,720,1000,1000,1300,1300,1000,880,880,590,480,480,590,590
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/zestaw-co2-do-akwarium/,zestaw co2 do akwarium,880,0.19,HIGH,0,2026-06,2026-01,,480,480,720,720,1000,1000,1300,1000,880,880,480,390,480,480,720
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-240l/,akwarium 240l,880,0.18,HIGH,-12,2026-06,2025-11,,590,720,720,1000,1300,1300,1300,1300,880,720,590,480,480,590,720
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/akwarium-1000l/,akwarium 1000l,880,0.09,HIGH,-6,2026-06,2026-01,,590,720,720,1000,1000,1000,1300,1000,880,720,590,480,590,720,590
+akwarystyka,akwarium (ogólne),porównanie/ranking,/porownania/filtry-wewnetrzne-do-akwarium/,filtry wewnętrzne do akwarium,720,0.16,HIGH,-13,2026-06,2026-01,filtr wewnętrzny do akwarium,480,590,720,880,880,1000,1300,1000,880,720,590,480,480,480,590
+akwarystyka,akwarium (ogólne),narzędzie,/narzedzia/kalkulator-akwarium/,kalkulator akwarium,590,1,LOW,-24,2026-06,2026-01,,480,590,590,720,720,720,880,720,590,480,390,320,390,390,480
+akwarystyka,akwarium (ogólne),poradnik,/poradniki/akwarium-roslinne/,akwarium roślinne,590,0.11,HIGH,-33,2026-06,2025-10,,590,590,590,880,880,880,880,880,720,590,390,320,320,390,480
+akwarystyka,akwarium (ogólne),poradnik,/poradniki/choroby-ryb-akwariowych/,choroby ryb akwariowych,480,0.18,MEDIUM,-53,2026-08,2026-01,,480,480,480,590,720,720,880,720,590,480,320,320,260,210,210
+akwarystyka,akwarium (ogólne),poradnik,/poradniki/zakladanie-akwarium/,zakładanie akwarium,210,0.12,HIGH,-42,2026-05,2025-10,,170,210,260,320,320,320,320,320,170,170,90,90,90,140,140
+akwarystyka,akwarium (ogólne),poradnik,/poradniki/akwarium-dla-poczatkujacych/,akwarium dla początkujących,210,0.14,HIGH,-13,2026-06,2025-11,,170,210,170,210,260,260,260,260,260,210,170,90,140,170,170
+akwarystyka,akwarium (ogólne),narzędzie,/narzedzia/kalkulator-akwarium/,kalkulator pojemności akwarium,170,1.22,LOW,-44,2026-09,2026-01,,140,170,140,170,210,210,260,210,170,170,110,90,90,90,70
+akwarystyka,akwarium (ogólne),narzędzie,/narzedzia/kalkulator-akwarium/,ile litrów ma akwarium,50,0.9,LOW,-44,2026-04,2025-10,,40,70,50,70,70,50,70,70,50,30,30,30,30,30,30
+akwarystyka,akwarium (ogólne),poradnik,/poradniki/cykl-azotowy-akwarium/,cykl azotowy akwarium,20,0.01,LOW,-25,2025-10,2026-02,,20,10,10,10,20,20,20,30,30,20,10,10,10,10,10
+akwarystyka,akwarium (ogólne),narzędzie,/narzedzia/kalkulator-akwarium/,obsada akwarium,10,,LOW,0,2025-10,2026-01,,10,10,10,10,10,10,20,20,20,10,10,10,10,10,10
+akwarystyka,bojownik,encja,/gatunki/bojownik/,bojownik,18100,0.31,LOW,-18,2026-06,2026-01,,14800,18100,18100,18100,18100,18100,22200,22200,18100,18100,14800,12100,12100,14800,14800
+akwarystyka,bojownik,poradnik,/poradniki/akwarium-dla-bojownika/,akwarium dla bojownika,2900,0.11,HIGH,-6,2026-06,2026-01,,2400,2900,2900,2900,3600,3600,4400,4400,3600,2900,2400,1900,1900,2900,2900
+akwarystyka,bojownik,encja,/gatunki/bojownik/,bojownik syjamski,1900,0.69,LOW,-13,2026-06,2025-11,,1300,1600,1600,1900,2400,1900,2400,2400,1900,1600,1600,1000,1000,1600,1300
+akwarystyka,danio,encja,/gatunki/danio/,danio pręgowany,2400,0.92,LOW,-19,2026-06,2025-11,,1900,2400,2400,2900,3600,3600,3600,2900,2400,2400,1900,1600,1600,1900,1900
+akwarystyka,glonojady,encja,/gatunki/glonojady/,glonojad,27100,0.32,LOW,-30,2026-09,2025-10,,27100,33100,27100,27100,27100,27100,27100,22200,27100,27100,27100,22200,27100,22200,12100
+akwarystyka,glonojady,encja,/gatunki/glonojady/,otoski,4400,0.55,LOW,24,2026-07,2026-02,,2400,2400,2400,2900,3600,3600,5400,6600,5400,5400,4400,2900,2400,3600,2900
+akwarystyka,glonojady,encja,/gatunki/glonojady/,zbrojnik,2400,0.6,LOW,-16,2026-06,2026-01,,1900,1900,1900,2400,2400,2400,2900,2900,2400,2400,1600,1300,1300,1600,1900
+akwarystyka,gupik,encja,/gatunki/gupik/,gupiki,9900,0.46,LOW,-18,2026-06,2026-01,gupik,9900,9900,9900,12100,12100,12100,14800,12100,12100,9900,8100,6600,8100,8100,8100
+akwarystyka,gurami,encja,/gatunki/gurami/,gurami,4400,0.41,LOW,-30,2026-06,2025-10,,3600,4400,4400,6600,4400,5400,6600,5400,4400,4400,3600,2400,2900,2900,2900
+akwarystyka,kirysek,encja,/gatunki/kirysek/,kirysek,2900,0.58,LOW,-6,2026-06,2025-10,,2400,2400,2900,3600,3600,3600,3600,3600,2900,2900,2400,1900,1900,2900,2400
+akwarystyka,krewetki,hub,/krewetki/,krewetka do akwarium,3600,0.33,MEDIUM,-6,2026-06,2026-01,krewetki do akwarium,2900,2900,2900,4400,4400,5400,6600,5400,4400,4400,2900,2400,2400,2900,2900
+akwarystyka,krewetki,encja,/gatunki/krewetki/,krewetki amano,2900,0.45,LOW,31,2026-06,2026-01,,1600,1600,1900,2400,2400,2900,3600,3600,3600,2900,2400,1900,1900,2400,2400
+akwarystyka,krewetki,encja,/gatunki/krewetki/,krewetki red cherry,1300,0.44,LOW,0,2026-05,2026-01,,1000,1000,1300,1300,1300,1600,1900,1900,1600,1300,1000,1000,1000,1300,1000
+akwarystyka,krewetki,encja,/gatunki/krewetki/,krewetka w akwarium,1000,0.16,MEDIUM,-12,2026-06,2025-11,krewetki w akwarium,880,880,880,1000,1300,1300,1300,1300,1000,1000,720,590,720,720,880
+akwarystyka,molinezja,encja,/gatunki/molinezja/,molinezja,6600,0.41,LOW,-18,2026-09,2026-01,,5400,6600,6600,8100,8100,8100,12100,9900,8100,6600,6600,5400,5400,5400,4400
+akwarystyka,neonki,encja,/gatunki/neonki/,neonek czerwony,2400,0.39,LOW,6,2026-06,2025-12,,1600,1600,1900,2400,2400,2900,2900,2900,2400,2400,1900,1600,1600,1900,1900
+akwarystyka,pyszczaki,encja,/gatunki/pyszczaki/,pyszczaki,2900,1.39,LOW,-17,2026-06,2025-11,,2900,2900,2900,3600,4400,4400,4400,3600,3600,2900,2400,1900,2400,2400,2400
+akwarystyka,razbora,encja,/gatunki/razbora/,razbora klinowa,3600,0.61,LOW,-6,2026-06,2026-01,,2900,2900,2900,3600,4400,4400,5400,4400,4400,3600,2900,2400,2400,2900,2900
+akwarystyka,skalar,encja,/gatunki/skalar/,skalar,9900,0.64,LOW,-18,2026-06,2026-01,,9900,9900,9900,12100,12100,12100,14800,12100,9900,9900,9900,8100,8100,8100,8100
+akwarystyka,złota rybka,encja,/gatunki/zlota-rybka/,złota rybka,14800,0.57,LOW,9,2025-10,2026-08,,22200,22200,12100,9900,9900,9900,9900,9900,9900,9900,14800,18100,22200,27100,12100
+akwarystyka,złota rybka,encja,/gatunki/zlota-rybka/,welon,4400,0.12,HIGH,0,2025-12,2025-10,,5400,5400,4400,5400,4400,3600,5400,4400,4400,5400,5400,4400,5400,5400,4400
+akwarystyka,ślimaki akwariowe,encja,/gatunki/slimaki-akwariowe/,ślimak do akwarium,1300,0.59,LOW,-4,2026-06,2026-01,,1000,1000,1000,1300,1600,1600,1900,1600,1300,1000,1000,720,880,1000,1000
+akwarystyka,ślimaki akwariowe,encja,/gatunki/slimaki-akwariowe/,ślimak akwariowy,1300,0.55,LOW,-23,2026-06,2026-01,,1000,1300,1300,1300,1600,1600,1900,1600,1600,1300,1000,880,880,880,1000
+akwarystyka,ślimaki akwariowe,encja,/gatunki/slimaki-akwariowe/,ampularia,1300,0.28,LOW,-23,2026-09,2026-01,,880,880,880,1000,1300,1300,3600,1300,1300,1600,1300,880,720,720,590
+akwarystyka,ślimaki akwariowe,poradnik,/poradniki/slimaki-w-akwarium/,ślimaki w akwarium,880,0.2,LOW,-37,2026-07,2026-01,,880,880,880,1000,1000,1000,1300,1000,880,720,720,590,480,590,590
+akwarystyka,ślimaki akwariowe,encja,/gatunki/slimaki-akwariowe/,ślimak neritina,880,0.85,LOW,64,2026-06,2026-01,,480,590,590,720,880,880,1000,1000,1000,880,720,590,720,1000,1000

@@ -1,0 +1,9 @@
+kanal,wynik,zrodlo,data
+Mapy Google: profile „druk 3d” w 10 miastach,"286 unikalnych profili (418 wyników); 232 z własną stroną; mediana 8 opinii; mediana oceny 5,0","DataForSEO /v3/serp/google/maps/live/advanced, depth 100; dane/uslugi-druku-podaz-mapy.csv",2026-10-18
+Mapy Google: wyczerpanie listy,"tylko Warszawa dała 100 wyników; pozostałe 9 miast: 19–59 wyników, czyli cała lista",jw.,2026-10-18
+Oferteo: kategoria druk 3D,1 496 firm w Polsce; 187 opinii; średni koszt usługi 368–928 zł netto,https://www.oferteo.pl/druk-3d (content_parsing),2026-10-18
+Oferteo: cennik punktów,25 pkt 259 zł … 1200 pkt 7199 zł netto; koszt kontaktu w pkt zależy od branży,https://www.oferteo.pl/cennik (content_parsing),2026-10-18
+Fixly,brak kategorii druku 3D,https://fixly.pl/kategoria/druk-3d (content_parsing: pusta strona); ranked_keywords,2026-10-18
+OLX Usługi „druk 3d”,"295 ogłoszeń (suma liczników województw: mazowieckie 60, śląskie 46, małopolskie 38, wielkopolskie 28, łódzkie 25, dolnośląskie 24, kujawsko-pomorskie 16, pomorskie 13, lubelskie 10, podkarpackie 10, zachodniopomorskie 8, lubuskie 5, podlaskie 5, świętokrzyskie 3, opolskie 2, warmińsko-mazurskie 2)",https://www.olx.pl/uslugi/q-druk-3d/ (content_parsing z JS),2026-10-18
+Allegro „druk 3d na zamówienie”,nie odczytano (content_parsing: pusta odpowiedź lub timeout; WebFetch: brak DNS),allegro.pl,2026-10-18
+Google organic: kto zbiera ruch usługowy,drukarnie z własnym konfiguratorem (drukarex.pl) i własnymi stronami miast; OLX i Allegro w top 10 na pojedynczych frazach; Oferteo 12–36,"/v3/dataforseo_labs/google/serp_competitors/live, 14 fraz usług",2026-10-18

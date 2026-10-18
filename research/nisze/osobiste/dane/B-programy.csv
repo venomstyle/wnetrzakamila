@@ -1,0 +1,11 @@
+program,typ_brokera,model,stawka,PL,status_u_zrodla_18.10.2026,zrodlo
+XTB Program Partnerski,akcje/ETF/CFD (KNF),"""uzgodniony model rozliczeń"" ustalany z opiekunem",nie opublikowano,tak (strona PL; partner z PL w opiniach: Zawód Inwestor),strona programu istnieje; stawek brak,https://www.xtb.com/pl/afiliacja-forex-kb ; https://www.xtb.com/int/ib (content_parsing)
+Interactive Brokers CPC Publisher Program,akcje/ETF,CPC + maksymalna miesięczna wypłata (MRP),nie opublikowano (ustalane indywidualnie),PL nie jest na liście wykluczeń (Chiny Korea Japonia Izrael Chile Portugalia Hiszpania),program istnieje; stawek brak,https://www.interactivebrokers.ie/en/general/about/affiliate-programs.php (content_parsing)
+Interactive Brokers program poleceń klient-klient,akcje/ETF,nagroda dla klienta,"200 USD za klienta z saldem min. 10 000 USD przez rok (wg wyniku wyszukiwania, nie program dla wydawców)",niepotwierdzone,nie dotyczy wydawcy,https://interactivebrokers.ie/fr/trading/referral-member-to-member.php (WebSearch)
+Trading 212 Affiliates,akcje/ETF (+CFD w części podmiotów),CPA (źródła z 2018),"""do 1000 USD"" (Finance Magnates 2018)",niepotwierdzone,trading212affiliates.com przekierowuje na stronę główną brokera; programu nie potwierdzono,https://www.trading212affiliates.com/ (content_parsing) ; https://www.financemagnates.com/forex/brokers/trading212-launches-affiliate-marketing-program/
+Revolut Affiliate (Impact),bank/inwestycje,prowizja po rejestracji + KYC + zasileniu,nie opublikowano,niepotwierdzone dla PL,strona programu w indeksie; content_parsing zwraca pustą stronę,https://revolut.com/en-BE/become-a-revolut-affiliate/ (WebSearch)
+Finax,robo-doradca ETF,—,—,—,publicznego programu nie znaleziono,WebSearch 18.10.2026
+mBank eMakler,dom maklerski,—,—,—,publicznego programu nie znaleziono,WebSearch 18.10.2026
+DM BOŚ (bossa),dom maklerski,—,—,—,nie sprawdzono szczegółowo; publicznego programu nie znaleziono,WebSearch 18.10.2026
+Plus500 (500Affiliates),CFD,CPA,"""do 800 USD za kwalifikowanego tradera""",kraje w tabeli nieodczytane,program istnieje (CFD),https://www.500affiliates.com/PaymentPlans.aspx?id=42663 (content_parsing)
+eToro Partners,akcje/CFD,CPA wg krajów,"100–250 USD (źródła wtórne)",niepotwierdzone,nie sprawdzono u źródła,https://tradersunion.com/brokers/forex/view/etoro/etoro-partners/ (WebSearch)

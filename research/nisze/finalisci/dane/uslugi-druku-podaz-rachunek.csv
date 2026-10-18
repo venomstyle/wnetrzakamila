@@ -1,0 +1,18 @@
+wariant,sesje_uslugowe_mies,zapytania_mies,a_katalog_wyroznienie_zl,b_zapytanie_do_3_drukarni_zl,c_wycena_STL_plus_b_zl,d_prowizja_marketplace_zl_przed_kosztami_platnosci,e_afiliacja_JLC3DP_usd
+ostrozny,416,12.5,147,281,421,224,10.4
+realny,1754,105.2,735,6313,9470,3078,43.8
+
+parametr,ostrozny,realny,zrodlo
+pula fraz usługowych (10 fraz),5810,5810,"DataForSEO keyword_info w /ranked_keywords/live (oferteo.pl, drukarex.pl), 18.10.2026"
+"pula fraz cenowych (ile kosztuje druk 3d, druk 3d ceny), AIO ×0,7",9800,9800,druk3d.md [W]; AIO wg druk3d.md [S]
+"głowy ogólne (druk 3d, wydruk/wydruki/druki/drukowanie 3d)",18700,18700,DataForSEO keyword_info w /ranked_keywords/live (drukarex.pl)
+CTR fraz usługowych,0.0328 (poz. 8),"0,09 (poz. 4)","SEO Inc. 2025 poz.1/5/10 = 28,5/6,1/1,4% (druk3d.md); pozycje pośrednie: założenie"
+CTR głów,0 (poza top 10),0.0328 (poz. 8),założenie; dziś poz. 1–2 ma drukarex.pl
+konwersja sesja → zapytanie,3%,6%,założenie
+opłata za zapytanie od drukarni,15 zł netto,25 zł netto,"założenie; odniesienie: Oferteo 6,00–10,36 zł/pkt netto (oferteo.pl/cennik), Fixly 1,43–3,30 zł/pkt brutto, 0–50 pkt za ofertę (kydi.pl, 09.2026)"
+odsetek miejsc (3 na zapytanie) wykupionych,50%,80%,założenie
+płacący za wyróżnienie 49 zł/mies.,3,15,"założenie; baza: 286 profili w 10 miastach (Mapy), 1 496 firm w Oferteo"
+wycena STL: wzrost liczby zapytań,"×1,5","×1,5",założenie
+marketplace: akceptacja oferty / zamówienie / prowizja,30% / 500 zł / 12%,30% / 650 zł / 15%,założenie; średni koszt usługi 368–928 zł netto (oferteo.pl/druk-3d); Treatstock maks. 25%
+afiliacja JLC3DP: klik / zamówienie / stawka,10% / 5% / 5 USD,10% / 5% / 5 USD,stawka: jlc3dp.com/help/article/affiliate-program (WebSearch); klik i zamówienie: założenie
+data,2026-10-18,2026-10-18,

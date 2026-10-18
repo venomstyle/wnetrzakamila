@@ -1,0 +1,21 @@
+parametr,ostrozny,realny,zrodlo_lub_zalozenie
+"frazy_w_mapie (unikalne, bez wariantów i wykluczonych)",867,867,kampery-mapa.csv; /v3/keywords_data/google_ads/search_volume/live 2026-10-18
+suma_wolumenu_mies (unikalne),594 910,594 910,jw.
+frazy_do_wziecia,717 (169 520/mies.),840 (322 360/mies.),kampery-mapa.csv kolumny do_wziecia_*; reguły w kampery.md
+pozycje po 12 mies.,encja 8; narzędzie 6; ranking 7–8; poradnik 5–6; fraza ≥5000 i huby poza top10,encja 5; narzędzie 4; ranking 4–5; poradnik 3–4; huby <10 000 na 9; frazy ≥5000 +2 pozycje,założenie
+CTR poz. 1/2/3/10,"28,5% / 15,7% / 11% / 2,5%",jw.,"SISTRIX (badanie mobile, 80 mln fraz) cytowane przez SEO Inc., przegląd 28.07.2026: https://seoinc.com/seo-blog/much-traffic-comes-organic-search/ ; poz. 4–9 = interpolacja (założenie)"
+korekta SERP (Local Pack / AIO / Shopping / OLX),"x0,5–0,8 wg klastra",jw.,założenie; obecność elementów z /v3/serp/google/organic/live/advanced 2026-10-18
+pokrycie fraz stronami po 12 mies.,60%,85%,założenie
+sesje_mies (średnia roczna),2 646,10 653,"obliczenie (model.py, rachunek.py)"
+  w tym wynajem / noclegi / wyposażenie / poradniki,444 / 1142 / 812 / 247,1465 / 3672 / 4418 / 1098,obliczenie
+odsłony na sesję,"1,3","1,6",założenie
+RPM reklam (zł / 1000 odsłon),5,10,założenie (brak wiarygodnego źródła dla PL)
+wyposażenie: klik do sklepu / konwersja / koszyk / prowizja,12% / 2% / 300 zł / 3%,12% / 3% / 600 zł / 5%,"założenie; ceny w Google Shopping 18.10.2026: klimatyzatory do kampera 1428,99–7400 zł, toalety turystyczne 45,19–499 zł; stawki sklepów niepotwierdzone"
+noclegi: klik / rezerwacja / wartość / prowizja,8% / 2% / 500 zł / 0% (brak potwierdzonego programu PL),12% / 4% / 800 zł / 3%,prowizja 3% = ACSI Eurocampings (strona UK); dostępność dla PL niepotwierdzona; reszta założenie
+wynajem: zapytania / sprzedane / cena leada,3% / 0% / 0 zł,3% / 50% / 40 zł,"40 zł ≈ 8 GBP, które CamperDays UK płaci za lead (Awin 52885; kurs NBP 5,1746 zł, tabela 202/A/NBP/2026 z 16.10.2026); sprzedaż leadów polskim wypożyczalniom = założenie"
+przychód reklamy (zł/mies.),17,170,obliczenie
+przychód afiliacja wyposażenie (zł/mies.),18,477,obliczenie
+przychód afiliacja noclegi (zł/mies.),0,423,obliczenie
+zapytania do wypożyczalni (szt./mies.),13,44,obliczenie
+przychód leady wynajem (zł/mies.),0,879,obliczenie
+"PRZYCHÓD RAZEM po 12 mies. (zł/mies., średnia roczna)",35,1950,"obliczenie; w lipcu ok. 2× średniej, w grudniu ok. 0,3× (sezonowość z search_volume)"

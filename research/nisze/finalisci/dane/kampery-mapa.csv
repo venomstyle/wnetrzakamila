@@ -1,0 +1,1049 @@
+fraza,wolumen_sr_12m,cpc_usd,konkurencja,max_mies,min_mies,typ_strony,klaster,wariant_frazy,do_wziecia_ostrozny,do_wziecia_realny,poz_ostrozny,poz_realny,korekta_serp,ruch_ostrozny,ruch_realny,uwagi
+pole namiotowe,110000,0.2,LOW,2026-07:368000,2025-10:9900,hub,-,,nie,nie,,,,0,0,
+kemping,49500,0.1,LOW,2026-07:135000,2025-10:9900,hub,-,,nie,nie,,,,0,0,
+kamper,33100,0.11,LOW,2026-08:49500,2025-10:22200,hub,-,,nie,nie,,,,0,0,
+przyczepa kempingowa,33100,0.03,HIGH,2026-08:60500,2025-12:14800,hub,-,,nie,nie,,,,0,0,
+lodówka turystyczna,33100,0.41,HIGH,2026-06:90500,2025-11:8100,porównanie/ranking,wyposażenie,,nie,tak,,7,0.8,0,1059.2,Google Shopping/sklepy; fraza główna ≥5000: ostrożnie poza top10
+glamping,22200,0.32,HIGH,2026-07:33100,2025-11:18100,hub,-,,nie,nie,,,,0,0,
+pole kempingowe,22200,0.19,LOW,2026-07:74000,2025-11:3600,hub,-,,nie,nie,,,,0,0,
+kuchenka turystyczna,12100,0.23,HIGH,2026-07:18100,2025-12:9900,porównanie/ranking,wyposażenie,,nie,tak,,7,0.8,0,387.2,Google Shopping/sklepy; fraza główna ≥5000: ostrożnie poza top10
+kuchenka gazowa turystyczna,12100,0.25,HIGH,2026-07:18100,2025-12:6600,porównanie/ranking,wyposażenie,,nie,tak,,7,0.8,0,387.2,Google Shopping/sklepy; fraza główna ≥5000: ostrożnie poza top10
+toaleta turystyczna,9900,0.28,HIGH,2026-05:14800,2025-12:4400,porównanie/ranking,wyposażenie,,nie,tak,,7,0.8,0,316.8,Google Shopping/sklepy; fraza główna ≥5000: ostrożnie poza top10
+namiot dachowy,9900,0.22,HIGH,2026-07:18100,2025-11:5400,porównanie/ranking,wyposażenie,,nie,tak,,7,0.8,0,316.8,Google Shopping/sklepy; fraza główna ≥5000: ostrożnie poza top10
+kempingi,8100,0.23,LOW,2026-07:22200,2025-10:2400,hub,-,,nie,tak,,9,0.7,0,158.8,fraza główna; Local Pack/portale
+kamping,8100,0.09,LOW,2026-07:22200,2025-11:1900,hub,-,,nie,tak,,9,0.7,0,158.8,fraza główna; Local Pack/portale
+kamper wynajem,5400,0.26,MEDIUM,2026-07:12100,2025-11:2400,hub,-,,nie,tak,,9,0.7,0,105.8,fraza główna; Local Pack/portale
+wypożyczalnia kamperów,4400,0.24,MEDIUM,2026-07:8100,2025-12:1900,hub,-,,nie,tak,,9,0.7,0,86.2,fraza główna; Local Pack/portale
+wypożyczalnie kamperów,4400,0.24,MEDIUM,2026-07:8100,2025-12:1900,hub,-,wypożyczalnia kamperów,nie,nie,,,,0,0,
+namiot na dach samochodu,4400,0.17,HIGH,2026-08:12100,2025-12:1600,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,116.2,228.8,Google Shopping/sklepy
+camper park,3600,0.28,LOW,2026-07:9900,2025-12:1300,hub,-,,nie,tak,,9,0.7,0,70.6,fraza główna; Local Pack/portale
+krzesła kempingowe,3600,0.29,HIGH,2026-07:9900,2025-10:1000,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,95.0,187.2,Google Shopping/sklepy
+stolik kempingowy,3600,0.23,HIGH,2026-07:9900,2025-10:1000,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,95.0,187.2,Google Shopping/sklepy
+biwak,2900,0.17,LOW,2026-07:6600,2025-11:1300,hub,-,,nie,tak,,9,0.7,0,56.8,fraza główna; Local Pack/portale
+pole namiotowe nad morzem,2900,0.42,MEDIUM,2026-07:9900,2025-10:320,poradnik,noclegi,,tak,tak,8,6,0.7,67.0,101.5,Local Pack/obiekty
+pole namiotowe mazury,2400,0.36,MEDIUM,2026-07:8100,2025-10:210,encja,noclegi-region,,tak,tak,8,5,0.7,55.4,109.2,Local Pack
+camper van,1900,0.1,MEDIUM,2026-07:2900,2025-12:1300,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,53.2,intencja zakupu (OLX)
+van camper,1900,0.1,MEDIUM,2026-07:2900,2025-12:1300,porównanie/ranking,typy-kamperów,camper van,nie,nie,,,,0,0,
+parkingi dla kamperów,1900,0.27,LOW,2026-07:3600,2026-01:590,hub,-,,nie,tak,,9,0.7,0,37.2,fraza główna; Local Pack/portale
+parking dla kamperów,1900,0.27,LOW,2026-07:3600,2026-01:590,hub,-,parkingi dla kamperów,nie,nie,,,,0,0,
+wynajem kamperów,1900,0.29,MEDIUM,2026-07:3600,2025-12:880,hub,-,,nie,tak,,9,0.7,0,37.2,fraza główna; Local Pack/portale
+pole namiotowe nad jeziorem,1900,0.35,LOW,2026-07:8100,2025-12:170,encja,noclegi-region,,tak,tak,8,5,0.7,43.9,86.4,Local Pack
+materac do samochodu,1900,0.11,HIGH,2026-07:5400,2025-11:880,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,50.2,98.8,Google Shopping/sklepy
+kamper van,1900,0.1,MEDIUM,2026-07:2900,2025-12:1300,porównanie/ranking,typy-kamperów,camper van,nie,nie,,,,0,0,
+campervan,1900,0.1,MEDIUM,2026-07:2900,2025-12:1300,porównanie/ranking,typy-kamperów,camper van,nie,nie,,,,0,0,
+mini camper,1600,0.05,HIGH,2026-07:1900,2025-12:1000,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,44.8,intencja zakupu (OLX)
+camper mini,1600,0.05,HIGH,2026-07:1900,2025-12:1000,porównanie/ranking,typy-kamperów,mini camper,nie,nie,,,,0,0,
+glamping co to,1600,0.09,MEDIUM,2026-07:2900,2025-11:720,poradnik,noclegi-poradnik,,nie,tak,,5,0.5,0,52.0,AIO podaje definicję
+kamper cena,1600,0.14,MEDIUM,2026-07:2900,2025-12:720,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,37.0,intencja zakupu (OLX/Otomoto)
+mini kamper,1600,0.05,HIGH,2026-07:1900,2025-12:1000,porównanie/ranking,typy-kamperów,mini camper,nie,nie,,,,0,0,
+klimatyzator do kampera,1600,0.16,HIGH,2026-06:5400,2025-10:590,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,42.2,83.2,Google Shopping/sklepy
+klimatyzacja do kampera,1600,0.16,HIGH,2026-06:5400,2025-10:590,porównanie/ranking,wyposażenie,klimatyzator do kampera,nie,nie,,,,0,0,
+wynajem kampera cena,1600,0.19,MEDIUM,2026-07:3600,2025-12:720,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,56.0,89.6,AIO na frazie głównej
+przedsionek do przyczepy kempingowej,1600,0.08,HIGH,2026-07:3600,2025-12:590,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,42.2,83.2,Google Shopping/sklepy
+kampervan,1600,0.06,MEDIUM,2026-07:2400,2025-12:880,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,44.8,intencja zakupu (OLX)
+glamping zakopane,1300,0.44,HIGH,2026-01:4400,2026-05:720,encja,noclegi-region,,tak,tak,8,5,0.7,30.0,59.1,Local Pack
+przyczepa kempingowa wynajem,1300,0.18,MEDIUM,2026-07:2900,2025-10:480,hub,-,,nie,tak,,9,0.7,0,25.5,fraza główna; Local Pack/portale
+wynajem przyczepy kempingowej,1300,0.16,MEDIUM,2026-07:2900,2025-10:480,hub,-,,nie,tak,,9,0.7,0,25.5,fraza główna; Local Pack/portale
+miejsce na biwak,1000,0.52,LOW,2026-05:1900,2025-12:390,poradnik,noclegi,,tak,tak,8,6,0.7,23.1,35.0,Local Pack/obiekty
+miejsca na biwak,1000,0.52,LOW,2026-05:1900,2025-12:390,poradnik,noclegi,miejsce na biwak,nie,nie,,,,0,0,
+kamper 4x4,1000,0.32,LOW,2026-01:1300,2025-11:880,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,28.0,intencja zakupu (OLX)
+bus kamper,1000,0.17,LOW,2026-08:1900,2025-11:720,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,35.0,56.0,AIO + OLX
+kamper integra,1000,0.24,LOW,2026-07:1600,2025-11:590,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,28.0,intencja zakupu (OLX)
+wynajem kamper warszawa,1000,0.29,HIGH,2026-07:1900,2025-12:390,encja,wynajem-miasto,,tak,tak,8,5,0.7,23.1,45.5,Local Pack nad wynikami
+ile kosztuje kamper,1000,0.16,MEDIUM,2026-07:1900,2025-12:390,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,23.1,intencja zakupu (OLX/Otomoto)
+wynajem kampera warszawa,1000,0.29,HIGH,2026-07:1900,2025-12:390,encja,wynajem-miasto,wynajem kamper warszawa,nie,nie,,,,0,0,
+lodówka do kampera,1000,0.23,HIGH,2026-06:1600,2025-11:590,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,26.4,52.0,Google Shopping/sklepy
+pole namiotowe krynica morska,1000,1.2,LOW,2026-08:4400,2025-10:90,encja,noclegi-region,,tak,tak,8,5,0.7,23.1,45.5,Local Pack
+pole namiotowe karpacz,1000,0.35,LOW,2026-08:3600,2025-11:170,encja,noclegi-region,,tak,tak,8,5,0.7,23.1,45.5,Local Pack
+pole namiotowe zakopane,1000,0.45,MEDIUM,2026-08:3600,2025-10:210,encja,noclegi-region,,tak,tak,8,5,0.7,23.1,45.5,Local Pack
+domki kempingowe,1000,0.16,MEDIUM,2026-07:1900,2025-12:390,hub,noclegi,,nie,tak,,9,0.7,0,19.6,fraza główna; Local Pack/portale
+markiza samochodowa,1000,0.13,HIGH,2026-05:1600,2025-11:480,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,26.4,52.0,Google Shopping/sklepy
+glamping mazury,880,0.37,HIGH,2026-07:1900,2025-11:320,encja,noclegi-region,,tak,tak,8,5,0.7,20.3,40.0,Local Pack
+glamping polska,880,0.38,HIGH,2026-07:1300,2026-09:590,hub,noclegi,,nie,tak,,9,0.7,0,17.2,fraza główna; Local Pack/portale
+zabudowy kamper,880,0.15,HIGH,2025-10:1000,2025-11:720,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,30.8,49.3,AIO + OLX
+kamper wypożyczalnia,880,0.23,MEDIUM,2026-07:1600,2025-10:390,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,24.6,40.0,Local Pack
+kamper park łódź,880,0.65,LOW,2026-07:2400,2025-12:260,encja,noclegi-region,,tak,tak,8,5,0.7,20.3,40.0,Local Pack
+zabudowa kamper,880,0.15,HIGH,2025-10:1000,2025-11:720,poradnik,zabudowa-diy,zabudowy kamper,nie,nie,,,,0,0,
+hymer kamper,880,0.19,LOW,2026-07:1600,2025-11:480,encja,marki,,nie,nie,,,,0,0,
+ile kosztuje wypożyczenie kampera,880,0.2,MEDIUM,2026-07:1900,2025-12:260,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,30.8,49.3,AIO na frazie głównej
+okna do kampera,880,0.2,HIGH,2026-05:1000,2025-12:480,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,23.2,45.8,Google Shopping/sklepy
+okno do kampera,880,0.2,HIGH,2026-05:1000,2025-12:480,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,23.2,45.8,Google Shopping/sklepy
+zabudowa kampera,880,0.15,HIGH,2025-10:1000,2025-11:720,poradnik,zabudowa-diy,zabudowy kamper,nie,nie,,,,0,0,
+ile kosztuje wynajem kampera,880,0.22,MEDIUM,2026-07:2400,2025-12:320,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,30.8,49.3,AIO na frazie głównej
+pole namiotowe hel,880,0.35,MEDIUM,2026-07:2900,2025-10:90,encja,noclegi-region,,tak,tak,8,5,0.7,20.3,40.0,Local Pack
+pole namiotowe leśne,880,,LOW,2026-08:4400,2025-10:30,poradnik,noclegi,,tak,tak,8,6,0.7,20.3,30.8,Local Pack/obiekty
+pickup camper,720,0.09,HIGH,2025-11:880,2026-02:590,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,20.2,intencja zakupu (OLX)
+pick-up camper,720,0.09,HIGH,2025-11:880,2026-02:590,porównanie/ranking,typy-kamperów,pickup camper,nie,nie,,,,0,0,
+camper pickup,720,0.09,HIGH,2025-11:880,2026-02:590,porównanie/ranking,typy-kamperów,pickup camper,nie,nie,,,,0,0,
+glamping wisła,720,0.28,HIGH,2026-02:880,2025-12:480,encja,noclegi-region,,tak,tak,8,5,0.7,16.6,32.8,Local Pack
+kamper półintegra,720,0.11,LOW,2026-08:1000,2025-12:390,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,20.2,intencja zakupu (OLX)
+kamper 6 osobowy,720,0.21,LOW,2026-07:1300,2025-10:480,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,20.2,intencja zakupu (OLX)
+kamper hymer,720,0.47,LOW,2026-07:1300,2025-11:390,encja,marki,,nie,nie,,,,0,0,
+kamper bus,720,0.14,LOW,2026-07:1000,2025-12:390,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,25.2,40.3,AIO + OLX
+kamper 4 osobowy,720,0.15,LOW,2026-07:1300,2025-10:390,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,20.2,intencja zakupu (OLX)
+bus przerobiony na kamper,720,0.04,MEDIUM,2026-08:1300,2025-10:590,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,25.2,40.3,AIO + OLX
+mini kamper dla 2 osób,720,0.07,MEDIUM,2026-07:1000,2025-11:590,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,20.2,intencja zakupu (OLX)
+bus przerobiony na kampera,720,0.04,MEDIUM,2026-08:1300,2025-10:590,poradnik,zabudowa-diy,bus przerobiony na kamper,nie,nie,,,,0,0,
+wynajem kampera poznań,720,0.43,HIGH,2026-07:1900,2025-11:210,encja,wynajem-miasto,,tak,tak,8,5,0.7,16.6,32.8,Local Pack nad wynikami
+toaleta do kampera,720,0.18,HIGH,2026-05:880,2025-12:390,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,19.0,37.4,Google Shopping/sklepy
+toalety do kampera,720,0.18,HIGH,2026-05:880,2025-12:390,porównanie/ranking,wyposażenie,toaleta do kampera,nie,nie,,,,0,0,
+markizy do kampera,720,0.13,HIGH,2026-05:1000,2025-12:390,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,19.0,37.4,Google Shopping/sklepy
+wynajem kampera wrocław,720,0.22,MEDIUM,2026-06:1300,2025-12:320,encja,wynajem-miasto,,tak,tak,8,5,0.7,16.6,32.8,Local Pack nad wynikami
+markiza do kampera,720,0.13,HIGH,2026-05:1000,2025-12:390,porównanie/ranking,wyposażenie,markizy do kampera,nie,nie,,,,0,0,
+akcesoria do kampera,720,0.27,HIGH,2025-12:880,2025-10:480,hub,-,,nie,tak,,9,0.7,0,14.1,fraza główna; Local Pack/portale
+pole namiotowe łeba,720,0.32,LOW,2026-07:2900,2025-10:90,encja,noclegi-region,,tak,tak,8,5,0.7,16.6,32.8,Local Pack
+pole namiotowe bieszczady,720,0.39,LOW,2026-07:1900,2025-10:90,encja,noclegi-region,,tak,tak,8,5,0.7,16.6,32.8,Local Pack
+pole namiotowe jantar,720,0.15,LOW,2026-08:2900,2025-12:40,encja,noclegi-region,,tak,tak,8,5,0.7,16.6,32.8,Local Pack
+pole namiotowe kaszuby,720,0.3,LOW,2026-07:2400,2025-12:70,encja,noclegi-region,,tak,tak,8,5,0.7,16.6,32.8,Local Pack
+vanlife,720,0.42,LOW,2026-01:880,2025-12:590,hub,-,,nie,tak,,9,0.7,0,14.1,fraza główna; Local Pack/portale
+płyn do toalet turystycznych,720,0.39,HIGH,2026-05:1300,2025-12:170,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,19.0,37.4,Google Shopping/sklepy
+mover do przyczepy kempingowej,720,0.12,HIGH,2026-07:1600,2025-12:170,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,19.0,37.4,Google Shopping/sklepy
+camper park kudowa,590,0.2,LOW,2026-08:1000,2025-12:140,encja,noclegi-region,,tak,tak,8,5,0.7,13.6,26.8,Local Pack
+glamping kaszuby,590,0.25,HIGH,2026-07:1300,2025-11:260,encja,noclegi-region,,tak,tak,8,5,0.7,13.6,26.8,Local Pack
+glamping co to jest,590,0.19,MEDIUM,2026-04:880,2025-11:390,poradnik,noclegi-poradnik,,nie,tak,,5,0.5,0,19.2,AIO podaje definicję
+glamping wielkopolska,590,0.31,HIGH,2026-07:880,2025-11:390,encja,noclegi-region,,tak,tak,8,5,0.7,13.6,26.8,Local Pack
+kamper 5 osobowy,590,0.17,LOW,2026-07:1000,2025-12:320,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,16.5,intencja zakupu (OLX)
+prysznic do kampera,590,0.08,HIGH,2026-06:880,2025-11:390,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,15.6,30.7,Google Shopping/sklepy
+okno dachowe do kampera,590,0.19,HIGH,2026-06:720,2025-12:320,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,15.6,30.7,Google Shopping/sklepy
+zestaw solarny do kampera,590,0.22,HIGH,2026-03:720,2025-12:320,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,15.6,30.7,Google Shopping/sklepy
+gadzety do kampera,590,0.2,HIGH,2025-12:880,2025-10:390,hub,-,,nie,tak,,9,0.7,0,11.6,fraza główna; Local Pack/portale
+okna dachowe do kampera,590,0.19,HIGH,2026-06:720,2025-12:320,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,15.6,30.7,Google Shopping/sklepy
+gadżety do kampera,590,0.2,HIGH,2025-12:880,2025-10:390,hub,-,gadzety do kampera,nie,nie,,,,0,0,
+wynajem kampera kraków,590,0.13,HIGH,2026-06:1600,2025-11:210,encja,wynajem-miasto,,tak,tak,8,5,0.7,13.6,26.8,Local Pack nad wynikami
+telewizor do kampera,590,0.15,HIGH,2026-06:720,2025-12:320,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,15.6,30.7,Google Shopping/sklepy
+meble do kampera,590,0.08,HIGH,2026-07:720,2025-12:390,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,20.6,33.0,AIO + OLX
+pole namiotowe kemping,590,0.21,LOW,2026-07:1600,2025-12:90,poradnik,noclegi,,tak,tak,8,6,0.7,13.6,20.6,Local Pack/obiekty
+kempingi olsztyn,590,,LOW,2026-07:880,2025-11:320,encja,noclegi-region,,tak,tak,8,5,0.7,13.6,26.8,Local Pack
+kempingi nad morzem,590,0.32,MEDIUM,2026-07:1300,2026-09:140,poradnik,noclegi,,tak,tak,8,6,0.7,13.6,20.6,Local Pack/obiekty
+pole namiotowe energylandia,590,0.79,LOW,2026-07:1600,2025-11:70,encja,noclegi-region,,tak,tak,8,5,0.7,13.6,26.8,Local Pack
+pole namiotowe czorsztyn,590,0.31,LOW,2026-07:1900,2025-12:20,encja,noclegi-region,,tak,tak,8,5,0.7,13.6,26.8,Local Pack
+pole namiotowe władysławowo,590,0.35,MEDIUM,2026-07:2400,2025-10:70,encja,noclegi-region,,tak,tak,8,5,0.7,13.6,26.8,Local Pack
+pole namiotowe okuninka,590,0.09,LOW,2026-08:2900,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,13.6,26.8,Local Pack
+pitchup,590,1.46,LOW,2026-07:1600,2025-10:170,porównanie/ranking,platformy,,nie,tak,,5,1.0,0,38.4,frazy marek
+toaleta chemiczna,590,0.33,HIGH,2026-05:880,2025-11:320,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,15.6,30.7,Google Shopping/sklepy
+lodówka kempingowa,590,0.41,HIGH,2026-06:1300,2025-10:170,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,15.6,30.7,Google Shopping/sklepy
+namiot rodzinny,590,0.14,HIGH,2026-06:1300,2025-10:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,15.6,30.7,Google Shopping/sklepy
+leśny biwak,480,,LOW,2026-09:880,2025-12:260,hub,noclegi,,nie,tak,,9,0.7,0,9.4,fraza główna; Local Pack/portale
+camper parking,480,0.15,LOW,2026-07:1000,2025-11:260,hub,noclegi,,nie,tak,,9,0.7,0,9.4,fraza główna; Local Pack/portale
+camper camping,480,,LOW,2026-07:1300,2025-12:140,hub,noclegi,,nie,tak,,9,0.7,0,9.4,fraza główna; Local Pack/portale
+jura glamping,480,0.47,LOW,2026-07:1000,2026-01:170,encja,noclegi-region,,tak,tak,8,5,0.7,11.1,21.8,Local Pack
+glamping jura,480,0.47,LOW,2026-07:1000,2026-01:170,encja,noclegi-region,jura glamping,nie,nie,,,,0,0,
+co to jest glamping,480,0.1,LOW,2025-10:720,2026-02:260,poradnik,noclegi-poradnik,,nie,tak,,5,0.5,0,15.6,AIO podaje definicję
+glamping bieszczady,480,0.34,HIGH,2026-07:720,2025-12:320,encja,noclegi-region,,tak,tak,8,5,0.7,11.1,21.8,Local Pack
+kamper park,480,0.35,LOW,2026-08:1300,2025-10:210,hub,-,,nie,tak,,9,0.7,0,9.4,fraza główna; Local Pack/portale
+kamper autobus,480,0.22,LOW,2026-07:720,2026-03:320,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,16.8,26.9,AIO + OLX
+autobus kamper,480,,LOW,2025-11:590,2025-10:390,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,16.8,26.9,AIO + OLX
+mały kamper,480,0.1,HIGH,2026-05:720,2025-11:320,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,13.4,intencja zakupu (OLX)
+przedsionki do kampera,480,0.13,HIGH,2026-07:880,2025-12:210,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,12.7,25.0,Google Shopping/sklepy
+szafki do kampera,480,0.08,HIGH,2026-05:590,2025-11:320,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,12.7,25.0,Google Shopping/sklepy
+klimatyzacja do kampera 12v,480,0.12,HIGH,2026-06:1600,2025-12:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,12.7,25.0,Google Shopping/sklepy
+zlewozmywak do kampera,480,0.17,HIGH,2026-03:720,2025-12:260,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,12.7,25.0,Google Shopping/sklepy
+przedsionek do kampera,480,0.13,HIGH,2026-07:880,2025-12:210,porównanie/ranking,wyposażenie,przedsionki do kampera,nie,nie,,,,0,0,
+wynajem kampera lublin,480,0.19,MEDIUM,2026-06:1300,2025-10:140,encja,wynajem-miasto,,tak,tak,8,5,0.7,11.1,21.8,Local Pack nad wynikami
+szafka do kampera,480,0.08,HIGH,2026-05:590,2025-11:320,porównanie/ranking,wyposażenie,szafki do kampera,nie,nie,,,,0,0,
+wypożyczenie kampera cena,480,0.19,MEDIUM,2026-07:1000,2025-12:140,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,16.8,26.9,AIO na frazie głównej
+klimatyzator do kampera 12v,480,0.12,HIGH,2026-06:1600,2025-12:140,porównanie/ranking,wyposażenie,klimatyzacja do kampera 12v,nie,nie,,,,0,0,
+akumulator do kampera,480,0.41,HIGH,2026-03:590,2025-11:320,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,12.7,25.0,Google Shopping/sklepy
+zbiornik na wodę do kampera,480,0.19,HIGH,2026-03:590,2025-10:320,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,12.7,25.0,Google Shopping/sklepy
+kabina prysznicowa do kampera,480,0.06,HIGH,2026-07:590,2025-11:320,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,12.7,25.0,Google Shopping/sklepy
+zlew do kampera,480,0.17,HIGH,2026-03:720,2025-12:260,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,12.7,25.0,Google Shopping/sklepy
+najlepszy kemping w polsce,480,0.19,MEDIUM,2026-07:1300,2025-12:110,porównanie/ranking,noclegi-ranking,,tak,tak,7,4,1.0,19.2,38.4,
+kempingi mazury,480,0.26,LOW,2026-07:1300,2025-10:90,encja,noclegi-region,,tak,tak,8,5,0.7,11.1,21.8,Local Pack
+najlepsze kempingi w polsce,480,0.19,MEDIUM,2026-07:1300,2025-12:110,porównanie/ranking,noclegi-ranking,najlepszy kemping w polsce,nie,nie,,,,0,0,
+pole namiotowe stegna,480,,LOW,2026-08:1900,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,11.1,21.8,Local Pack
+pole namiotowe ogrodzieniec,480,,LOW,2026-08:1600,2025-12:40,encja,noclegi-region,,tak,tak,8,5,0.7,11.1,21.8,Local Pack
+krynica morska pole namiotowe,480,0.41,LOW,2026-07:1600,2025-10:30,encja,noclegi-region,,tak,tak,8,5,0.7,11.1,21.8,Local Pack
+pole namiotowe gdańsk,480,0.34,MEDIUM,2026-08:1600,2025-10:40,encja,noclegi-region,,tak,tak,8,5,0.7,11.1,21.8,Local Pack
+pole namiotowe międzyzdroje,480,0.4,LOW,2026-07:1900,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,11.1,21.8,Local Pack
+łeba pole namiotowe,480,0.14,LOW,2026-07:1900,2025-10:30,encja,noclegi-region,,tak,tak,8,5,0.7,11.1,21.8,Local Pack
+pole namiotowe śląskie,480,0.15,LOW,2026-07:1600,2025-12:30,encja,noclegi-region,,tak,tak,8,5,0.7,11.1,21.8,Local Pack
+pole namiotowe slaskie,480,0.15,LOW,2026-07:1600,2025-12:30,encja,noclegi-region,pole namiotowe śląskie,nie,nie,,,,0,0,
+pole namiotowe śląsk,480,0.15,LOW,2026-07:1600,2025-12:30,encja,noclegi-region,pole namiotowe śląskie,nie,nie,,,,0,0,
+campervan wynajem,480,0.24,MEDIUM,2026-07:880,2025-10:260,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,13.4,21.8,Local Pack
+kemping mazury,480,0.26,LOW,2026-07:1300,2025-10:90,encja,noclegi-region,kempingi mazury,nie,nie,,,,0,0,
+meble kempingowe,480,0.18,HIGH,2026-07:880,2025-12:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,12.7,25.0,Google Shopping/sklepy
+dethleffs camper,390,0.1,LOW,2026-08:720,2025-12:210,encja,marki,,nie,nie,,,,0,0,
+glamping warszawa,390,0.58,HIGH,2025-10:590,2026-09:260,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+glamping dolny śląsk,390,0.42,HIGH,2025-10:880,2026-04:210,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+glamping zachodniopomorskie,390,0.31,HIGH,2026-07:590,2025-12:210,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+kamper alkowa,390,0.12,LOW,2026-08:1300,2025-12:170,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,10.9,intencja zakupu (OLX)
+parking kamper,390,0.05,LOW,2026-08:720,2025-10:210,hub,noclegi,,nie,tak,,9,0.7,0,7.6,fraza główna; Local Pack/portale
+wyposażenie kamper,390,0.23,HIGH,2026-04:480,2025-12:260,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,10.3,20.3,Google Shopping/sklepy
+wynajem kamper szczecin,390,0.15,MEDIUM,2026-06:1000,2025-10:140,encja,wynajem-miasto,,tak,tak,8,5,0.7,9.0,17.7,Local Pack nad wynikami
+kamper nowy cena,390,0.12,MEDIUM,2026-07:720,2025-12:170,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,9.0,intencja zakupu (OLX/Otomoto)
+luksusowy kamper,390,0.17,LOW,2026-07:590,2025-11:210,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,10.9,intencja zakupu (OLX)
+brodzik do kampera,390,0.14,HIGH,2026-08:590,2025-12:260,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,10.3,20.3,Google Shopping/sklepy
+wyposażenie kampera,390,0.23,HIGH,2026-04:480,2025-12:260,hub,-,wyposażenie kamper,nie,nie,,,,0,0,
+wynajem kampera szczecin,390,0.15,MEDIUM,2026-06:1000,2025-10:140,encja,wynajem-miasto,wynajem kamper szczecin,nie,nie,,,,0,0,
+stoliki do kampera,390,0.19,HIGH,2026-05:590,2025-10:260,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,10.3,20.3,Google Shopping/sklepy
+łóżko do kampera,390,0.07,HIGH,2026-03:480,2025-10:320,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,10.3,20.3,Google Shopping/sklepy
+stolik do kampera,390,0.19,HIGH,2026-05:590,2025-10:260,porównanie/ranking,wyposażenie,stoliki do kampera,nie,nie,,,,0,0,
+pralka do kampera,390,0.2,HIGH,2026-07:720,2025-12:170,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,10.3,20.3,Google Shopping/sklepy
+wypożyczalnia kamperów warszawa,390,0.36,HIGH,2026-07:720,2025-12:140,encja,wynajem-miasto,,tak,tak,8,5,0.7,9.0,17.7,Local Pack nad wynikami
+zabudowy kamperów,390,0.32,HIGH,2026-03:590,2025-12:210,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,13.6,21.8,AIO + OLX
+kemping przyczepa,390,0.03,HIGH,2026-05:590,2025-12:170,hub,noclegi,,nie,tak,,9,0.7,0,7.6,fraza główna; Local Pack/portale
+kempingi polska,390,0.17,MEDIUM,2026-07:720,2026-09:70,hub,noclegi,,nie,tak,,9,0.7,0,7.6,fraza główna; Local Pack/portale
+kempingi przyczepy,390,0.03,HIGH,2026-05:590,2025-12:170,hub,noclegi,kemping przyczepa,nie,nie,,,,0,0,
+kempingi hel,390,0.55,MEDIUM,2026-07:1000,2025-12:70,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+pole namiotowe sopot,390,0.69,MEDIUM,2026-07:1300,2025-12:30,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+pole namiotowe jastarnia,390,0.61,MEDIUM,2026-07:1600,2025-12:20,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+pole namiotowe camping,390,0.36,LOW,2026-08:1300,2025-11:50,poradnik,noclegi,,tak,tak,8,6,0.7,9.0,13.6,Local Pack/obiekty
+hel pole namiotowe,390,0.49,MEDIUM,2026-07:1300,2025-10:40,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+camping pole namiotowe,390,0.08,LOW,2026-07:1300,2025-12:20,poradnik,noclegi,,tak,tak,8,6,0.7,9.0,13.6,Local Pack/obiekty
+pole namiotowe mielno,390,0.66,LOW,2026-07:1600,2025-11:40,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+dębki pole namiotowe,390,0.07,LOW,2026-07:1300,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+pole namiotowe powidz,390,0.59,LOW,2026-07:1600,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+pole namiotowe chałupy,390,0.28,LOW,2026-07:1600,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+pole namiotowe solina,390,0.45,LOW,2026-07:1600,2025-11:30,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+pole namiotowe kołobrzeg,390,0.57,LOW,2026-07:1600,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+pole namiotowe dębki,390,0.17,LOW,2026-07:1300,2025-11:20,encja,noclegi-region,,tak,tak,8,5,0.7,9.0,17.7,Local Pack
+kemping hel,390,0.55,MEDIUM,2026-07:1000,2025-12:70,encja,noclegi-region,kempingi hel,nie,nie,,,,0,0,
+spanie w samochodzie,390,0.08,HIGH,2026-07:720,2025-12:210,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,13.6,21.8,AIO + OLX
+na biwak,320,0.2,MEDIUM,2026-07:390,2025-12:210,narzędzie,lista-rzeczy,,nie,tak,,5,0.5,0,10.4,AIO podaje całą listę
+glamping mazowieckie,320,0.61,HIGH,2026-07:590,2025-11:170,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+glamping czorsztyn,320,0.31,HIGH,2026-08:720,2025-12:90,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+glamping camping,320,0.34,MEDIUM,2026-07:720,2025-11:170,hub,noclegi,,nie,tak,,9,0.7,0,6.3,fraza główna; Local Pack/portale
+glamping dolnośląskie,320,0.4,HIGH,2026-03:590,2025-10:210,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+camping glamping,320,0.34,MEDIUM,2026-07:720,2025-11:170,hub,noclegi,glamping camping,nie,nie,,,,0,0,
+mały kamper z łazienką,320,0.18,LOW,2025-10:390,2025-12:210,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,9.0,intencja zakupu (OLX)
+integra kamper,320,0.2,LOW,2026-08:590,2025-12:140,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,9.0,intencja zakupu (OLX)
+kamper 8 osobowy,320,0.09,LOW,2026-07:480,2025-11:170,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,9.0,intencja zakupu (OLX)
+mały kamper z łazienka,320,0.18,LOW,2025-10:390,2025-12:210,porównanie/ranking,typy-kamperów,mały kamper z łazienką,nie,nie,,,,0,0,
+kamper ciężarowy,320,0.25,LOW,2026-07:480,2025-11:260,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,9.0,intencja zakupu (OLX)
+kamper dethleffs,320,0.13,LOW,2026-06:390,2025-12:170,encja,marki,,nie,nie,,,,0,0,
+kamper wynajem warszawa,320,0.35,HIGH,2026-07:720,2025-11:140,encja,wynajem-miasto,,tak,tak,8,5,0.7,7.4,14.6,Local Pack nad wynikami
+kamper 6 osobowy wynajem,320,0.2,MEDIUM,2026-07:590,2025-12:170,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,9.0,14.6,Local Pack
+wynajem kamper,320,0.25,MEDIUM,2026-06:590,2025-10:170,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,9.0,14.6,Local Pack
+kamper z autobusu,320,,LOW,2025-11:480,2025-10:260,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,11.2,17.9,AIO + OLX
+wynajem kampera,320,0.25,MEDIUM,2026-06:590,2025-10:170,hub,-,wynajem kamper,nie,nie,,,,0,0,
+wynajem kampera bydgoszcz,320,0.2,MEDIUM,2026-06:720,2025-10:110,encja,wynajem-miasto,,tak,tak,8,5,0.7,7.4,14.6,Local Pack nad wynikami
+solary do kampera,320,0.17,HIGH,2026-04:480,2025-12:170,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,8.4,16.6,Google Shopping/sklepy
+gotowa kabina prysznicowa do kampera,320,0.05,HIGH,2025-10:390,2025-12:170,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,8.4,16.6,Google Shopping/sklepy
+wynajem kampera katowice,320,0.2,MEDIUM,2026-06:720,2026-09:110,encja,wynajem-miasto,,tak,tak,8,5,0.7,7.4,14.6,Local Pack nad wynikami
+materace do kampera,320,0.28,HIGH,2026-05:480,2025-12:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,8.4,16.6,Google Shopping/sklepy
+wynajem kampera łódź,320,0.16,MEDIUM,2026-06:880,2025-10:140,encja,wynajem-miasto,,tak,tak,8,5,0.7,7.4,14.6,Local Pack nad wynikami
+webasto do kampera,320,0.2,HIGH,2025-10:480,2026-05:170,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,8.4,16.6,Google Shopping/sklepy
+zabudowa do kampera,320,0.11,HIGH,2026-08:480,2025-11:260,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,11.2,17.9,AIO + OLX
+gotowa zabudowa do kampera,320,0.16,HIGH,2026-08:480,2026-02:210,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,11.2,17.9,AIO + OLX
+fotowoltaika do kampera,320,0.23,HIGH,2026-06:480,2025-12:210,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,8.4,16.6,Google Shopping/sklepy
+wynajem kampera rzeszów,320,0.16,HIGH,2026-06:880,2025-10:110,encja,wynajem-miasto,,tak,tak,8,5,0.7,7.4,14.6,Local Pack nad wynikami
+papier toaletowy do kampera,320,0.26,HIGH,2026-07:590,2025-12:90,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,8.4,16.6,Google Shopping/sklepy
+materac do kampera,320,0.28,HIGH,2026-05:480,2025-12:140,porównanie/ranking,wyposażenie,materace do kampera,nie,nie,,,,0,0,
+wynajem kampera gdańsk,320,0.55,MEDIUM,2026-07:590,2025-10:140,encja,wynajem-miasto,,tak,tak,8,5,0.7,7.4,14.6,Local Pack nad wynikami
+zabudowy do kampera,320,0.11,HIGH,2026-08:480,2025-11:260,poradnik,zabudowa-diy,zabudowa do kampera,nie,nie,,,,0,0,
+łazienka do kampera,320,0.07,HIGH,2026-05:390,2025-12:210,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,8.4,16.6,Google Shopping/sklepy
+solar do kampera,320,0.17,HIGH,2026-04:480,2025-12:170,porównanie/ranking,wyposażenie,solary do kampera,nie,nie,,,,0,0,
+drzwiczki do kampera,320,0.11,HIGH,2026-07:480,2025-11:170,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,8.4,16.6,Google Shopping/sklepy
+drzwi do kampera,320,0.11,HIGH,2026-07:480,2025-11:170,porównanie/ranking,wyposażenie,drzwiczki do kampera,nie,nie,,,,0,0,
+kamperem po polsce,320,0.1,MEDIUM,2026-07:590,2025-11:210,hub,-,,nie,tak,,9,0.7,0,6.3,fraza główna; Local Pack/portale
+wypożyczalnia kamperów śląsk,320,0.24,MEDIUM,2026-07:590,2025-10:110,encja,wynajem-miasto,,tak,tak,8,5,0.7,7.4,14.6,Local Pack nad wynikami
+wypożyczalnia kamperów wrocław,320,0.43,MEDIUM,2026-07:480,2025-12:170,encja,wynajem-miasto,,tak,tak,8,5,0.7,7.4,14.6,Local Pack nad wynikami
+ceny kamperów,320,0.08,HIGH,2026-07:590,2025-12:110,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,7.4,intencja zakupu (OLX/Otomoto)
+kemping nad jeziorem,320,0.42,LOW,2026-07:1000,2025-10:40,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+kempingi łeba,320,0.08,LOW,2026-07:1000,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+pole namiotowe turawa,320,0.16,LOW,2026-07:1000,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+pole namiotowe rowy,320,0.13,LOW,2026-07:1000,2025-11:50,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+turawa pole namiotowe,320,1.07,LOW,2026-07:1000,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+powidz pole namiotowe,320,,LOW,2026-07:1300,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+pole namiotowe małopolska,320,0.11,LOW,2026-07:1000,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+pole namiotowe wielkopolska,320,0.24,LOW,2026-07:1000,2025-12:20,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+pole namiotowe ustka,320,0.63,LOW,2026-07:1000,2025-10:40,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+pole namiotowe nad morzem przy plaży,320,0.52,MEDIUM,2026-07:1000,2025-10:30,poradnik,noclegi,,tak,tak,8,6,0.7,7.4,11.2,Local Pack/obiekty
+pole namiotowe augustów,320,0.19,LOW,2026-07:1000,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+pole namiotowe szczawnica,320,0.36,LOW,2026-07:1000,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+stegna pole namiotowe,320,0.06,LOW,2026-07:1000,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+pole namiotowe dolny śląsk,320,0.23,LOW,2026-07:1000,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+pole namiotowe świnoujście,320,0.91,LOW,2026-07:1300,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+kemping łeba,320,0.08,LOW,2026-07:1000,2025-10:20,encja,noclegi-region,kempingi łeba,nie,nie,,,,0,0,
+kemping zakopane,320,0.26,MEDIUM,2026-07:590,2026-01:110,encja,noclegi-region,,tak,tak,8,5,0.7,7.4,14.6,Local Pack
+karta acsi,320,0.22,HIGH,2026-05:720,2025-10:170,porównanie/ranking,platformy,,nie,tak,,5,1.0,0,20.8,frazy marek
+ile kosztuje przyczepa kempingowa,320,0.04,HIGH,2026-07:720,2025-10:140,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,16.0,25.6,
+camper park lądek-zdrój,260,,LOW,2026-07:590,2025-10:50,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+camper park lądek zdrój,260,,LOW,2026-07:590,2025-10:50,encja,noclegi-region,camper park lądek-zdrój,nie,nie,,,,0,0,
+t4 camper van,260,0.02,LOW,2026-01:390,2025-12:170,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,7.3,intencja zakupu (OLX)
+glamping śląskie,260,0.23,HIGH,2025-10:390,2025-12:170,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+glamping śląsk,260,0.23,HIGH,2025-10:390,2025-12:170,encja,noclegi-region,glamping śląskie,nie,nie,,,,0,0,
+glamping małopolska,260,0.44,HIGH,2025-10:390,2026-05:170,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+glamping pomorskie,260,0.44,HIGH,2026-08:480,2025-11:110,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+glamping nad jeziorem,260,0.3,HIGH,2026-07:720,2026-09:70,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+glamping karkonosze,260,0.31,HIGH,2026-07:390,2025-11:170,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+glamping kujawsko-pomorskie,260,0.35,HIGH,2026-08:480,2025-11:170,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+glamping nad morzem,260,0.33,HIGH,2026-07:720,2025-12:50,poradnik,noclegi,,tak,tak,8,6,0.7,6.0,9.1,Local Pack/obiekty
+glamping kujawsko pomorskie,260,0.35,HIGH,2026-08:480,2025-11:170,encja,noclegi-region,glamping kujawsko-pomorskie,nie,nie,,,,0,0,
+glamping nałęczów,260,0.36,HIGH,2026-08:390,2026-02:110,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+kamper wynajem cena,260,0.25,MEDIUM,2026-06:480,2025-12:110,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,9.1,14.6,AIO na frazie głównej
+kamper 2 osobowy,260,0.23,MEDIUM,2026-07:480,2025-10:140,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,7.3,intencja zakupu (OLX)
+ile kosztuje kamper 4 osobowy,260,0.12,LOW,2026-08:480,2025-12:70,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,6.0,intencja zakupu (OLX/Otomoto)
+kamper na pickupa,260,0.08,HIGH,2026-08:480,2025-11:170,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,7.3,intencja zakupu (OLX)
+ile kosztuje kamper 4-osobowy,260,0.12,LOW,2026-08:480,2025-12:70,porównanie/ranking,zakup-ceny,ile kosztuje kamper 4 osobowy,nie,nie,,,,0,0,
+mały kamper na 2 osoby,260,0.03,HIGH,2026-06:320,2025-12:140,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,7.3,intencja zakupu (OLX)
+kamper parking,260,0.1,LOW,2026-07:390,2025-11:110,hub,noclegi,,nie,tak,,9,0.7,0,5.1,fraza główna; Local Pack/portale
+umywalka do kampera,260,0.14,HIGH,2026-03:390,2025-12:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,6.9,13.5,Google Shopping/sklepy
+ile kosztuje wypożyczenie kampera na tydzień,260,0.2,MEDIUM,2026-07:720,2025-12:70,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,9.1,14.6,AIO na frazie głównej
+przetwornica do kampera,260,0.71,HIGH,2026-03:320,2025-12:170,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,6.9,13.5,Google Shopping/sklepy
+wentylator dachowy do kampera,260,0.18,HIGH,2026-06:480,2025-11:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,6.9,13.5,Google Shopping/sklepy
+zasłonki do kampera,260,0.12,HIGH,2026-07:480,2025-12:90,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,6.9,13.5,Google Shopping/sklepy
+stopień do kampera,260,0.18,HIGH,2026-07:390,2025-10:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,6.9,13.5,Google Shopping/sklepy
+zabudowa kampera cennik,260,0.34,HIGH,2026-03:320,2026-09:140,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,9.1,14.6,AIO + OLX
+zestaw fotowoltaiczny do kampera,260,0.18,HIGH,2026-08:480,2025-10:170,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,6.9,13.5,Google Shopping/sklepy
+wynajem kampera pomorskie,260,0.2,MEDIUM,2026-07:590,2025-11:90,encja,wynajem-miasto,,tak,tak,8,5,0.7,6.0,11.8,Local Pack nad wynikami
+antena do kampera,260,0.17,HIGH,2026-07:390,2025-12:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,6.9,13.5,Google Shopping/sklepy
+toaleta separacyjna do kampera,260,0.29,HIGH,2026-03:320,2025-10:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,6.9,13.5,Google Shopping/sklepy
+namiot do kampera,260,0.11,HIGH,2026-06:480,2025-12:90,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,6.9,13.5,Google Shopping/sklepy
+zasłony do kampera,260,0.12,HIGH,2026-07:480,2025-12:90,porównanie/ranking,wyposażenie,zasłonki do kampera,nie,nie,,,,0,0,
+naczynia do kampera,260,0.24,HIGH,2026-07:390,2025-12:170,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,6.9,13.5,Google Shopping/sklepy
+wynajem kampera śląsk,260,0.21,HIGH,2026-08:720,2025-10:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,6.0,11.8,Local Pack nad wynikami
+grill gazowy do kampera,260,0.25,HIGH,2026-05:480,2025-10:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,6.9,13.5,Google Shopping/sklepy
+wynajem kamperów warszawa,260,0.79,HIGH,2026-07:480,2025-10:110,encja,wynajem-miasto,,tak,tak,8,5,0.7,6.0,11.8,Local Pack nad wynikami
+wypożyczalnia kamperów poznań,260,0.45,HIGH,2026-07:480,2025-12:90,encja,wynajem-miasto,,tak,tak,8,5,0.7,6.0,11.8,Local Pack nad wynikami
+wypożyczalnia kamperów kraków,260,0.17,MEDIUM,2026-03:480,2025-12:110,encja,wynajem-miasto,,tak,tak,8,5,0.7,6.0,11.8,Local Pack nad wynikami
+kempingi na mazurach,260,0.3,MEDIUM,2026-07:720,2026-09:50,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+pole namiotowe pobierowo,260,0.13,LOW,2026-07:1000,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+pole namiotowe łódź,260,0.25,LOW,2026-06:1300,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+pole namiotowe szklarska poręba,260,0.57,LOW,2026-08:880,2025-12:20,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+sielpia pole namiotowe,260,,LOW,2026-07:1000,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+władysławowo pole namiotowe,260,0.34,MEDIUM,2026-07:1000,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+pole namiotowe bory tucholskie,260,0.67,LOW,2026-07:880,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+pole namiotowe sielpia,260,3.85,LOW,2026-07:880,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+mazury pole namiotowe,260,0.22,LOW,2026-07:880,2025-10:30,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+pole namiotowe roztocze,260,0.21,LOW,2026-07:590,2025-10:30,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+pole namiotowe tatry,260,0.41,MEDIUM,2026-07:720,2025-10:40,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+jantar pole namiotowe,260,0.25,LOW,2026-08:1000,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+pole namiotowe gdynia,260,0.27,MEDIUM,2026-07:880,2025-10:30,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+jastarnia pole namiotowe,260,0.44,MEDIUM,2026-07:880,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+pole namiotowe mazury nad jeziorem,260,0.39,MEDIUM,2026-07:880,2025-11:20,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+okuninka pole namiotowe,260,0.43,LOW,2026-07:1000,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+solina pole namiotowe,260,0.1,LOW,2026-07:880,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+zakopane pole namiotowe,260,0.39,LOW,2026-07:880,2025-10:40,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+chałupy pole namiotowe,260,0.39,LOW,2026-07:1000,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+pole namiotowe niechorze,260,0.1,LOW,2026-07:1000,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+czorsztyn pole namiotowe,260,0.43,LOW,2026-08:1000,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+bieszczady pole namiotowe,260,0.46,LOW,2026-07:720,2025-10:50,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+pole namiotowe mikołajki,260,0.6,MEDIUM,2026-07:880,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,6.0,11.8,Local Pack
+przyczepa kempingowa cena,260,0.03,HIGH,2026-08:590,2025-12:110,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,13.0,20.8,
+zabudowa pickup camper,210,0.13,HIGH,2026-08:260,2025-12:170,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,7.3,11.8,AIO + OLX
+glamping łódź,210,0.31,HIGH,2026-05:320,2025-12:110,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+glamping lubelskie,210,0.27,HIGH,2026-07:320,2026-05:140,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+glamping łódzkie,210,0.34,HIGH,2026-07:260,2025-12:140,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+nowy kamper cena,210,0.1,MEDIUM,2026-07:390,2025-12:110,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,4.9,intencja zakupu (OLX/Otomoto)
+wypożycz kamper,210,0.24,MEDIUM,2026-07:390,2025-12:110,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,5.9,9.6,Local Pack
+wypozycz kamper,210,0.24,MEDIUM,2026-07:390,2025-12:110,porównanie/ranking,wynajem-typy,wypożycz kamper,nie,nie,,,,0,0,
+ile kosztuje nowy kamper,210,0.17,MEDIUM,2026-08:480,2025-12:90,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,4.9,intencja zakupu (OLX/Otomoto)
+kamper cena nowy,210,0.12,MEDIUM,2026-08:480,2025-12:70,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,4.9,intencja zakupu (OLX/Otomoto)
+półintegra kamper,210,0.19,LOW,2026-08:590,2025-11:70,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,5.9,intencja zakupu (OLX)
+tani kamper,210,0.06,MEDIUM,2026-07:320,2025-10:170,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,4.9,intencja zakupu (OLX/Otomoto)
+kamper ile kosztuje,210,0.14,MEDIUM,2026-08:390,2025-11:90,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,4.9,intencja zakupu (OLX/Otomoto)
+kamper 5 osobowy wynajem,210,0.16,MEDIUM,2026-07:320,2026-09:70,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,5.9,9.6,Local Pack
+wypożyczenie kampera,210,0.24,MEDIUM,2026-07:390,2025-12:110,hub,-,wypożycz kamper,nie,nie,,,,0,0,
+wypożycz kampera,210,0.24,MEDIUM,2026-07:390,2025-12:110,porównanie/ranking,wynajem-typy,wypożycz kamper,nie,nie,,,,0,0,
+wynajem kampera olsztyn,210,0.11,MEDIUM,2026-07:480,2025-10:70,encja,wynajem-miasto,,tak,tak,8,5,0.7,4.9,9.6,Local Pack nad wynikami
+zamek do kampera,210,0.18,HIGH,2026-03:260,2025-11:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+butla gazowa do kampera,210,0.14,HIGH,2026-05:260,2026-09:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+kuchenka do kampera,210,0.17,HIGH,2026-07:320,2025-12:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+fotele do kampera,210,0.07,HIGH,2026-03:260,2025-12:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+podgrzewacz wody do kampera,210,0.13,HIGH,2026-04:260,2025-12:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+do kampera,210,0.19,HIGH,2025-12:260,2025-10:140,hub,-,,nie,tak,,9,0.7,0,4.1,fraza główna; Local Pack/portale
+podpory do kampera,210,0.16,HIGH,2026-08:390,2025-12:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+pompa wody do kampera,210,0.28,HIGH,2026-05:320,2025-12:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+schodki do kampera,210,0.27,HIGH,2026-05:320,2025-12:90,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+roleta do kampera,210,0.09,HIGH,2026-07:390,2025-12:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+wynajem kampera cena za dobę,210,0.3,MEDIUM,2026-06:390,2025-12:50,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,7.3,11.8,AIO na frazie głównej
+przydatne gadżety do kampera,210,0.16,HIGH,2026-06:320,2025-10:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+kuchenka gazowa do kampera,210,0.19,HIGH,2026-05:320,2025-12:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+klimatyzator przenośny do kampera,210,0.23,HIGH,2026-06:720,2025-10:50,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+wynajem kampera toruń,210,0.22,LOW,2026-05:720,2026-09:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,4.9,9.6,Local Pack nad wynikami
+lodówka do kampera na gaz,210,0.1,HIGH,2026-06:390,2025-12:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+telewizor 12v do kampera,210,0.16,HIGH,2026-03:260,2025-12:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+panel fotowoltaiczny do kampera,210,0.15,HIGH,2026-03:320,2025-12:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+kran do kampera,210,0.15,HIGH,2026-05:390,2025-12:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+schody do kampera,210,0.27,HIGH,2026-05:320,2025-12:90,porównanie/ranking,wyposażenie,schodki do kampera,nie,nie,,,,0,0,
+lodówka do kampera 12v,210,0.24,HIGH,2026-06:390,2025-11:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+wynajem kamperów śląsk,210,0.48,HIGH,2026-03:390,2025-12:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,4.9,9.6,Local Pack nad wynikami
+wypożyczalnia kamperów łódź,210,0.24,MEDIUM,2026-07:390,2025-11:90,encja,wynajem-miasto,,tak,tak,8,5,0.7,4.9,9.6,Local Pack nad wynikami
+wynajem kamperów kraków,210,0.23,MEDIUM,2026-03:390,2026-09:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,4.9,9.6,Local Pack nad wynikami
+części do kamperów,210,0.28,HIGH,2026-07:320,2026-09:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,5.5,10.9,Google Shopping/sklepy
+parking dla kamperów wrocław,210,,LOW,2026-06:320,2025-10:50,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+kemping chałupy,210,0.29,MEDIUM,2026-07:720,2025-10:40,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+kempingi chałupy,210,0.29,MEDIUM,2026-07:720,2025-10:40,encja,noclegi-region,kemping chałupy,nie,nie,,,,0,0,
+kempingi sopot,210,0.43,LOW,2026-08:480,2025-12:70,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+łeba kempingi,210,0.08,LOW,2026-07:720,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+chałupy kempingi,210,0.38,MEDIUM,2026-07:880,2025-12:30,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+pole namiotowe zachodniopomorskie,210,0.16,LOW,2026-07:880,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+pole namiotowe nad jeziorem śląskie,210,0.21,LOW,2026-07:720,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+szczawnica pole namiotowe,210,0.26,LOW,2026-08:880,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+karwia pole namiotowe,210,1.91,LOW,2026-07:720,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+mielno pole namiotowe,210,0.38,LOW,2026-07:880,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+pole namiotowe leśne dębki,210,,LOW,2026-07:720,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+kołobrzeg pole namiotowe,210,0.43,LOW,2026-07:720,2025-11:20,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+pole namiotowe lubuskie,210,0.27,LOW,2026-07:720,2025-12:20,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+ustka pole namiotowe,210,0.18,LOW,2026-07:880,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+pole namiotowe sarbinowo,210,0.79,LOW,2026-07:880,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+pole namiotowe giżycko,210,0.34,LOW,2026-07:880,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+pole namiotowe karwia,210,0.21,LOW,2026-07:880,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+międzyzdroje pole namiotowe,210,0.05,LOW,2026-07:880,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,4.9,9.6,Local Pack
+bookingcamper,210,0.1,MEDIUM,2026-04:590,2025-12:70,porównanie/ranking,platformy,,nie,tak,,5,1.0,0,13.7,frazy marek
+kalkulator kosztów podróży,210,0.24,LOW,2026-01:260,2026-06:140,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,7.3,11.8,AIO na frazie głównej
+nadstawka camper pickup,170,0.25,HIGH,2025-10:210,2025-12:110,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,4.8,intencja zakupu (OLX)
+camper van 4 osobowy,170,0.16,MEDIUM,2026-08:320,2025-11:70,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,4.8,intencja zakupu (OLX)
+glamping tatry,170,0.38,HIGH,2025-10:210,2026-03:140,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+glamping mikołajki,170,0.51,HIGH,2026-07:390,2025-11:70,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+glamping w polsce,170,0.36,HIGH,2026-08:320,2026-09:110,poradnik,noclegi,,tak,tak,8,6,0.7,3.9,5.9,Local Pack/obiekty
+alkowa kamper,170,,LOW,2026-08:480,2025-12:90,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,4.8,intencja zakupu (OLX)
+luksusowy kamper w środku,170,0.1,MEDIUM,2026-03:260,2025-11:90,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,4.8,intencja zakupu (OLX)
+kamper dwuosobowy,170,0.12,MEDIUM,2026-07:390,2025-11:110,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,4.8,intencja zakupu (OLX)
+kamper 8-osobowy wynajem,170,0.25,LOW,2026-06:260,2026-09:50,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,4.8,7.7,Local Pack
+kamper 4 osobowy wynajem,170,0.2,MEDIUM,2026-07:320,2025-12:70,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,4.8,7.7,Local Pack
+mini kamper dla 2 osób wynajem,170,0.23,MEDIUM,2026-04:320,2025-12:70,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,4.8,7.7,Local Pack
+kamper wynajem poznań,170,0.39,HIGH,2026-06:260,2025-12:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.9,7.7,Local Pack nad wynikami
+kamper wynajem wrocław,170,0.28,MEDIUM,2026-07:320,2026-09:90,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.9,7.7,Local Pack nad wynikami
+kamper warszawa wynajem,170,0.49,MEDIUM,2026-07:260,2025-10:70,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.9,7.7,Local Pack nad wynikami
+luksusowy kamper dla 2 osób,170,0.13,MEDIUM,2026-07:320,2026-01:90,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,4.8,intencja zakupu (OLX)
+kamper 7 osobowy wynajem,170,0.2,MEDIUM,2026-07:320,2026-09:70,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,4.8,7.7,Local Pack
+gotowa łazienka do kampera,170,0.05,HIGH,2026-08:320,2025-11:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+wynajem kampera zachodniopomorskie,170,0.22,MEDIUM,2026-06:590,2025-11:40,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.9,7.7,Local Pack nad wynikami
+telewizor 12v do kampera smart tv,170,0.17,HIGH,2026-04:260,2025-12:90,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+wynajem kampera białystok,170,0.57,MEDIUM,2026-07:390,2025-12:70,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.9,7.7,Local Pack nad wynikami
+przyczepka do kampera,170,0.17,HIGH,2026-03:210,2025-11:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+wlew wody do kampera,170,0.17,HIGH,2026-03:260,2025-10:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+lodówka kompresorowa 12v do kampera,170,0.21,HIGH,2026-05:260,2026-09:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+pokrowiec na rowery do kampera,170,0.24,HIGH,2026-05:320,2025-10:50,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+części do kampera,170,0.23,HIGH,2026-03:390,2025-11:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+ogrzewanie do kampera,170,0.14,HIGH,2025-10:260,2026-06:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+zmywarka do kampera,170,0.24,HIGH,2026-07:320,2025-12:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+najazdy do kampera,170,0.27,HIGH,2026-07:320,2025-12:90,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+ekspres do kawy do kampera,170,0.32,HIGH,2026-07:320,2026-01:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+czesci do kampera,170,0.23,HIGH,2026-03:390,2025-11:110,porównanie/ranking,wyposażenie,części do kampera,nie,nie,,,,0,0,
+bojler do kampera,170,0.16,HIGH,2026-01:210,2026-09:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+bagażnik rowerowy do kampera,170,0.07,HIGH,2026-03:210,2025-11:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+wentylator do kampera,170,0.21,HIGH,2026-06:390,2025-10:90,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+lekka sklejka do kampera,170,0.18,HIGH,2026-05:210,2026-01:90,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,5.9,9.5,AIO + OLX
+zestaw solarny do kampera 2000w,170,0.16,HIGH,2026-03:260,2025-10:140,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+gotowe meble do kampera,170,0.04,HIGH,2026-03:320,2025-12:90,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,5.9,9.5,AIO + OLX
+panele fotowoltaiczne do kampera,170,0.17,HIGH,2026-04:260,2025-11:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+wynajem kampera śląskie,170,0.22,MEDIUM,2026-07:390,2025-12:40,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.9,7.7,Local Pack nad wynikami
+podłoga do kampera,170,0.22,HIGH,2026-07:260,2025-12:70,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,5.9,9.5,AIO + OLX
+krzesła do kampera,170,0.28,HIGH,2026-05:260,2025-11:50,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+pompka wody do kampera,170,0.17,HIGH,2026-06:320,2025-12:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+przyczepa do kampera,170,0.17,HIGH,2026-03:210,2025-11:70,porównanie/ranking,wyposażenie,przyczepka do kampera,nie,nie,,,,0,0,
+gotowa zabudowa do kampera ducato,170,0.08,MEDIUM,2026-07:260,2025-12:90,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,5.9,9.5,AIO + OLX
+odkurzacz do kampera,170,0.5,HIGH,2026-07:320,2026-01:50,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,4.5,8.8,Google Shopping/sklepy
+gdzie kamperem w polsce,170,0.09,MEDIUM,2026-05:320,2025-12:30,poradnik,trasy,,tak,tak,5,3,0.7,7.7,13.1,AIO cytuje blogi
+wakacje kamperem,170,0.04,LOW,2026-06:320,2025-12:70,poradnik,trasy,,tak,tak,5,3,0.7,7.7,13.1,AIO cytuje blogi
+wypożyczalnia kamperów lublin,170,0.25,HIGH,2026-07:320,2025-11:70,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.9,7.7,Local Pack nad wynikami
+wypożyczalnia kamperów szczecin,170,0.45,MEDIUM,2026-07:320,2025-12:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.9,7.7,Local Pack nad wynikami
+kemping warszawa,170,0.47,LOW,2026-05:320,2025-12:40,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+kempingi krynica morska,170,0.86,LOW,2026-08:590,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+kempingi całoroczne w polsce,170,0.33,LOW,2025-10:480,2026-06:20,poradnik,noclegi,,tak,tak,8,6,0.7,3.9,5.9,Local Pack/obiekty
+jastarnia kempingi,170,0.35,LOW,2026-07:590,2025-12:20,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+mazury kempingi,170,0.26,LOW,2026-07:480,2025-10:40,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+kempingi warszawa,170,0.47,LOW,2026-05:320,2025-12:40,encja,noclegi-region,kemping warszawa,nie,nie,,,,0,0,
+najlepsze kempingi na mazurach,170,0.27,LOW,2026-07:480,2025-12:20,porównanie/ranking,noclegi-ranking,,tak,tak,7,4,1.0,6.8,13.6,
+karpacz pole namiotowe,170,0.43,LOW,2026-07:590,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+pole namiotowe podlasie,170,0.85,MEDIUM,2026-07:480,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+pole namiotowe ustroń,170,0.24,LOW,2026-07:590,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+pole namiotowe wisła,170,0.39,LOW,2026-07:590,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+sarbinowo pole namiotowe,170,0.15,LOW,2026-07:720,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+gdańsk pole namiotowe,170,0.45,MEDIUM,2026-07:590,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+giżycko pole namiotowe,170,0.11,LOW,2026-07:590,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+pole namiotowe jastrzębia góra,170,0.24,LOW,2026-07:590,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+pole namiotowe dziwnów,170,0.6,LOW,2026-07:720,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+pole namiotowe lubelskie,170,0.57,MEDIUM,2026-07:590,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+pole namiotowe warszawa,170,0.52,MEDIUM,2026-07:480,2025-10:40,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+pole namiotowe poznań,170,0.59,LOW,2026-07:320,2025-12:30,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+pobierowo pole namiotowe,170,0.16,LOW,2026-07:590,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+sopot pole namiotowe,170,0.79,LOW,2026-07:590,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+świnoujście pole namiotowe,170,,LOW,2026-07:590,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+pole namiotowe sztynort,170,0.64,LOW,2026-07:590,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+pole namiotowe polańczyk,170,0.59,LOW,2026-07:590,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+szklarska poręba pole namiotowe,170,0.19,LOW,2026-06:480,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+pole namiotowe rewal,170,0.22,LOW,2026-08:720,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.9,7.7,Local Pack
+co zabrać na biwak,170,0.06,MEDIUM,2026-07:480,2025-12:40,narzędzie,lista-rzeczy,,nie,tak,,5,0.5,0,5.5,AIO podaje całą listę
+ile pali kamper,170,,LOW,2026-07:320,2025-11:90,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,5.9,9.5,AIO na frazie głównej
+mapa kempingów,170,0.15,LOW,2026-06:880,2025-11:20,narzędzie,mapa-miejsc,,tak,tak,6,4,1.0,8.5,13.6,
+mapa kempingów w polsce,170,0.03,MEDIUM,2026-07:390,2025-11:50,narzędzie,mapa-miejsc,,tak,tak,6,4,1.0,8.5,13.6,
+yescapa,170,0.05,LOW,2026-02:260,2025-10:140,porównanie/ranking,platformy,,nie,tak,,5,1.0,0,11.1,frazy marek
+wynajem przyczepy kempingowej cena,170,0.6,LOW,2026-06:320,2025-10:70,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,8.5,13.6,
+biwak w lesie,140,,LOW,2026-07:260,2026-02:70,poradnik,noclegi,,tak,tak,8,6,0.7,3.2,4.9,Local Pack/obiekty
+zabudowa camper,140,0.12,HIGH,2025-10:210,2026-09:70,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,4.9,7.8,AIO + OLX
+camper zabudowa,140,0.12,HIGH,2025-10:210,2026-09:70,poradnik,zabudowa-diy,zabudowa camper,nie,nie,,,,0,0,
+camping camper,140,,LOW,2026-07:390,2025-10:50,hub,noclegi,,nie,tak,,9,0.7,0,2.7,fraza główna; Local Pack/portale
+glamping cena,140,0.12,HIGH,2026-05:170,2025-11:110,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,7.0,11.2,
+glamping lubuskie,140,0.39,HIGH,2026-03:170,2025-11:70,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+glamping podlasie,140,0.25,HIGH,2026-07:210,2025-12:90,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+mały kamper wynajem,140,0.23,MEDIUM,2026-07:260,2026-09:50,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,3.9,6.4,Local Pack
+kamper 3 osobowy,140,0.14,LOW,2026-07:260,2025-10:90,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,3.9,intencja zakupu (OLX)
+kamper wynajem kraków,140,0.14,HIGH,2026-03:260,2026-09:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+kamper wynajem pomorskie,140,0.17,MEDIUM,2026-03:260,2026-09:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+kamper park bydgoszcz,140,,LOW,2026-08:480,2026-01:20,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+mały kamper dla 2 osób,140,0.05,MEDIUM,2026-07:210,2026-05:90,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,3.9,intencja zakupu (OLX)
+kamper wynajem śląsk,140,0.2,MEDIUM,2026-05:210,2026-09:40,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+luksusowy kamper wynajem,140,0.19,MEDIUM,2026-03:210,2025-12:70,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,3.9,6.4,Local Pack
+zabudowa kamper na pickup,140,0.13,HIGH,2025-10:170,2026-03:90,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,4.9,7.8,AIO + OLX
+kamper koszt,140,0.14,LOW,2026-07:210,2025-10:50,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,3.2,intencja zakupu (OLX/Otomoto)
+kamper wynajem krakow,140,0.16,HIGH,2026-07:260,2025-11:40,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,3.9,6.4,Local Pack
+modułowa zabudowa kampera,140,0.09,HIGH,2026-03:210,2026-09:90,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,4.9,7.8,AIO + OLX
+gasbank do kampera,140,0.25,HIGH,2026-01:210,2026-08:90,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+alarm do kampera,140,0.18,HIGH,2026-03:210,2025-11:90,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+moskitiera do kampera,140,0.12,HIGH,2026-06:260,2025-12:40,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+bateria prysznicowa do kampera,140,0.14,HIGH,2026-05:260,2025-12:40,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+zbiornik wody do kampera,140,0.16,HIGH,2026-03:210,2025-12:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+lodówka kompresorowa do kampera,140,0.3,HIGH,2026-07:320,2025-10:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+bateria do kampera,140,0.43,HIGH,2026-07:210,2025-12:50,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+okna boczne do kampera,140,0.14,HIGH,2026-02:170,2025-10:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+sklejka do kampera,140,0.1,HIGH,2026-08:170,2025-12:70,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,4.9,7.8,AIO + OLX
+wykładzina do kampera,140,0.32,HIGH,2026-05:210,2025-11:90,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,4.9,7.8,AIO + OLX
+lodówka na gaz do kampera,140,0.16,HIGH,2026-05:260,2025-11:20,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+koszt wynajmu kampera,140,0.19,MEDIUM,2026-07:320,2025-12:50,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,4.9,7.8,AIO na frazie głównej
+zbiorniki wody do kampera,140,0.16,HIGH,2026-03:210,2025-12:70,porównanie/ranking,wyposażenie,zbiornik wody do kampera,nie,nie,,,,0,0,
+ile kosztuje wypożyczenie kampera na dobę,140,0.18,MEDIUM,2026-07:260,2025-10:40,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,4.9,7.8,AIO na frazie głównej
+szyby do kampera,140,0.11,HIGH,2026-08:260,2025-12:40,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+wynajem kampera mazowieckie,140,0.2,HIGH,2026-03:390,2026-09:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+platforma na skuter do kampera,140,0.05,HIGH,2026-03:210,2025-12:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+jaki akumulator do kampera,140,0.27,HIGH,2026-03:170,2026-09:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+ogrzewanie gazowe do kampera,140,0.09,HIGH,2025-10:210,2026-06:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+antena satelitarna do kampera,140,0.1,HIGH,2026-06:210,2025-10:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+wynajem kampera gdynia,140,0.41,MEDIUM,2026-06:320,2025-10:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+okno boczne do kampera,140,0.14,HIGH,2026-02:170,2025-10:110,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+dywaniki do kampera,140,0.28,HIGH,2026-03:170,2025-12:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+wynajem kampera trójmiasto,140,0.12,MEDIUM,2026-06:320,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+wypożyczenie kampera warszawa,140,0.27,HIGH,2026-07:260,2025-11:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+tv do kampera,140,0.21,HIGH,2026-05:210,2025-12:90,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+szyba do kampera,140,0.11,HIGH,2026-08:260,2025-12:40,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+firanki do kampera,140,0.09,HIGH,2026-04:210,2025-12:50,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+panel solarny do kampera,140,0.2,HIGH,2026-03:210,2025-10:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+wynajem kampera kielce,140,0.17,MEDIUM,2026-07:320,2025-11:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+dywanik do kampera,140,0.28,HIGH,2026-03:170,2025-12:70,porównanie/ranking,wyposażenie,dywaniki do kampera,nie,nie,,,,0,0,
+pompa wody do kampera 12v,140,0.29,HIGH,2026-05:210,2025-12:40,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+grill do kampera,140,0.22,HIGH,2026-05:260,2025-12:50,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+lodówka do kampera 12v 230v,140,0.2,HIGH,2026-05:210,2025-11:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+wynajem kampera lubuskie,140,0.12,MEDIUM,2026-07:320,2025-11:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+ceny wynajmu kampera,140,0.19,MEDIUM,2026-07:260,2025-12:50,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,4.9,7.8,AIO na frazie głównej
+klimatyzacja do kampera 230v,140,0.12,HIGH,2026-06:480,2025-11:30,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+piekarnik do kampera,140,0.15,HIGH,2026-07:170,2025-11:90,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+wynajem kampera bielsko,140,0.14,MEDIUM,2026-04:210,2025-12:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+klimatyzacja dachowa do kampera,140,0.17,HIGH,2026-06:390,2025-10:50,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+ile kosztuje wynajęcie kampera na dobę,140,0.19,MEDIUM,2026-07:260,2025-12:40,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,4.9,7.8,AIO na frazie głównej
+trasa kamperem po polsce,140,0.12,LOW,2026-05:210,2026-09:50,poradnik,trasy,,tak,tak,5,3,0.7,6.4,10.8,AIO cytuje blogi
+trasy kamperem po polsce,140,0.12,LOW,2026-05:210,2026-09:50,poradnik,trasy,,tak,tak,5,3,0.7,6.4,10.8,AIO cytuje blogi
+wynajem kamperów pomorskie,140,0.16,LOW,2026-07:260,2025-10:70,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+wynajem kamperów poznań,140,0.46,MEDIUM,2026-06:260,2025-12:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+akcesoria do kamperów,140,0.31,HIGH,2026-07:210,2025-12:70,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,3.7,7.3,Google Shopping/sklepy
+wypożyczalnia kamperów katowice,140,0.34,MEDIUM,2026-02:320,2026-09:40,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+wypożyczalnia kamperów pomorskie,140,0.26,MEDIUM,2026-03:260,2025-12:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+wypożyczalnia kamperów zachodniopomorskie,140,0.48,MEDIUM,2026-06:590,2025-12:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,3.2,6.4,Local Pack nad wynikami
+pole namiotowe i kemping,140,,LOW,2026-08:590,2025-10:10,poradnik,noclegi,,tak,tak,8,6,0.7,3.2,4.9,Local Pack/obiekty
+kemping jura,140,0.3,LOW,2026-06:320,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+kempingi świnoujście,140,1.36,LOW,2026-07:480,2025-12:20,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+karpacz kempingi,140,0.2,MEDIUM,2026-07:320,2025-10:70,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+stegna kempingi,140,0.19,LOW,2026-07:390,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+kempingi dolny śląsk,140,0.19,LOW,2026-07:320,2025-11:20,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+kempingi kołobrzeg,140,0.5,LOW,2026-07:390,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+kempingi wrocław,140,0.23,LOW,2026-07:260,2026-01:30,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+kempingi wielkopolska,140,0.19,LOW,2026-07:320,2025-12:30,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+kempingi stegna,140,0.14,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+rowy pole namiotowe,140,0.2,LOW,2026-07:590,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe kaszuby nad jeziorem,140,0.13,LOW,2026-07:480,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+czaplinek pole namiotowe,140,,LOW,2026-07:720,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe pieniny,140,0.57,LOW,2026-07:480,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe wrocław,140,0.22,LOW,2026-07:390,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe zakopane cennik,140,0.3,LOW,2026-07:390,2025-10:30,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe hel cennik,140,0.33,MEDIUM,2026-07:590,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe ślesin,140,,LOW,2026-07:480,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe nad jeziorem kaszuby,140,0.14,LOW,2026-07:480,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+bory tucholskie pole namiotowe,140,0.1,LOW,2026-07:590,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe ruciane-nida,140,0.38,MEDIUM,2026-07:590,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+energylandia pole namiotowe,140,0.85,MEDIUM,2026-07:390,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe kujawsko-pomorskie,140,0.13,LOW,2026-07:590,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe olsztyn,140,0.07,LOW,2026-08:480,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe mrągowo,140,0.52,MEDIUM,2026-07:590,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe kujawsko pomorskie,140,0.13,LOW,2026-07:590,2025-10:10,encja,noclegi-region,pole namiotowe kujawsko-pomorskie,nie,nie,,,,0,0,
+pole namiotowe świętokrzyskie,140,0.35,LOW,2026-07:390,2025-12:20,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+augustów pole namiotowe,140,0.07,LOW,2026-07:480,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe pomorskie,140,0.2,MEDIUM,2026-06:480,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+kaszuby pole namiotowe,140,0.1,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+pole namiotowe kraków,140,0.52,LOW,2026-07:320,2025-11:20,encja,noclegi-region,,tak,tak,8,5,0.7,3.2,6.4,Local Pack
+przyczepa kempingowa wypożyczalnia,140,0.18,LOW,2026-03:210,2026-09:40,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,3.9,6.4,Local Pack
+luksusowe kampery wynajem,140,0.19,MEDIUM,2026-03:210,2025-12:70,porównanie/ranking,wynajem-typy,luksusowy kamper wynajem,nie,nie,,,,0,0,
+co zabrać na kemping,140,0.05,HIGH,2026-07:390,2025-12:20,narzędzie,lista-rzeczy,,nie,tak,,5,0.5,0,4.5,AIO podaje całą listę
+kemping w górach,140,0.24,LOW,2026-07:260,2025-11:50,poradnik,noclegi,,tak,tak,8,6,0.7,3.2,4.9,Local Pack/obiekty
+kempingi w górach,140,0.24,LOW,2026-07:260,2025-11:50,poradnik,noclegi,kemping w górach,nie,nie,,,,0,0,
+kempingi bieszczady,140,0.44,LOW,2026-07:320,2025-12:40,hub,noclegi,,nie,tak,,9,0.7,0,2.7,fraza główna; Local Pack/portale
+ile kosztuje pole namiotowe,140,,LOW,2026-07:320,2026-09:30,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,7.0,11.2,
+van camper 4x4,110,0.2,LOW,2025-10:140,2026-03:70,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,3.1,intencja zakupu (OLX)
+minivan camper,110,0.05,MEDIUM,2026-07:170,2025-11:50,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,3.1,intencja zakupu (OLX)
+camper van 4x4,110,0.2,LOW,2025-10:140,2026-03:70,porównanie/ranking,typy-kamperów,van camper 4x4,nie,nie,,,,0,0,
+camper park mazury,110,3.24,LOW,2026-05:320,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+mini camper van,110,0.05,HIGH,2026-07:210,2025-10:70,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,3.1,intencja zakupu (OLX)
+zabudowy camper van,110,0.17,HIGH,2026-02:140,2025-11:70,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,3.8,6.2,AIO + OLX
+van mini camper,110,0.05,HIGH,2026-07:210,2025-10:70,porównanie/ranking,typy-kamperów,mini camper van,nie,nie,,,,0,0,
+glamping kazimierz dolny,110,0.26,HIGH,2026-07:210,2025-12:50,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+glamping poznań,110,0.41,HIGH,2026-03:170,2025-12:40,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+glamping karpacz,110,0.33,HIGH,2026-04:140,2025-12:70,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+glamping bydgoszcz,110,0.26,MEDIUM,2026-03:170,2025-12:50,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+autobus przerobiony na kamper,110,0.28,LOW,2026-08:170,2025-10:90,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,3.8,6.2,AIO + OLX
+ile kosztuje kamper cena,110,0.01,MEDIUM,2026-08:210,2025-12:50,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,2.5,intencja zakupu (OLX/Otomoto)
+kamper ceny,110,0.1,MEDIUM,2026-08:260,2025-12:40,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,2.5,intencja zakupu (OLX/Otomoto)
+kamper 2 osobowy wynajem,110,0.16,MEDIUM,2026-07:210,2025-11:50,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,3.1,5.0,Local Pack
+kamper wypożyczalnia cena,110,0.25,MEDIUM,2026-07:260,2025-11:30,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,3.8,6.2,AIO na frazie głównej
+autobus przerobiony na kampera,110,0.28,LOW,2026-08:170,2025-10:90,poradnik,zabudowa-diy,autobus przerobiony na kamper,nie,nie,,,,0,0,
+wynajem kampera opolskie,110,0.35,HIGH,2026-07:320,2025-10:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.5,5.0,Local Pack nad wynikami
+wynajem kampera koszalin,110,0.12,MEDIUM,2026-06:390,2025-10:20,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,3.1,5.0,Local Pack
+koszt wypożyczenia kampera,110,0.27,MEDIUM,2026-07:320,2025-12:40,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,3.8,6.2,AIO na frazie głównej
+wynajem kamperów katowice,110,0.2,LOW,2026-03:320,2026-09:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.5,5.0,Local Pack nad wynikami
+wypożyczalnia kamperów białystok,110,0.53,MEDIUM,2026-06:210,2025-12:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.5,5.0,Local Pack nad wynikami
+wynajem kamperów szczecin,110,0.37,HIGH,2026-03:260,2026-09:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.5,5.0,Local Pack nad wynikami
+wypożyczalnia kamperów rzeszów,110,0.52,MEDIUM,2026-06:210,2025-12:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.5,5.0,Local Pack nad wynikami
+wypożyczalnia kamperów gdańsk,110,0.66,MEDIUM,2026-07:210,2025-12:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.5,5.0,Local Pack nad wynikami
+wynajem kamperów wrocław,110,0.33,HIGH,2026-07:210,2025-10:50,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.5,5.0,Local Pack nad wynikami
+hel kemping,110,0.42,MEDIUM,2026-07:320,2025-11:20,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+kemping zachodniopomorskie,110,0.24,LOW,2026-07:260,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+kempingi lubuskie,110,0.2,LOW,2026-07:210,2025-12:20,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+kempingi gdańsk,110,0.25,MEDIUM,2026-08:260,2025-12:30,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+kempingi zachodniopomorskie,110,0.24,LOW,2026-07:260,2025-12:10,encja,noclegi-region,kemping zachodniopomorskie,nie,nie,,,,0,0,
+solina kempingi,110,0.13,MEDIUM,2026-08:320,2025-11:20,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+kempingi karpacz,110,0.21,LOW,2026-08:260,2025-10:50,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+najlepsze kempingi nad morzem,110,0.44,MEDIUM,2026-07:320,2025-10:20,porównanie/ranking,noclegi-ranking,,tak,tak,7,4,1.0,4.4,8.8,
+kempingi kaszuby,110,0.26,LOW,2026-07:320,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+kempingi całoroczne,110,0.04,LOW,2025-11:320,2026-06:10,hub,noclegi,,nie,tak,,9,0.7,0,2.2,fraza główna; Local Pack/portale
+niechorze pole namiotowe,110,0.82,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+ślesin pole namiotowe,110,,LOW,2026-07:480,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+pole namiotowe kazimierz dolny,110,0.14,LOW,2026-07:480,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+pole namiotowe mazowieckie,110,0.23,MEDIUM,2026-07:320,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+dziwnów pole namiotowe,110,0.4,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+dąbki pole namiotowe,110,0.09,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+pole namiotowe podkarpackie,110,0.18,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+polańczyk pole namiotowe,110,0.48,LOW,2026-07:390,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+pole namiotowe dźwirzyno,110,0.08,LOW,2026-07:390,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+pole namiotowe szczyrk,110,0.51,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+pole namiotowe mazury cennik,110,0.3,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+pole namiotowe nad morzem cennik,110,0.35,MEDIUM,2026-07:390,2025-10:10,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,5.5,8.8,
+mikołajki pole namiotowe,110,0.6,MEDIUM,2026-07:480,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+ruciane-nida pole namiotowe,110,0.2,MEDIUM,2026-07:480,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+pole namiotowe dąbki,110,,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+pole namiotowe czaplinek,110,,LOW,2026-07:590,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+rewal pole namiotowe,110,,LOW,2026-07:480,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+pole namiotowe nad jeziorem lubuskie,110,0.02,MEDIUM,2026-07:260,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.5,5.0,Local Pack
+przyczepa kempingowa do wynajęcia,110,0.17,LOW,2026-04:210,2025-12:40,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,3.1,5.0,Local Pack
+polska przyczepa kempingowa,110,,LOW,2026-07:210,2025-11:50,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,2.9,5.7,Google Shopping/sklepy
+ile kosztuje wynajem przyczepy kempingowej,110,0.09,LOW,2026-07:260,2025-12:30,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,5.5,8.8,
+panel słoneczny do kampera,110,0.18,HIGH,2026-03:140,2026-09:50,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,2.9,5.7,Google Shopping/sklepy
+co na biwak,90,0.1,HIGH,2026-06:170,2025-12:20,narzędzie,lista-rzeczy,,nie,tak,,5,0.5,0,2.9,AIO podaje całą listę
+biwak co to,90,,LOW,2026-05:140,2025-11:40,poradnik,noclegi-poradnik,,nie,tak,,5,0.5,0,2.9,AIO podaje definicję
+camper van cena,90,0.08,MEDIUM,2026-08:170,2026-02:40,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,2.1,intencja zakupu (OLX/Otomoto)
+zakopane glamping,90,0.44,HIGH,2025-11:170,2026-03:30,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+glamping kraków,90,0.28,HIGH,2026-05:140,2025-10:70,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+glamping bory tucholskie,90,0.38,HIGH,2026-06:140,2025-11:30,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kamper wynajem lublin,90,0.17,MEDIUM,2026-07:210,2025-11:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+kamper wynajem szczecin,90,0.45,MEDIUM,2026-06:170,2025-12:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+ile kosztuje kamper 2 osobowy,90,0.23,LOW,2026-08:210,2025-10:20,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,2.1,intencja zakupu (OLX/Otomoto)
+camping kamper,90,0.65,LOW,2026-08:210,2025-11:10,hub,noclegi,,nie,tak,,9,0.7,0,1.8,fraza główna; Local Pack/portale
+kamper wynajem gdańsk,90,0.52,MEDIUM,2026-07:170,2025-10:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+polski kamper cena,90,0.17,LOW,2026-07:140,2025-12:40,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,2.1,intencja zakupu (OLX/Otomoto)
+kamper wynajem rzeszów,90,0.31,MEDIUM,2026-07:170,2025-10:40,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+kamper wynajem łódź,90,0.14,MEDIUM,2026-07:210,2025-11:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+wynajem kampera kujawsko-pomorskie,90,0.15,MEDIUM,2026-07:210,2025-11:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+wynajem kampera dolnośląskie,90,0.18,MEDIUM,2026-07:210,2025-11:40,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+wynajem kampera radom,90,0.22,MEDIUM,2026-07:170,2025-11:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+wynajem kampera opole,90,0.44,MEDIUM,2026-03:260,2025-11:40,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+wynajem kampera kujawsko pomorskie,90,0.15,MEDIUM,2026-07:210,2025-11:20,encja,wynajem-miasto,wynajem kampera kujawsko-pomorskie,nie,nie,,,,0,0,
+cena kampera nowego,90,0.15,MEDIUM,2026-07:170,2025-12:30,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,2.1,intencja zakupu (OLX/Otomoto)
+podróże kamperem,90,0.24,LOW,2026-04:140,2026-09:40,poradnik,trasy,,tak,tak,5,3,0.7,4.1,6.9,AIO cytuje blogi
+podrozowanie kamperem,90,0.24,LOW,2026-04:140,2026-09:40,poradnik,trasy,podróże kamperem,nie,nie,,,,0,0,
+podróżowanie kamperem,90,0.46,LOW,2026-05:140,2026-01:40,poradnik,trasy,,tak,tak,5,3,0.7,4.1,6.9,AIO cytuje blogi
+kamperem na dziko,90,0.06,LOW,2026-08:210,2025-12:30,poradnik,trasy,,tak,tak,5,3,0.7,4.1,6.9,AIO cytuje blogi
+bieszczady kamperem,90,0.27,LOW,2026-08:170,2025-12:20,poradnik,trasy,,tak,tak,5,3,0.7,4.1,6.9,AIO cytuje blogi
+podróż kamperem,90,0.46,LOW,2026-05:140,2026-01:40,poradnik,trasy,podróżowanie kamperem,nie,nie,,,,0,0,
+kamperem przez polskę,90,0.16,HIGH,2026-06:140,2025-11:50,poradnik,trasy,,tak,tak,5,3,0.7,4.1,6.9,AIO cytuje blogi
+wypożyczalnia kamperów olsztyn,90,0.18,MEDIUM,2026-07:210,2025-12:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+wypożyczalnia kamperów małopolska,90,0.21,HIGH,2026-03:170,2025-10:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+wynajem kamperów rzeszów,90,0.21,MEDIUM,2026-03:140,2025-10:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+wypożyczalnia kamperów bydgoszcz,90,0.18,MEDIUM,2026-03:110,2025-12:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+wynajem kamperów gdańsk,90,0.63,MEDIUM,2026-03:140,2025-12:40,encja,wynajem-miasto,,tak,tak,8,5,0.7,2.1,4.1,Local Pack nad wynikami
+co na kemping,90,0.21,MEDIUM,2026-07:260,2025-10:10,narzędzie,lista-rzeczy,,nie,tak,,5,0.5,0,2.9,AIO podaje całą listę
+kemping pomorskie,90,0.24,LOW,2026-07:170,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kemping opolskie,90,0.06,LOW,2026-04:140,2025-12:20,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+na kemping,90,0.14,HIGH,2026-07:210,2025-11:30,narzędzie,lista-rzeczy,,nie,tak,,5,0.5,0,2.9,AIO podaje całą listę
+kemping na helu,90,0.34,MEDIUM,2026-07:210,2025-11:20,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kemping lubelskie,90,0.45,MEDIUM,2026-07:210,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kemping łódź,90,0.33,LOW,2026-07:320,2025-12:20,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kemping śląsk,90,0.3,LOW,2026-07:210,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kemping powidz,90,0.16,LOW,2026-08:320,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+dębki kempingi,90,0.12,LOW,2026-07:320,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kempingi w bieszczadach,90,0.12,LOW,2026-07:210,2025-12:30,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kempingi lubelskie,90,0.45,MEDIUM,2026-07:210,2025-10:20,encja,noclegi-region,kemping lubelskie,nie,nie,,,,0,0,
+kempingi sudety,90,0.15,LOW,2026-07:320,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kempingi władysławowo,90,0.47,MEDIUM,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kempingi pomorskie,90,0.24,LOW,2026-07:170,2025-11:10,encja,noclegi-region,kemping pomorskie,nie,nie,,,,0,0,
+mielno kempingi,90,0.37,LOW,2026-07:320,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kempingi toruń,90,0.56,LOW,2026-08:210,2026-01:20,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kempingi na kaszubach,90,0.31,MEDIUM,2026-07:210,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kempingi ustka,90,0.42,LOW,2026-07:260,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+kempingi śląskie,90,0.3,LOW,2026-07:210,2025-12:10,encja,noclegi-region,kemping śląsk,nie,nie,,,,0,0,
+sopot kempingi,90,1.3,LOW,2026-07:210,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+tanie kempingi nad morzem,90,0.33,MEDIUM,2026-07:320,2025-10:10,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,4.5,7.2,
+kempingi opolskie,90,0.06,LOW,2026-04:140,2025-12:20,encja,noclegi-region,kemping opolskie,nie,nie,,,,0,0,
+pole namiotowe polska,90,0.63,MEDIUM,2026-07:260,2025-10:10,poradnik,noclegi,,tak,tak,8,6,0.7,2.1,3.1,Local Pack/obiekty
+wisła pole namiotowe,90,0.35,LOW,2026-08:320,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+pole namiotowe na helu,90,0.36,MEDIUM,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+mrągowo pole namiotowe,90,,LOW,2026-07:320,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+pole namiotowe jurata,90,0.47,LOW,2026-07:320,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+jastrzębia góra pole namiotowe,90,0.28,MEDIUM,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+pole namiotowe cennik,90,0.53,LOW,2026-07:170,2026-09:20,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,4.5,7.2,
+pole namiotowe licheń,90,,LOW,2026-07:320,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+stegna pole namiotowe przy plaży,90,0.94,LOW,2026-08:480,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+pole namiotowe ceny,90,0.37,MEDIUM,2026-06:210,2025-10:20,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,4.5,7.2,
+pole namiotowe cena,90,0.37,MEDIUM,2026-06:210,2025-10:20,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,4.5,7.2,
+pole namiotowe bałtyk,90,0.34,MEDIUM,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+pole namiotowe nad jeziorem zachodniopomorskie,90,0.21,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+tanie pole namiotowe,90,0.05,LOW,2026-07:260,2025-12:10,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,4.5,7.2,
+nakło-chechło pole namiotowe,90,,LOW,2026-08:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+pole namiotowe nad jeziorem dolnośląskie,90,0.05,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+wdzydze pole namiotowe,90,0.2,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+pole namiotowe szczecin,90,,LOW,2026-08:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+łódź pole namiotowe,90,,LOW,2026-07:480,2025-11:0,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+pole namiotowe jezioro,90,,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+pole namiotowe stegna cennik,90,,LOW,2026-08:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+sielpia pole namiotowe cennik,90,,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+gdynia pole namiotowe,90,0.38,MEDIUM,2026-07:320,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+chałupy pole namiotowe cennik,90,0.42,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+pole namiotowe opolskie,90,0.02,LOW,2026-07:320,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+pole namiotowe czorsztyn cennik,90,0.81,LOW,2026-07:390,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+dźwirzyno pole namiotowe,90,0.6,LOW,2026-07:320,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,2.1,4.1,Local Pack
+wynajem przyczepa kempingowa,90,0.11,MEDIUM,2026-07:170,2026-09:30,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,2.4,4.7,Google Shopping/sklepy
+co zabrać do kampera,90,0.07,HIGH,2026-07:170,2025-10:30,narzędzie,lista-rzeczy,,nie,tak,,5,0.5,0,2.9,AIO podaje całą listę
+kamper czy przyczepa,90,0,LOW,2026-08:170,2025-11:50,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,2.5,intencja zakupu (OLX)
+kamper na weekend,90,0.26,LOW,2026-07:260,2026-01:10,poradnik,inne,,nie,nie,,,,0,0,
+campsy,90,0.06,HIGH,2026-03:210,2025-11:10,porównanie/ranking,platformy,,nie,tak,,5,1.0,0,5.9,frazy marek
+jak spać w samochodzie,90,0.09,MEDIUM,2026-07:170,2025-12:30,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,3.1,5.0,AIO + OLX
+kamper z łazienką,90,0.32,LOW,2026-07:170,2025-12:40,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,2.5,intencja zakupu (OLX)
+agregat prądotwórczy do kampera,90,0.29,HIGH,2026-01:140,2025-12:50,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,2.4,4.7,Google Shopping/sklepy
+poziomica do kampera,90,0.21,HIGH,2026-05:140,2025-12:30,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,2.4,4.7,Google Shopping/sklepy
+biwak nad jeziorem,70,0.07,LOW,2026-07:140,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+camper park wdzydze,70,,LOW,2026-08:320,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+camper van wypożyczalnia,70,0.22,MEDIUM,2026-07:140,2025-10:30,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,2.0,3.2,Local Pack
+camper wynajem ceny,70,0.26,MEDIUM,2026-07:140,2025-10:30,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,2.4,3.9,AIO na frazie głównej
+camper park łódź,70,,LOW,2026-07:170,2025-12:30,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+camper park roztocze,70,0.34,LOW,2026-06:170,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+camper wynajem warszawa,70,0.48,HIGH,2026-03:110,2026-09:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+wynajem camper van,70,0.16,MEDIUM,2026-03:90,2025-10:30,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,2.0,3.2,Local Pack
+camper park wrocław,70,,LOW,2026-08:140,2026-02:20,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+camper wynajem cena,70,0.26,MEDIUM,2026-07:140,2025-10:30,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,2.4,3.9,AIO na frazie głównej
+camper wynajem kraków,70,0,LOW,2026-03:210,2026-09:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+mazury glamping,70,0.43,HIGH,2026-07:140,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+glamping zieleniec,70,0.33,HIGH,2026-04:90,2025-10:40,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+glamping na mazurach,70,0.5,HIGH,2026-07:170,2025-12:20,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+glamping w lesie,70,0.21,HIGH,2026-08:110,2025-12:50,poradnik,noclegi,,tak,tak,8,6,0.7,1.6,2.4,Local Pack/obiekty
+glamping solina,70,0.88,HIGH,2026-08:260,2025-11:20,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+glamping beskidy,70,0.24,HIGH,2026-08:140,2025-12:40,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+glamping świętokrzyskie,70,0.24,HIGH,2026-03:170,2026-09:40,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+glamping podkarpackie,70,0.34,HIGH,2026-08:110,2026-03:40,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+glamping domki,70,0.13,HIGH,2026-02:110,2026-06:30,hub,noclegi,,nie,tak,,9,0.7,0,1.4,fraza główna; Local Pack/portale
+glamping roztocze,70,0.32,HIGH,2026-07:170,2025-11:30,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+domki glamping,70,0.4,HIGH,2025-11:140,2026-04:40,hub,noclegi,,nie,tak,,9,0.7,0,1.4,fraza główna; Local Pack/portale
+kamper lublin wynajem,70,0.29,LOW,2026-07:170,2025-11:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+luksusowy kamper cena,70,0.08,MEDIUM,2026-07:140,2025-11:30,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,1.6,intencja zakupu (OLX/Otomoto)
+kamper wrocław wynajem,70,0.52,HIGH,2026-07:140,2025-10:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+bus kamper wynajem,70,0.24,MEDIUM,2026-07:140,2026-09:20,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,2.0,3.2,Local Pack
+kamper 4x4 wynajem,70,0.27,LOW,2026-03:110,2026-09:40,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,2.0,3.2,Local Pack
+kamper wynajem mazowieckie,70,0.46,MEDIUM,2026-06:110,2025-10:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+kemping kamper,70,0.12,LOW,2026-07:260,2026-01:10,hub,noclegi,,nie,tak,,9,0.7,0,1.4,fraza główna; Local Pack/portale
+kamper wypożyczalnia warszawa,70,1.38,HIGH,2026-03:110,2026-09:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+kamper kemping,70,,LOW,2026-07:210,2025-11:10,hub,noclegi,,nie,tak,,9,0.7,0,1.4,fraza główna; Local Pack/portale
+wynajem kampera małopolska,70,0.12,HIGH,2026-06:170,2025-10:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+wynajem kampera częstochowa,70,0.25,MEDIUM,2026-07:170,2025-10:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+wynajem kampera lubelskie,70,0.2,MEDIUM,2026-03:170,2025-11:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+wynajem kampera kraków cennik,70,0.11,MEDIUM,2026-07:170,2025-11:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+gdzie kamperem na dziko w polsce,70,0.37,LOW,2026-07:140,2025-12:20,poradnik,trasy,,tak,tak,5,3,0.7,3.2,5.4,AIO cytuje blogi
+mazury kamperem,70,0.07,LOW,2026-07:210,2025-11:10,poradnik,trasy,,tak,tak,5,3,0.7,3.2,5.4,AIO cytuje blogi
+miejscówki na dziko kamperem,70,,LOW,2026-07:170,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,3.2,5.4,AIO cytuje blogi
+wynajem kamperów lublin,70,0.14,HIGH,2026-07:140,2025-10:30,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+wynajem kamperów trójmiasto,70,0.34,MEDIUM,2026-03:140,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+kemping dla kamperów,70,0.31,LOW,2026-08:210,2026-01:10,poradnik,noclegi,,tak,tak,8,6,0.7,1.6,2.4,Local Pack/obiekty
+wypożyczalnia kamperów mazowieckie,70,0.18,HIGH,2026-04:110,2026-09:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+wypożyczalnia kamperów toruń,70,0.49,MEDIUM,2026-03:110,2026-09:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+wynajem kamperów mazowieckie,70,0.37,HIGH,2026-03:140,2026-09:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+wypożyczalnia kamperów wielkopolska,70,0.33,MEDIUM,2026-03:140,2026-09:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.6,3.2,Local Pack nad wynikami
+kemping poznań,70,0.51,LOW,2026-07:140,2025-12:20,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+powidz kemping,70,1.18,LOW,2026-08:320,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kemping wynajem,70,0.29,MEDIUM,2026-07:210,2025-11:20,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,2.0,3.2,Local Pack
+kemping katowice,70,0.71,LOW,2026-05:110,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kemping mazowieckie,70,0.3,MEDIUM,2026-06:140,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kemping podlasie,70,0.16,LOW,2026-04:170,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kemping świętokrzyskie,70,0.48,LOW,2026-07:210,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kemping międzyzdroje,70,0.53,LOW,2026-08:210,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kemping kujawsko-pomorskie,70,0.15,LOW,2026-07:170,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+jantar kemping,70,0.57,LOW,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kemping w polsce,70,0.38,MEDIUM,2026-07:140,2026-09:20,poradnik,noclegi,,tak,tak,8,6,0.7,1.6,2.4,Local Pack/obiekty
+kempingi w polsce,70,0.38,MEDIUM,2026-07:140,2026-09:20,hub,-,kemping w polsce,nie,nie,,,,0,0,
+sarbinowo kempingi,70,0.14,LOW,2026-07:170,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+międzyzdroje kempingi,70,0.23,LOW,2026-07:210,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kempingi augustów,70,0.41,LOW,2026-07:210,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kołobrzeg kempingi,70,0.13,LOW,2026-07:210,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kempingi małopolska,70,0.11,LOW,2026-08:170,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kempingi międzyzdroje,70,0.53,LOW,2026-08:210,2025-10:10,encja,noclegi-region,kemping międzyzdroje,nie,nie,,,,0,0,
+kempingi rowy,70,0.54,LOW,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kempingi świętokrzyskie,70,0.48,LOW,2026-07:210,2025-10:10,encja,noclegi-region,kemping świętokrzyskie,nie,nie,,,,0,0,
+kempingi gdynia,70,0.18,LOW,2026-07:210,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+pobierowo kempingi,70,0.15,LOW,2026-07:210,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kempingi poznań,70,0.51,LOW,2026-07:140,2025-12:20,encja,noclegi-region,kemping poznań,nie,nie,,,,0,0,
+władysławowo kempingi,70,0.47,MEDIUM,2026-07:210,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kempingi mazowieckie,70,0.3,MEDIUM,2026-06:140,2025-10:10,encja,noclegi-region,kemping mazowieckie,nie,nie,,,,0,0,
+kempingi turawa,70,0.22,LOW,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kempingi sandomierz,70,1.22,LOW,2026-08:170,2025-12:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kempingi podlasie,70,0.16,LOW,2026-04:170,2025-10:10,encja,noclegi-region,kemping podlasie,nie,nie,,,,0,0,
+kempingi nad jeziorem,70,0.34,LOW,2026-07:320,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+kempingi nad jeziorem w polsce,70,0.23,MEDIUM,2026-06:210,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+pole namiotowe sopot cennik,70,,LOW,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+olsztyn pole namiotowe,70,0.23,LOW,2026-07:210,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+sopot pole namiotowe przy plaży,70,0.29,MEDIUM,2026-07:210,2025-10:20,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+pole namiotowe lublin,70,1.02,LOW,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+turawa pole namiotowe cennik,70,0.85,LOW,2026-07:210,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+pole namiotowe bory tucholskie nad jeziorem,70,0.12,LOW,2026-07:210,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+tanie pole namiotowe nad morzem,70,0.28,MEDIUM,2026-07:260,2025-10:10,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,3.5,5.6,
+pieniny pole namiotowe,70,0.53,LOW,2026-07:210,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+pole namiotowe suwalszczyzna,70,0.75,LOW,2026-07:210,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+pole namiotowe warmińsko-mazurskie,70,0.3,LOW,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+pole namiotowe bydgoszcz,70,0.63,LOW,2026-07:210,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+pole namiotowe łódzkie,70,,LOW,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+pole namiotowe karkonosze,70,0.23,MEDIUM,2026-07:210,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+pole namiotowe warmińsko mazurskie,70,0.3,LOW,2026-07:260,2025-10:10,encja,noclegi-region,pole namiotowe warmińsko-mazurskie,nie,nie,,,,0,0,
+energylandia pole namiotowe cennik,70,0.54,LOW,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+mazury pole namiotowe nad jeziorem,70,0.12,LOW,2026-07:320,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+jurata pole namiotowe,70,0.31,LOW,2026-07:210,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+pole namiotowe krynica morska cennik,70,,LOW,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+pole namiotowe nad jeziorem mazury,70,0.15,MEDIUM,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+pole namiotowe jantar krynica morska,70,0.92,LOW,2026-07:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+jantar pole namiotowe cennik,70,0,LOW,2026-08:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.6,3.2,Local Pack
+najlepsze pole namiotowe w polsce,70,0.32,MEDIUM,2026-07:260,2025-10:10,porównanie/ranking,noclegi-ranking,,tak,tak,7,4,1.0,2.8,5.6,
+tanie kampery wynajem,70,0.22,MEDIUM,2026-03:110,2026-09:20,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,2.4,3.9,AIO na frazie głównej
+ile pali kamper na 100 km,70,,LOW,2026-04:110,2025-11:10,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,2.4,3.9,AIO na frazie głównej
+goboony,70,,LOW,2025-10:90,2026-09:40,porównanie/ranking,platformy,,nie,tak,,5,1.0,0,4.5,frazy marek
+acsi camping card,70,0.94,HIGH,2026-05:110,2025-11:20,porównanie/ranking,platformy,,nie,tak,,5,1.0,0,4.5,frazy marek
+camper van wynajem warszawa,50,0.56,MEDIUM,2026-07:90,2025-11:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.2,2.3,Local Pack nad wynikami
+kamper wynajem białystok,50,0.9,MEDIUM,2026-07:90,2025-10:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.2,2.3,Local Pack nad wynikami
+kamper 4 osobowy cena,50,0.09,LOW,2026-07:90,2025-11:20,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,1.2,intencja zakupu (OLX/Otomoto)
+kamper autobus cena,50,,LOW,2026-07:110,2025-12:20,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,1.2,intencja zakupu (OLX/Otomoto)
+koszt kampera,50,0.05,MEDIUM,2026-06:110,2025-11:30,porównanie/ranking,zakup-ceny,,nie,tak,,8,0.7,0,1.2,intencja zakupu (OLX/Otomoto)
+ile kosztuje przerobienie vana na kampera,50,,LOW,2026-03:110,2026-08:10,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,1.8,2.8,AIO + OLX
+wynajem kampera polska,50,0.32,HIGH,2026-07:90,2025-10:30,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,1.4,2.3,Local Pack
+wynajem kampera zielona góra,50,0.26,MEDIUM,2026-07:140,2025-10:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.2,2.3,Local Pack nad wynikami
+wynajem kampera z psem,50,0.23,MEDIUM,2026-06:390,2025-12:10,porównanie/ranking,wynajem-typy,,tak,tak,7,5,0.7,1.4,2.3,Local Pack
+wynajem kampera warszawa cena,50,0.16,HIGH,2026-07:110,2025-11:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.2,2.3,Local Pack nad wynikami
+kamperem na mazury,50,,LOW,2026-07:110,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,2.3,3.8,AIO cytuje blogi
+gdzie kamperem,50,,LOW,2026-07:90,2025-10:20,poradnik,trasy,,tak,tak,5,3,0.7,2.3,3.8,AIO cytuje blogi
+kamperem po polsce na dziko,50,0.1,LOW,2026-04:90,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,2.3,3.8,AIO cytuje blogi
+kamperem nad morze,50,0.19,LOW,2026-08:140,2025-11:10,poradnik,trasy,,tak,tak,5,3,0.7,2.3,3.8,AIO cytuje blogi
+kamperem w bieszczady,50,0.62,LOW,2026-07:90,2025-12:20,poradnik,trasy,,tak,tak,5,3,0.7,2.3,3.8,AIO cytuje blogi
+wypożyczalnia kamperów kielce,50,0.32,MEDIUM,2026-07:140,2025-10:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.2,2.3,Local Pack nad wynikami
+wypożyczalnia kamperów kujawsko pomorskie,50,0.11,LOW,2026-03:90,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.2,2.3,Local Pack nad wynikami
+wynajem kamperów łódzkie,50,0.27,MEDIUM,2026-03:140,2026-09:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.2,2.3,Local Pack nad wynikami
+wynajem kamperów zachodniopomorskie,50,0.02,MEDIUM,2026-03:90,2026-09:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.2,2.3,Local Pack nad wynikami
+wypożyczalnia kamperów zielona góra,50,0.18,MEDIUM,2026-07:90,2025-11:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.2,2.3,Local Pack nad wynikami
+wynajem kamperów bydgoszcz,50,0.77,HIGH,2026-03:70,2026-09:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.2,2.3,Local Pack nad wynikami
+wypożyczalnia kamperów kujawsko-pomorskie,50,0.11,LOW,2026-03:90,2025-10:10,encja,wynajem-miasto,wypożyczalnia kamperów kujawsko pomorskie,nie,nie,,,,0,0,
+pole namiotowe nakło-chechło,50,,LOW,2026-08:260,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.2,2.3,Local Pack
+pole namiotowe szczawnica cennik,50,0.04,LOW,2026-07:170,2025-11:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.2,2.3,Local Pack
+pole namiotowe częstochowa,50,0.49,LOW,2026-07:210,2025-10:10,encja,noclegi-region,,tak,tak,8,5,0.7,1.2,2.3,Local Pack
+przyczepa kempingowa wynajem pomorskie,50,0.04,MEDIUM,2026-02:70,2025-12:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.2,2.3,Local Pack nad wynikami
+kamper wynajem trójmiasto,50,0.14,HIGH,2026-07:110,2025-11:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,1.2,2.3,Local Pack nad wynikami
+kempingi z basenem,50,0.32,LOW,2026-07:210,2025-10:10,poradnik,noclegi,,tak,tak,8,6,0.7,1.2,1.8,Local Pack/obiekty
+camperdays,50,0.44,MEDIUM,2026-01:90,2025-10:40,porównanie/ranking,platformy,,nie,tak,,5,1.0,0,3.2,frazy marek
+camper days,50,0.44,MEDIUM,2026-01:90,2025-10:40,porównanie/ranking,platformy,,nie,tak,,5,1.0,0,3.2,frazy marek
+kamperowisko,50,,LOW,2026-06:90,2025-10:20,narzędzie,mapa-miejsc,,tak,tak,6,4,1.0,2.5,4.0,
+vanlife polska,50,,LOW,2026-07:90,2025-12:20,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,1.8,2.8,AIO + OLX
+kliny do kampera,50,0.27,HIGH,2026-05:90,2025-10:20,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,1.3,2.6,Google Shopping/sklepy
+koszt przejazdu kalkulator,50,,LOW,2026-03:70,2026-01:30,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,1.8,2.8,AIO na frazie głównej
+wynajem kampera cennik,40,0.12,MEDIUM,2026-06:90,2025-12:10,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,1.4,2.2,AIO na frazie głównej
+wynajem kampera wrocław cena,40,0.33,HIGH,2026-06:70,2025-12:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+wynajem kampera łódź cena,40,0.12,HIGH,2026-07:90,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+wynajem kampera gdańsk cena,40,0.22,LOW,2026-02:70,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+ile kosztuje zabudowa kampera,40,0.15,MEDIUM,2026-05:50,2026-09:20,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,1.4,2.2,AIO + OLX
+wynajem kampera wielkopolska,40,0.32,HIGH,2026-07:90,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+wynajem kampera świętokrzyskie,40,0.09,MEDIUM,2026-07:90,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+wynajem kampera podkarpacie,40,0.1,MEDIUM,2026-07:90,2025-11:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+podlasie kamperem,40,0.29,LOW,2026-04:90,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,1.8,3.1,AIO cytuje blogi
+kamperem na dziko w polsce,40,,LOW,2026-07:70,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,1.8,3.1,AIO cytuje blogi
+kamperem na narty,40,,LOW,2025-12:90,2026-03:10,poradnik,trasy,,tak,tak,5,3,0.7,1.8,3.1,AIO cytuje blogi
+kamperem nad morzem na dziko,40,,LOW,2026-08:90,2025-11:10,poradnik,trasy,,tak,tak,5,3,0.7,1.8,3.1,AIO cytuje blogi
+gdzie pojechać kamperem na weekend,40,0.02,LOW,2025-10:50,2026-01:10,poradnik,trasy,,tak,tak,5,3,0.7,1.8,3.1,AIO cytuje blogi
+mazury kamperem na dziko,40,,LOW,2026-07:90,2025-11:10,poradnik,trasy,,tak,tak,5,3,0.7,1.8,3.1,AIO cytuje blogi
+bory tucholskie kamperem na dziko,40,,LOW,2026-07:90,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,1.8,3.1,AIO cytuje blogi
+zlewnia ścieków dla kamperów cena,40,,LOW,2026-05:70,2026-09:20,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,1.4,2.2,AIO na frazie głównej
+wypożyczalnia kamperów lubuskie,40,0.19,MEDIUM,2026-07:70,2025-12:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+wypożyczalnia kamperów dolnośląskie,40,0.25,HIGH,2026-07:90,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+wynajem kamperów białystok,40,0.58,MEDIUM,2026-04:90,2026-01:20,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+wynajem kamperów olsztyn,40,0.31,MEDIUM,2026-07:110,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+wypożyczalnia kamperów opolskie,40,0.38,HIGH,2026-07:70,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+wypożyczalnia kamperów ceny,40,0.14,MEDIUM,2026-07:110,2025-12:10,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,1.4,2.2,AIO na frazie głównej
+wypożyczalnia kamperów bielsko,40,0.12,HIGH,2026-07:70,2025-11:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+wypożyczalnia kamperów cena,40,0.14,MEDIUM,2026-07:110,2025-12:10,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,1.4,2.2,AIO na frazie głównej
+wypożyczalnia kamperów radom,40,0.39,MEDIUM,2026-07:90,2025-12:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+przyczepa kempingowa wynajem warszawa,40,0.35,MEDIUM,2026-07:70,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.9,1.8,Local Pack nad wynikami
+lista rzeczy na kemping,40,0.02,HIGH,2026-07:140,2025-10:10,narzędzie,lista-rzeczy,,nie,tak,,5,0.5,0,1.3,AIO podaje całą listę
+przyczepa czy kamper,40,0,LOW,2026-07:90,2025-11:20,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,1.1,intencja zakupu (OLX)
+kamper zimą,40,,LOW,2025-12:90,2026-03:10,poradnik,inne,,nie,nie,,,,0,0,
+mapa pól namiotowych,40,0.63,LOW,2026-07:110,2025-10:10,narzędzie,mapa-miejsc,,tak,tak,6,4,1.0,2.0,3.2,
+ogrzewanie postojowe do kampera,40,0.19,HIGH,2025-10:70,2026-06:10,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,1.1,2.1,Google Shopping/sklepy
+przetwornica 12v 230v do kampera,40,0.33,HIGH,2026-02:70,2025-10:20,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,1.1,2.1,Google Shopping/sklepy
+najazdy poziomujące,40,0.18,HIGH,2026-06:70,2025-10:10,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,1.1,2.1,Google Shopping/sklepy
+ile kosztuje kemping,40,,LOW,2026-07:90,2025-10:10,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,2.0,3.2,
+wynajem kampera podkarpackie,30,0.05,HIGH,2025-11:70,2026-06:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.7,1.4,Local Pack nad wynikami
+wypożyczenie kampera wrocław,30,0.16,HIGH,2026-07:70,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.7,1.4,Local Pack nad wynikami
+wynajem kampera warmińsko-mazurskie,30,0.18,MEDIUM,2026-05:50,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.7,1.4,Local Pack nad wynikami
+zakopane kamperem na dziko,30,,LOW,2026-08:70,2026-01:10,poradnik,trasy,,tak,tak,5,3,0.7,1.4,2.3,AIO cytuje blogi
+wakacje kamperem pl,30,0.25,LOW,2026-08:90,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,1.4,2.3,AIO cytuje blogi
+wycieczka kamperem,30,0.07,LOW,2026-07:40,2026-09:10,poradnik,trasy,,tak,tak,5,3,0.7,1.4,2.3,AIO cytuje blogi
+kaszuby kamperem,30,,LOW,2026-07:70,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,1.4,2.3,AIO cytuje blogi
+gdzie kamperem nad morze,30,0.27,MEDIUM,2026-07:70,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,1.4,2.3,AIO cytuje blogi
+wycieczki kamperem,30,0.07,LOW,2026-07:40,2026-09:10,poradnik,trasy,wycieczka kamperem,nie,nie,,,,0,0,
+gdzie kamperem w listopadzie,30,0.04,LOW,2025-10:140,2025-12:10,poradnik,trasy,,tak,tak,5,3,0.7,1.4,2.3,AIO cytuje blogi
+wspólne wyjazdy kamperem,30,0.6,MEDIUM,2026-01:50,2026-04:20,poradnik,trasy,,tak,tak,5,3,0.7,1.4,2.3,AIO cytuje blogi
+gdzie jechać kamperem,30,0.1,LOW,2026-07:70,2025-12:10,poradnik,trasy,,tak,tak,5,3,0.7,1.4,2.3,AIO cytuje blogi
+kamperem nad morze bałtyckie,30,0.24,MEDIUM,2026-06:70,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,1.4,2.3,AIO cytuje blogi
+dolny śląsk kamperem na dziko,30,,LOW,2026-04:50,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,1.4,2.3,AIO cytuje blogi
+gdzie jechać kamperem w polsce,30,0.01,LOW,2026-08:110,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,1.4,2.3,AIO cytuje blogi
+wypożyczalnia kamperów opole,30,0.23,MEDIUM,2026-08:50,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.7,1.4,Local Pack nad wynikami
+wypożyczalnia kamperów podkarpackie,30,0.12,HIGH,2026-07:90,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.7,1.4,Local Pack nad wynikami
+wynajem kampera jelenia góra,30,0.07,MEDIUM,2026-07:50,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.7,1.4,Local Pack nad wynikami
+mały kamper wynajem warszawa,30,0.18,HIGH,2026-06:50,2025-11:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.7,1.4,Local Pack nad wynikami
+kamper 6 osobowy wynajem warszawa,30,0.22,MEDIUM,2026-07:70,2025-12:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.7,1.4,Local Pack nad wynikami
+zrzut szarej wody,30,,LOW,2026-07:70,2025-10:10,narzędzie,mapa-miejsc,,tak,tak,6,4,1.0,1.5,2.4,
+wąż do wody kamper,30,0.15,HIGH,2026-03:50,2025-11:10,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,0.8,1.6,Google Shopping/sklepy
+ile kosztuje glamping,30,0.04,HIGH,2026-07:40,2025-12:20,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,1.5,2.4,
+wypożyczalnia kamperów warmińsko mazurskie,20,0.02,MEDIUM,2026-03:50,2025-10:10,encja,wynajem-miasto,,tak,tak,8,5,0.7,0.5,0.9,Local Pack nad wynikami
+wypożyczalnia kamperów warmińsko-mazurskie,20,0.02,MEDIUM,2026-03:50,2025-10:10,encja,wynajem-miasto,wypożyczalnia kamperów warmińsko mazurskie,nie,nie,,,,0,0,
+co zabrać na pole namiotowe,20,0,LOW,2026-07:70,2025-10:10,narzędzie,lista-rzeczy,,nie,tak,,5,0.5,0,0.7,AIO podaje całą listę
+spalanie kampera,20,,LOW,2026-07:40,2025-10:10,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,0.7,1.1,AIO na frazie głównej
+kemping z dziećmi,20,,LOW,2026-05:40,2025-10:0,poradnik,noclegi,,tak,tak,8,6,0.7,0.5,0.7,Local Pack/obiekty
+wakacje w kamperze,20,,LOW,2026-03:40,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,0.9,1.5,AIO cytuje blogi
+nocleg w samochodzie,20,,HIGH,2026-05:40,2025-10:10,poradnik,zabudowa-diy,,tak,tak,6,4,0.7,0.7,1.1,AIO + OLX
+kamper dla dwojga,20,0.16,MEDIUM,2026-07:40,2025-10:10,porównanie/ranking,typy-kamperów,,nie,tak,,7,0.7,0,0.6,intencja zakupu (OLX)
+stacja zasilania turystyczna,20,0.25,HIGH,2026-07:40,2025-10:10,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,0.5,1.0,Google Shopping/sklepy
+filtr wody kamper,20,0.17,HIGH,2026-04:30,2025-11:10,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,0.5,1.0,Google Shopping/sklepy
+ceny kempingów,20,0.02,LOW,2026-06:40,2026-01:10,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,1.0,1.6,
+lista rzeczy do kampera,10,0.08,MEDIUM,2026-06:20,2025-10:10,narzędzie,lista-rzeczy,,nie,tak,,5,0.5,0,0.3,AIO podaje całą listę
+paulcamper,10,0.92,LOW,2026-01:20,2025-10:10,porównanie/ranking,platformy,,nie,tak,,5,1.0,0,0.7,frazy marek
+campanda,10,0.79,LOW,2025-10:10,2026-08:0,porównanie/ranking,platformy,,nie,tak,,5,1.0,0,0.7,frazy marek
+miejsca postojowe dla kamperów,10,,LOW,2025-10:10,2025-10:10,narzędzie,mapa-miejsc,,tak,tak,6,4,1.0,0.5,0.8,
+jak opróżnić toaletę w kamperze,10,,LOW,2025-10:10,2026-01:0,poradnik,inne,,nie,nie,,,,0,0,
+pierwszy raz kamperem,10,0.4,LOW,2026-03:20,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,0.5,0.8,AIO cytuje blogi
+kamperem w góry,10,,LOW,2026-04:20,2025-10:10,poradnik,trasy,,tak,tak,5,3,0.7,0.5,0.8,AIO cytuje blogi
+akumulator do kampera jaki,10,0.17,HIGH,2026-04:20,2025-10:10,porównanie/ranking,wyposażenie,,tak,tak,8,5,0.8,0.3,0.5,Google Shopping/sklepy
+koszt wakacji kamperem,10,,LOW,2025-10:10,2026-01:0,narzędzie,koszt-wynajmu,,tak,tak,6,4,0.7,0.3,0.6,AIO na frazie głównej
+ceny pól namiotowych,10,0.39,MEDIUM,2025-10:10,2026-08:0,narzędzie,koszt-noclegu,,tak,tak,6,4,1.0,0.5,0.8,
+jak wybrać kamper,0,,,,,porównanie/ranking,typy-kamperów,,nie,nie,,,,0,0,
+kaucja za kamper,0,,,,,narzędzie,koszt-wynajmu,,nie,nie,,,,0,0,
+kaucja wynajem kampera,0,,,,,narzędzie,koszt-wynajmu,,nie,nie,,,,0,0,
+aplikacja dla kamperowiczów,0,,,,,narzędzie,mapa-miejsc,,nie,nie,,,,0,0,
+yescapa opinie,0,,,,,porównanie/ranking,platformy,,nie,nie,,,,0,0,
+kamperowiska,0,,,,,narzędzie,mapa-miejsc,,nie,nie,,,,0,0,
+stacja serwisowa dla kamperów,0,,,,,narzędzie,mapa-miejsc,,nie,nie,,,,0,0,
+kamping z dziećmi,0,,,,,poradnik,inne,,nie,nie,,,,0,0,
+kamper z dziećmi,0,,,,,poradnik,inne,,nie,nie,,,,0,0,
+przewód do kampera cee,0,,,,,porównanie/ranking,wyposażenie,,nie,nie,,,,0,0,
+wtyczka cee kamper,0,,,,,porównanie/ranking,wyposażenie,,nie,nie,,,,0,0,
+ile kosztuje wakacje kamperem,0,,,,,narzędzie,koszt-wynajmu,,nie,nie,,,,0,0,
+ile kosztuje tydzień kamperem,0,,,,,narzędzie,koszt-wynajmu,,nie,nie,,,,0,0,
+ile kosztuje nocleg na kempingu,0,,,,,narzędzie,koszt-noclegu,,nie,nie,,,,0,0,
+kalkulator paliwa,22200,0.21,LOW,2026-03:27100,2025-12:18100,WYKLUCZONA,-,,nie,nie,,,,0,0,ogólna motoryzacyjna
+camper,14800,0.21,HIGH,2026-07:22200,2025-11:12100,WYKLUCZONA,-,,nie,nie,,,,0,0,wieloznaczna (marka butów Camper)
+zanocuj w lesie,6600,2.32,LOW,2026-07:14800,2025-11:1900,WYKLUCZONA,noclegi,,nie,nie,,,,0,0,Omijamy: warunki programu LP
+zanocuj w lesie mapa,4400,1.25,LOW,2026-07:9900,2025-11:1300,WYKLUCZONA,mapa-miejsc,,nie,nie,,,,0,0,Omijamy: warunki programu LP
+park4night,3600,1.9,LOW,2026-07:8100,2025-11:1300,WYKLUCZONA,mapa-miejsc,,nie,nie,,,,0,0,nawigacyjna/obca (aplikacja lub słowo niemieckie)
+stellplatz,1900,0.08,LOW,2026-07:4400,2025-11:590,WYKLUCZONA,mapa-miejsc,,nie,nie,,,,0,0,nawigacyjna/obca (aplikacja lub słowo niemieckie)
+power station,1300,0.41,HIGH,2026-01:1600,2025-10:1000,WYKLUCZONA,-,,nie,nie,,,,0,0,wieloznaczna (ogólna elektronika)
+camper camping czaplinek,880,,LOW,2026-08:5400,2025-12:70,WYKLUCZONA,-,,nie,nie,,,,0,0,nazwa obiektu
+kemping poznań malta,880,0.68,LOW,2026-08:1900,2026-01:320,WYKLUCZONA,-,,nie,nie,,,,0,0,nazwa obiektu
+indie campers,880,0.21,MEDIUM,2026-07:1300,2025-12:390,WYKLUCZONA,-,,nie,nie,,,,0,0,nawigacyjna (konkurent)
+przyczepa kempingowa do 750 kg,880,0.02,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+thetford,720,0.3,HIGH,2026-07:1000,2025-10:480,WYKLUCZONA,-,,nie,nie,,,,0,0,nawigacyjna (marka)
+jakie prawo jazdy na kampera,720,0.01,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+truma,590,0.17,HIGH,2025-10:720,2025-12:480,WYKLUCZONA,-,,nie,nie,,,,0,0,nawigacyjna (marka)
+przyczepa kempingowa lekka do 750 kg,590,0.03,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+park4night po polsku,480,,LOW,2026-06:1000,2025-11:90,WYKLUCZONA,mapa-miejsc,,nie,nie,,,,0,0,nawigacyjna/obca (aplikacja lub słowo niemieckie)
+roadsurfer,480,0.06,LOW,2026-07:720,2025-12:260,WYKLUCZONA,-,,nie,nie,,,,0,0,nawigacyjna (konkurent)
+dometic lodówka,480,0.33,HIGH,2026-06:880,2025-12:210,WYKLUCZONA,-,,nie,nie,,,,0,0,nawigacyjna (marka)
+rent a camper,390,2.26,LOW,2026-08:1000,2025-10:210,WYKLUCZONA,-,,nie,nie,,,,0,0,"angielska, głównie wyjazdy za granicę"
+camper rent,390,2.26,LOW,2026-08:1000,2025-10:210,WYKLUCZONA,-,,nie,nie,,,,0,0,"angielska, za granicą"
+rent camper,390,2.26,LOW,2026-08:1000,2025-10:210,WYKLUCZONA,-,camper rent,nie,nie,,,,0,0,"angielska, za granicą"
+kamper morelo,390,0.03,LOW,2026-07:1000,2025-12:90,WYKLUCZONA,-,,nie,nie,,,,0,0,"marka, intencja zakupu pojazdu"
+morelo kamper,390,0.78,LOW,2026-07:1300,2025-12:110,WYKLUCZONA,-,,nie,nie,,,,0,0,"marka, intencja zakupu pojazdu"
+acsi,390,0.18,MEDIUM,2026-05:590,2025-11:210,WYKLUCZONA,-,,nie,nie,,,,0,0,wieloznaczna (skrót)
+kamper do 3 5 tony,390,0.1,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+camping roztocze camper park pole namiotowe,320,0.38,LOW,2026-08:1300,2026-01:10,WYKLUCZONA,-,,nie,nie,,,,0,0,nazwa obiektu
+weinsberg kamper,260,0.34,LOW,2026-07:590,2026-01:90,WYKLUCZONA,-,,nie,nie,,,,0,0,"marka, intencja zakupu pojazdu"
+kamper adria,260,0.28,LOW,2026-08:590,2025-12:140,WYKLUCZONA,-,,nie,nie,,,,0,0,"marka, intencja zakupu pojazdu"
+kamper benimar,260,0.16,LOW,2026-06:390,2025-12:90,WYKLUCZONA,-,,nie,nie,,,,0,0,"marka, intencja zakupu pojazdu"
+kemping sielpia,260,,LOW,2026-07:720,2025-10:20,WYKLUCZONA,-,,nie,nie,,,,0,0,nazwa obiektu
+przeróbka busa na kampera przepisy,260,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa na kat b,260,0.01,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa 750 kg,260,0.02,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+kamper mercedes hymer,210,0.2,LOW,2026-08:390,2025-10:110,WYKLUCZONA,-,,nie,nie,,,,0,0,"marka, intencja zakupu pojazdu"
+kamper leasing,210,0.33,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+ubezpieczenie kampera,210,3.08,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+prawo jazdy na kampera,210,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa bez prawa rejestracji,210,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+jaka przyczepa kempingowa na kat b,210,0.02,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+kamper na kategorię b,170,0.12,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa dmc 750,170,0.02,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+camper van rental,140,0.87,LOW,2026-07:210,2025-11:110,WYKLUCZONA,-,,nie,nie,,,,0,0,"angielska, za granicą"
+lodówka dometic kamper,140,0.15,HIGH,2026-03:210,2025-12:40,WYKLUCZONA,-,,nie,nie,,,,0,0,nawigacyjna (marka)
+kamperem,140,0.06,LOW,2026-08:320,2025-10:90,WYKLUCZONA,-,,nie,nie,,,,0,0,zbyt ogólna
+mcrent,140,0.55,LOW,2026-06:210,2025-12:70,WYKLUCZONA,-,,nie,nie,,,,0,0,nawigacyjna (konkurent)
+kamper powyżej 3 5 tony,140,0.14,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa 750 dmc,140,0.02,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+kamper na kat b,110,0.16,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+leasing kampera,110,0.56,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa do 1000 dmc,110,0.01,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa do 1200 dmc,110,0.01,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+kamper na prawo jazdy b,90,0.35,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+największy kamper na kat b,90,1.03,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+kamper do 3.5 tony,90,0.09,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+ile kosztuje ubezpieczenie kampera,90,0.51,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa 1200 dmc,90,0.01,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa dmc 1000,90,0.01,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa dmc 1000 kg,90,0.02,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa dmc 1100,90,0.01,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa dmc 1200,90,0.03,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa dmc 750 kg,90,0.01,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+kamper kat c wynajem,70,0.44,LOW,2026-05:90,2025-12:30,WYKLUCZONA,-,,nie,nie,,,,0,0,prawna (kategoria prawa jazdy)
+najwiekszy kamper na kat b,70,0.72,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+kamper kat b,70,0.28,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+najlepszy kamper do 3 5 tony,70,0.08,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+kamper na prawo jazdy c,70,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przeróbka busa na kampera przepisy 2025,70,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+jak nie płacić akcyzy za kampera,70,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+zanocuj w lesie zasady,50,,LOW,2026-08:110,2025-11:20,WYKLUCZONA,-,,nie,nie,,,,0,0,prawna (zasady programu LP)
+prawo jazdy kamper,50,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+kamper powyzej 3.5 tony,50,0.02,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+ubezpieczenie kaucji kampera,50,2.26,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+ubezpieczenie kampera koszt,50,0.71,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa adria do 750 kg,50,0.03,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa 900 dmc,50,0.04,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa bez rejestracji,50,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+camperstop,40,,LOW,2026-06:110,2025-11:10,WYKLUCZONA,mapa-miejsc,,nie,nie,,,,0,0,nawigacyjna/obca (aplikacja lub słowo niemieckie)
+fotele do kampera z homologacja,40,0.25,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+odstąpię leasing kampera,40,0.03,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+jakie prawo jazdy na kampera powyżej 3 5 tony,40,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+ubezpieczenie kampera cena,40,0.47,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa dmc 900 kg,40,0.06,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+dmc przyczepa kempingowa z hamulcem 1000 kg,40,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa dmc 1150,40,0.01,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+luksusowy kamper do 3 5 tony,40,0.13,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+platforma na motocykl do kampera przepisy,30,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa dmc 1500,30,0.02,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa 1300dmc,30,0.01,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa dmc 950 kg,30,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przepisy na biwak,20,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa do 750 kg 4 osobowe,20,0.02,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa 750 kg kempingowa,20,0.01,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa do 750 kg wynajem,20,0.04,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa przegląd bezterminowy,20,,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+nowa przyczepa kempingowa do 750 kg,20,0.09,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa 1400 dmc,20,0.01,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa do 750 kg kujawsko-pomorskie,20,0.04,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa dmc,20,0.02,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+mała przyczepa kempingowa do 750 kg,20,0.02,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa do 750 kg kujawsko pomorskie,20,0.01,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+przyczepa kempingowa 4 osobowa 750 kg,20,0.03,,,,WYKLUCZONA,prawne,,nie,nie,,,,0,0,Omijamy: treść prawna; wolumen z /v3/dataforseo_labs/google/keyword_suggestions/live
+zanocuj w lesie lista miejsc,0,,,,,WYKLUCZONA,noclegi,,nie,nie,,,,0,0,Omijamy: warunki programu LP
