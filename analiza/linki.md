@@ -87,7 +87,7 @@ Pytania do właściciela:
 
 1. Czy domena wnetrzakamila.pl była kupiona z rynku wtórnego (giełda wygasłych domen), czy zarejestrowana jako nowa?
 2. Czy jest włączone automatyczne odnowienie? **Rejestracja wygasa 17.11.2026.**
-3. Strona „O mnie” mówi: „Od kilku lat dzielę się praktycznymi poradami”. Domena działa od listopada 2025. Jeśli autorka pisała wcześniej gdzie indziej (Instagram, inny blog), warto to pokazać z linkiem. Jeśli nie, to zdanie trzeba poprawić (zasada z CLAUDE.md: fakty o autorze tylko potwierdzone).
+3. Strona „O mnie” mówi: „Od kilku lat dzielę się praktycznymi poradami”. Domena działa od listopada 2025. Jeśli autor pisał wcześniej gdzie indziej (Instagram, inny blog), warto to pokazać z linkiem. Jeśli nie, to zdanie trzeba poprawić (zasada z CLAUDE.md: fakty o autorze tylko potwierdzone).
 
 ### Czy trzeba coś usuwać (disavow)?
 
@@ -140,7 +140,7 @@ Kolejność według wpływu i kosztu. Wszystko bez płatnych artykułów sponsor
 
 ### B. Producenci i sklepy: realizacje i materiały
 
-- Jeśli autorka w swoich realizacjach używa konkretnych farb, paneli czy mebli, część producentów prowadzi galerie realizacji klientów lub sekcje inspiracji. Zgłoszenie realizacji ze zdjęciami może dać link. Warunki trzeba sprawdzić u każdego producenta.
+- Jeśli autor w swoich realizacjach używa konkretnych farb, paneli czy mebli, część producentów prowadzi galerie realizacji klientów lub sekcje inspiracji. Zgłoszenie realizacji ze zdjęciami może dać link. Warunki trzeba sprawdzić u każdego producenta.
 - Kalkulator dla konkretnych produktów (np. wydajność z kart technicznych) to powód, by producent albo sklep zalinkował narzędzie. Dane tylko z oficjalnych kart, z datą sprawdzenia.
 
 ### C. Media wnętrzarskie i lokalne
@@ -161,7 +161,7 @@ Kolejność według wpływu i kosztu. Wszystko bez płatnych artykułów sponsor
 ### F. Pinterest, Instagram, YouTube
 
 - Linki z tych serwisów są nofollow, ale dają ruch i sygnały marki. Pinterest dobrze pasuje do wnętrz i ogrodu: każda grafika z artykułu jako pin z linkiem do wpisu.
-- W SERP na frazę „wnetrzakamila.pl” pierwszy wynik to profil Instagram „Kamila | Wnętrza | Ogród | Inspiracje (@wnetrzebezfiltra)”, ponad 9,6 tys. obserwujących (`/v3/serp/google/organic/live/advanced`, 18.10.2026). **Do potwierdzenia przez właściciela, czy to jej profil.** Jeśli tak, link w bio i w opisach do strony jest pierwszym prostym krokiem.
+- W SERP na frazę „wnetrzakamila.pl” pierwszy wynik to profil Instagram „Kamila | Wnętrza | Ogród | Inspiracje (@wnetrzebezfiltra)”, ponad 9,6 tys. obserwujących (`/v3/serp/google/organic/live/advanced`, 18.10.2026). **Do potwierdzenia przez właściciela, czy to profil autora strony.** Jeśli tak, link w bio i w opisach do strony jest pierwszym prostym krokiem.
 - Na „jak urządzić mały salon” 3. element strony to blok z 3 filmami z YouTube. Krótkie wideo do artykułów może dać i ruch, i linki.
 
 ### Czego nie robić

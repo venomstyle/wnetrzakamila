@@ -20,7 +20,7 @@ Uwagi do danych:
 - CPC jest w USD, tak zwraca je DataForSEO.
 - Google Ads łączy bliskie warianty. „japandi” i „styl japandi” albo „kalkulator budowlany” i „kalkulatory budowlane” mają identyczne serie. W sumach klastrów taką serię liczę raz.
 - Trudność [KD] jest prawie bezużyteczna na polskim rynku: 305 z 397 sprawdzonych fraz ma KD = 0, a 52 nie ma wyniku. Dlatego trudność oceniam głównie po SERP-ach [SERP] i po średniej randze domen w top 10 [KO] (skala DataForSEO 0–1000, niżej znaczy słabsze domeny).
-- Elementy SERP z [KO] pochodzą z wcześniejszych zrzutów Labs (sierpień–październik 2026). Na żywo [SERP] AI Overview pojawia się częściej, np. przy „kalkulator betonu” i „projektant wnętrz online”, gdzie Labs go nie pokazuje.
+- Elementy SERP z [KO] pochodzą z wcześniejszych zrzutów Labs: 235 z 344 zrzutów jest z sierpnia–października 2026, część jest starsza (nawet z 2021 r.). Na żywo [SERP] AI Overview pojawia się częściej, np. przy „kalkulator betonu” i „projektant wnętrz online”, gdzie Labs go nie pokazuje.
 - Trend to 12 słupków od października 2025 do września 2026 [SV]. Min i max to najniższy i najwyższy miesiąc.
 
 ## 1. Obecna widoczność
@@ -32,7 +32,7 @@ Uwagi do danych:
 | Pozycje 31–40 | 1 fraza | [DRO] |
 | Pozycje 71–80 | 1 fraza | [DRO] |
 | Frazy nowe / utracone od poprzedniego pomiaru | 2 / 1 | [DRO] |
-| Wyniki dla `site:wnetrzakamila.pl` | 10 (strona główna Google pokazuje 10 adresów) | [SERP] |
+| Adresy pokazane przez Google dla `site:wnetrzakamila.pl` | 10 | [SERP] |
 
 Frazy, na które strona się dziś pokazuje [RK]:
 
@@ -91,8 +91,8 @@ Zbadałem 415 fraz: 278 z listy startowej, 130 znalezionych przez [KS] i 7 o us�
 Źródła: wolumen, miesiące i CPC [SV]; ranga domen i AI Overview [KO]. „AI Overview (frazy)” = w ilu frazach z danymi Labs widział AI Overview.
 
 Co z tego wynika:
-- **Ogród** ma największy popyt, ale to głównie trzy frazy zakupowe: „kostka brukowa” 74 000, „altana ogrodowa” 33 100, „pergola” 27 100 [SV]. Sezon jest bardzo silny: marzec 2026 to 499 860, grudzień 2025 to 80 800.
-- **Aranżacja** jest stabilna, ze szczytem w styczniu (154 990) i dołkiem w czerwcu (85 310). Połowa popytu to style wnętrz i „garderoba”.
+- **Ogród** ma największy popyt, ale ponad połowa to trzy frazy zakupowe: „kostka brukowa” 74 000, „altana ogrodowa” 33 100, „pergola” 27 100 [SV]. Sezon jest bardzo silny: marzec 2026 to 499 860, grudzień 2025 to 80 800.
+- **Aranżacja** jest stabilna, ze szczytem w styczniu (154 990) i dołkiem w czerwcu (85 310). Blisko połowa popytu (54 610 z 120 930) to style wnętrz i „garderoba”.
 - **Kalkulatory** mają 42 250 wyszukiwań miesięcznie i najsłabsze domeny w top 10 (średnia ranga 328, przy 448 dla aranżacji) [KO]. Szczyt przypada na marzec (57 910), dołek na grudzień (33 170).
 - **Usługi projektowe** mają najwyższy CPC (średnio 0,91 USD; „projektant wnętrz” 2,53 USD) [SV], ale to popyt na firmę z ofertą.
 - **Malowanie i kolory** to 62 800 wyszukiwań, równo przez cały rok. Pasuje do istniejących wpisów.
@@ -334,3 +334,188 @@ Kolumny: średnia, min–max, miesiąc szczytu, trend i CPC [SV]; KD [KD]; inten
 | projekt mieszkania | 2 400 | 1 300 – 4 400 | mar 26 | ▆▆▄▇▆█▇▅▃▄▃▃ | 0,79 | 0 | informational | nie |
 | aranżacja wnętrz | 2 400 | 1 300 – 3 600 | mar 26 | ▆▆▄▇▇█▇▆▃▅▃▃ | 0,99 | 18 | informational | nie |
 | projekt kuchni online | 1 900 | 1 300 – 2 900 | sty 26 | ▆▇▅█▇▆▅▄▄▄▄▄ | 0,46 | 0 | informational | tak |
+
+## 3. Mapa fraz: fraza → strona
+
+Pełne przypisanie każdej frazy do klastra i strony: kolumny `klaster` i `strona` w `analiza/dane/frazy_wolumeny.csv`. Zbiorczo: `analiza/dane/klastry.csv`.
+
+### 3.1 Istniejące strony
+
+| Istniejąca strona | Główne frazy, wolumen/mies. [SV] | Popyt klastra [SV] | Pozycja dziś | Co zrobić |
+|---|---|---:|---|---|
+| /jak-urzadzic-maly-balkon-… | jak urządzić balkon 590, aranżacja małego balkonu 390, balkon w bloku aranżacja 390, jak urządzić mały balkon 260, jak urządzić balkon w bloku 260 | 2 150 | poza top 20 [SERP] | Sezon: grudzień 400, marzec 5 030. Odświeżyć i podlinkować przed lutym. |
+| /jak-urzadzic-maly-salon-w-bloku-… | bardzo mały salon w bloku 590, aranżacja małego salonu 480, jak urządzić mały salon 390, mały salon w bloku 260 | 1 720 | 37 dla „bardzo mały salon w bloku” [RK] | Najlepsza pozycja wśród wpisów. Osobna strona „salon z aneksem kuchennym” (4 770). |
+| /jak-urzadzic-mala-kuchnie-… | mała kuchnia 2 400, mała kuchnia w bloku 1 900, aranżacja małej kuchni 590, jak urządzić kuchnię 590, jak urządzić małą kuchnię 390 | 5 940 | 73 dla „jak urządzić małą kuchnię” [RK] | W top 10 najsilniejsze domeny w całym zbiorze (ranga 564 [KO]). Celować w „mała kuchnia w bloku”. |
+| /jak-urzadzic-pokoj-mlodziezowy-… | pokój młodzieżowy 2 900, pokój młodzieżowy dla dziewczynki 720, jak urządzić pokój nastolatce 210, pokój młodzieżowy dla chłopaka 170 | 4 230 | brak [RK] | Dodać sekcje „dla dziewczynki” i „dla chłopaka”. |
+| /jak-urzadzic-pokoj-dziecka-… | pokój dziecka 1 600, aranżacja pokoju dziecka 590, jak urządzić pokój dziecka 260, pokój dla rodzeństwa 260 | 2 740 | brak [RK] | Brakuje stron „pokój dla dziewczynki” (4 400) i „pokój dla chłopca” (2 900). |
+| /ile-kosztuje-projekt-domu-… | ile kosztuje projekt domu 1 000, projekt domu cena 260 | 1 260 | brak [RK] | Ceny tylko ze źródłem i datą (zasada z CLAUDE.md). |
+| /jaki-kolor-scian-do-szarych-mebli/ | jaki kolor ścian do szarych mebli 390, jaki kolor ścian do szarej kanapy 140, szara kanapa jaki kolor ścian 90 | 620 | poza top 20 [SERP] | Zrobić z niego część huba „kolor ścian do mebli” (razem 6 320, patrz 3.2). |
+| /jak-pomalowac-sufit-bez-smug/ | jak malować sufit 1 900, malowanie sufitu 1 600, farba do sufitu 480, jaka farba do sufitu 210, jak pomalować sufit bez smug 110 | 4 410 | brak [RK] | Tytuł celuje w „bez smug” (110). Poszerzyć o „jak malować sufit” (1 900). |
+| /jak-pomalowac-salon-nowoczesnie/ | jak pomalować salon 210, jak pomalować salon nowocześnie 110 | 320 | brak [RK] | Mały popyt. Podlinkować do huba kolorów (kolor ścian w salonie 1 130). |
+| /ile-kosztuje-wizualizacja-mieszkania/ | wizualizacja mieszkania 390, ile kosztuje wizualizacja mieszkania 20 | 410 | brak [RK] | Fraza z tytułu ma 20 wyszukiwań. Niski priorytet. |
+| /tematy/kalkulatory-budowlane/ (pusta) | kalkulator budowlany 720, kalkulatory budowlane 720 (ta sama seria), kalkulator materiałów budowlanych 90 | 810 | brak [RK] | Strona pusta [CP]. Hub dla wszystkich kalkulatorów z 3.2. |
+
+### 3.2 Brakujące strony, w kolejności priorytetu
+
+Priorytet łączy popyt [SV], słabość SERP-u [SERP], [KO] i dopasowanie do bloga. Typ „narzędzie” oznacza działający kalkulator z krótkim poradnikiem pod spodem.
+
+**A. Kalkulatory na start (słabe SERP-y, popyt przez cały rok)**
+
+| Strona do zrobienia | Typ | Popyt/mies. [SV] | Min – max [SV] | Konkurencja | CPC [SV] |
+|---|---|---:|---|---|---:|
+| Kalkulator betonu (m3, worki, ile cementu na m3) | narzędzie | 6 170 | 2 710 (sty) – 9 210 (kwi) | małe serwisy: tylkobeton.pl, jakie-posadzki.pl, kalkulato.pl, chippy.tools; AI Overview na 1. miejscu [SERP]; ranga 280 [KO] | 0,56 |
+| Kalkulator m2 / m3 / powierzchni | narzędzie | 4 920 | 3 660 – 6 300 | ranga 334, bez AI Overview w [KO]; SERP nie sprawdzony na żywo | 0,01 |
+| Kalkulator płytek + kleju + fugi | narzędzie | 2 830 | 2 240 – 3 350 | bardzo słaba: codegeek.com.pl, usefulhub.cloud, remontomat.podziel.pl, wizerunkowo.app w top 20 [SERP], ich ETV 0,17–5 [BTE] | 0,25 |
+| Kalkulator murowania (pustaki, cegły, bloczki) | narzędzie | 1 800 | 1 350 – 2 640 (mar) | ranga 270 [KO] | 1,09 |
+| Kalkulator farby (ile farby na m2, na pokój) | narzędzie | 1 550 | 1 030 – 2 080 (mar) | kalkulatorxxl.pl, kb.pl, muratordom.pl, ale też budowlanek.com i kalkulatorfarby.pl z ETV ok. 2 [SERP], [BTE] | 0,21 |
+| Kalkulator wylewki / gładzi / tynku | narzędzie | 920 | 590 – 1 250 (mar) | ranga 247 [KO] | 0,18 |
+| Kalkulator ogrodzenia | narzędzie | 600 | 260 – 1 110 (mar) | ranga 213 [KO] | 0,60 |
+| Kalkulator kostki brukowej + podsypki | narzędzie | 580 | 180 – 1 000 (mar–maj) | producenci (Wienerberger, Polbruk) i małe strony (obslugabudowy.pl, oblicz24.pl) [SERP] | 0,52 |
+| Kalkulator paneli + listew | narzędzie | 340 | 260 – 440 | ranga 318 [KO] | 0,72 |
+| Kalkulator tapety | narzędzie | 220 | 150 – 340 | ranga 279 [KO] | 3,39 |
+
+Razem grupa A: około 19 900 wyszukiwań miesięcznie (suma klastrów [SV]).
+
+**B. Kalkulatory trudniejsze albo poza profilem**
+
+| Strona | Popyt [SV] | Dlaczego później |
+|---|---:|---|
+| Kalkulatory ciesielskie (drewno, więźba, schody, dach) | 8 570 | odbiorca zawodowy; „kalkulator ciesielski” 3 600, jego intencji nie sprawdzałem w SERP |
+| Kalkulator stali / blachy / zbrojenia | 6 200 | odbiorca zawodowy, poza tematem wnętrz |
+| Kalkulator styropianu / ocieplenia | 2 830 | top 10 to producenci i hurtownie: styro24.pl, yetico.com, Knauf, Austrotherm [SERP]; średnio 49,7 domen linkujących [KO] |
+| Kalkulator kosztów remontu / wykończenia / budowy | 1 720 | SERP słaby (kb.pl, kalkulatorremontu.pl, ogarnijremont.pl [SERP]), ale wynik wymaga cen; ceny bez źródła są zakazane (CLAUDE.md), więc decyzja właściciela |
+| Kalkulatory instalacyjne (pompa ciepła, fotowoltaika, grzejnik, klimatyzacja) | 2 200 | poza profilem bloga |
+
+**C. Poradniki (dobry popyt, konkurencja średnia)**
+
+| Strona | Popyt [SV] | Uwagi |
+|---|---:|---|
+| Kolory ścian: odcienie (kolor szałwiowy 8 100, butelkowa zieleń 5 400, szałwiowa zieleń 2 400, beżowe ściany 1 300, greige 1 300, oliwkowy 590, kaszmirowy 590) | 23 220 | popyt równy przez rok; w SERP marki farb i portale; ranga 383 [KO]; dużo grafiki |
+| Hub „kolor ścian do mebli i pomieszczeń” (do mebli 2 380, w sypialni 1 630, w kuchni 1 180, w salonie 1 130) | 6 320 | rozwija istniejący wpis o szarych meblach |
+| Jak malować ściany (malowanie ścian 3 600, gruntowanie ścian 1 600, jak malować ściany 1 300, jak pomalować ściany 1 000) | 9 670 | pasuje do wpisów o suficie i salonie; AI Overview w 9 z 12 fraz [KO] |
+| Ile schnie / ile waży (ile schnie grunt 1 300, ile waży kubik betonu 1 900, ile schnie fuga 720, wylewka 720, klej do płytek 480) | 6 830 | AI Overview w 8 z 8 fraz [KO]; lepiej jako sekcje stron kalkulatorów |
+| Salon z aneksem kuchennym | 4 770 | SERP: sklepy meblowe, małe pracownie, forum [SERP]; ranga 464 |
+| Mała łazienka w bloku | 5 640 | ranga 481 |
+| Przedpokój w bloku | 4 530 | ranga 471 |
+| Sypialnia (aranżacja sypialni 5 400, sypialnia na poddaszu 1 900, przytulna sypialnia 1 600) | 11 520 | ranga 438 |
+| Pokój dla dziewczynki / dla chłopca | 4 400 / 2 900 | intencja „transactional” [KO], dużo sklepów |
+| Kolejność prac remontowych, od czego zacząć remont (remont kuchni od czego zacząć 1 900, remont starego domu od czego zacząć 1 600) | 4 350 | szczyt w lutym (10 480); SERP: czasnawnetrze.pl, dobrzemieszkaj.pl, budujemydom.pl, marki kuchni [SERP] |
+| Panele i wykończenie (jakie panele podłogowe wybrać 1 900, panele winylowe czy laminowane 1 000, jak położyć panele 590, jak kłaść tapetę 390) | 4 190 | ranga 329 [KO]; nadaje się do afiliacji |
+| Modne kolory ścian 2026 | 2 290 | szczyt marzec 3 620, dołek październik 460; temat co roku od nowa |
+| Mały pokój, pokój 2x3, pokój ze skosami | 2 320 | ranga 348 |
+| Domowe biuro | 2 300 | ranga 361 |
+| Malowanie mebli, płytek, drzwi | 2 900 | malowanie mebli kuchennych 720, malowanie płytek 880 |
+
+**D. Trudne albo do decyzji właściciela**
+
+| Obszar | Popyt [SV] | Dlaczego |
+|---|---:|---|
+| Style wnętrz (styl boho 8 100, japandi 8 100, rustykalny 4 400, skandynawski 3 600, hampton 3 600) | 41 920 | duże portale; ranga 424 [KO] |
+| Usługi projektowe (projekt kuchni 12 100, projekt łazienki 9 900, projektowanie wnętrz 8 100, projektant wnętrz 5 400, architekt wnętrz 4 400) | 46 300 | wymaga oferty; Local Pack w 5 z 8 fraz [KO] |
+| Koszty prac „ile kosztuje…” | 39 610 | AI Overview w 30 z 37 fraz [KO]; ceny tylko ze źródłem |
+| Ceny materiałów (kubik betonu, worek cementu, tona piasku po 1 900) | 7 000 | ceny zmienne, bez źródła nie wolno publikować |
+| Ogród: kostka brukowa, altana, pergola | 141 780 | frazy zakupowe, w SERP sklepy |
+| Ogród poradnikowy: kalendarz ogrodnika, trawnik, rośliny na balkon, aranżacja ogrodu | 79 090 | duży, ale bardzo sezonowy (marzec–maj); AI Overview częsty |
+| Farby i narzędzia (agregat malarski 9 900) | 13 050 | frazy produktowe; tylko z afiliacją |
+| Odliczenie remontu od podatku | 720 | temat prawny, decyzja właściciela |
+
+### 3.3 Usługi projektowe (gdyby właściciel chciał sprzedawać)
+
+| Fraza | Śr./mies. | Min – max | Szczyt | CPC (USD) |
+|---|---:|---|---|---:|
+| projektowanie wnętrz | 8 100 | 6 600 – 12 100 | sty, mar 26 | 1,35 |
+| projektant wnętrz | 5 400 | 4 400 – 8 100 | mar 26 | 2,53 |
+| architekt wnętrz | 4 400 | 2 400 – 6 600 | mar 26 | 2,15 |
+| projektant wnętrz online | 2 900 | 1 900 – 4 400 | lis 25, sty, mar 26 | 0,41 |
+| projekt wnętrz | 1 600 | 880 – 2 400 | – | 1,87 |
+| projekt wnętrz online / projekt wnętrza online | 720 | 260 – 1 000 | – | 0,59 |
+| ile kosztuje projektant wnętrz | 480 | 320 – 720 | – | 0,95 |
+| ile kosztuje projekt kuchni | 390 | 260 – 720 | lut 26 | 0,54 |
+| ile kosztuje projekt łazienki | 390 | 260 – 590 | sty 26 | 0,51 |
+| projekt wnętrza cena | 260 | 140 – 480 | – | 0,96 |
+| ile kosztuje projekt wnętrza | 210 | 110 – 320 | – | 0,78 |
+| projektowanie wnętrz cennik | 210 | 70 – 390 | mar 26 | 1,10 |
+| projekt wnętrz cena za m2 | 40 | 20 – 70 | sty 26 | 0,47 |
+
+Źródło: [SV], 18.10.2026. Szczyt popytu na usługi wypada od stycznia do marca, dołek we wrześniu.
+
+SERP [SERP]: „ile kosztuje projekt wnętrza” wygrywają cenniki pracowni (wnetrzewdomu.pl, oliwiadrobnicka.pl, florkiewiczstudio.com, houselab.pl). „projektant wnętrz online” wygrywają pracownie online (abrys.net, artehaus.pl, kotestudio.pl), Allegro i homebook.pl; jest też panel wiedzy i opinie Google. Blog bez własnej oferty, portfolio i opinii nie ma tu realnych szans. Strona z cennikiem ma sens dopiero, gdy właściciel potwierdzi usługę i ceny.
+
+## 4. Obraz SERP-ów
+
+Sprawdzone na żywo 18.10.2026 [SERP], Google Polska, telefon, top 20 wyników organicznych. Wolumen [SV]. Pełne listy: `analiza/dane/serp_top20.csv`.
+
+| Fraza (wolumen) | Elementy SERP | AI Overview | Kto wygrywa w top 10 | Słabe domeny w top 10? |
+|---|---|---|---|---|
+| kalkulator betonu (4 400) | AI Overview, aplikacje, grafika, „ludzie szukają też” | tak, 1. miejsce | małe serwisy kalkulatorów i betonu (domonline.pl, chippy.tools, tylkobeton.pl, jakie-posadzki.pl, betonplus.pl, kalkulato.pl), Castorama, wideo z Facebooka | tak |
+| ile farby na m2 (720) | AI Overview, PAA, grafika | tak, 1. miejsce | kalkulatorxxl.pl, budowlanek.com, YouTube, kb.pl, mojabudowa.pl, kalkulatorfarby.pl, notatnikbudowlany.pl, muratordom.pl | tak (budowlanek.com, kalkulatorfarby.pl: ETV ok. 2 [BTE]) |
+| kalkulator płytek (320) | aplikacje na 1. miejscu, AI Overview | tak, 4. miejsce | mexen.pl (blog sklepu), codegeek.com.pl, usefulhub.cloud, banyo.pl, YouTube, producenci płytek, remontomat.podziel.pl, estile.pl | tak, najsłabszy SERP w próbie |
+| kalkulator styropianu (1 900) | AI Overview, PAA | tak, 5. miejsce | producenci i hurtownie: styro24.pl, hurtowniastyropianu.pl, yetico.com, styroneo.pl, Knauf, Austrotherm | nie, mocne marki |
+| kalkulator kostki brukowej (170) | AI Overview, grafika, aplikacje | tak, 2. miejsce | dalis-granit.pl, obslugabudowy.pl, Wienerberger, kb.pl, oferteo.pl, YouTube, kostbet.pl, kalkulatorxxl.pl | częściowo |
+| kalkulator remontu (140) | AI Overview, wyszukiwania powiązane | tak, 5. miejsce | kb.pl, kalkulatorremontu.pl, kolbuild.pro, ogarnijremont.pl, mivare.pl, dkor.pl, dobrykalkulator.pl; od 10. miejsca wyniki nie na temat | tak |
+| ile kosztuje malowanie pokoju (2 400) | AI Overview, wideo, PAA, grafika | tak, 1. miejsce | wykonawcy (aropos1.pl, kowalbud.com), kb.pl, zleca.pl, oferteo.pl, fakt.pl, YouTube, Facebook | częściowo |
+| remont kuchni od czego zacząć (1 900) | AI Overview, wideo, PAA, grafika | tak, 1. miejsce | czasnawnetrze.pl, sklepy meblowe (Aksent, BRW, Bogart), dobrzemieszkaj.pl, budujemydom.pl, domni.pl | nie |
+| jak urządzić mały salon z aneksem (1 600) | grafika na 1. miejscu, AI Overview, wideo, PAA | tak, 2. miejsce | sklepy meblowe (idzczakmeble.pl, BRW, plmeble.pl), e-wystroj-wnetrz.pl, weranda.pl, forum.gazeta.pl, małe pracownie | częściowo (forum, małe pracownie) |
+| jak urządzić mały balkon (260) | grafika na 1. miejscu, PAA, wideo | nie | blogi sklepów: modu.pl, vokato.com, alena-firany.pl, morele.net, merkurymarket.pl, edaxo.pl, BRW | częściowo; wnetrzakamila.pl poza top 20 |
+| jaki kolor ścian do szarych mebli (390) | AI Overview, grafika, PAA | tak, 1. miejsce | blogi marek: komfort.pl (3 wyniki), magnatfarby.pl (2), aksent.pl, BRW, homebook.pl | nie; wnetrzakamila.pl poza top 20 |
+| ile kosztuje projekt wnętrza (210) | AI Overview, grafika, PAA | tak, 1. miejsce | cenniki pracowni projektowych, archiweb.pl, Facebook, LinkedIn | nie dla bloga bez oferty |
+| projektant wnętrz online (2 900) | AI Overview, panel wiedzy, opinie Google, PAA | tak, 1. miejsce | pracownie online, Allegro, homebook.pl, eplytki.pl | nie dla bloga bez oferty |
+| kiedy siać trawę (5 400) | AI Overview, wideo, krótkie wideo, PAA | tak, 1. miejsce | sklepy ogrodnicze, Leroy Merlin, Kiloutou, dom.wprost.pl, muratordom.pl | częściowo |
+
+Co widać:
+- **AI Overview** był w 13 z 14 SERP-ów, zwykle na 1. miejscu. Wyjątek: „jak urządzić mały balkon”. W kalkulatorach AI Overview często odsyła do narzędzi (np. przy płytkach do Paradyża, Leroy Merlin, eplytki.pl), czyli działający kalkulator ma szansę być cytowany.
+- **Local Pack** nie pojawił się w żadnym z 14 SERP-ów na żywo. W danych Labs [KO] jest przy 12 frazach, m.in. przy 5 z 8 fraz usługowych (projektowanie wnętrz, projektant wnętrz, architekt wnętrz), przy „remont łazienki”, „remont mieszkania” i „kostka brukowa”.
+- **Grafika** jest w prawie każdym SERP-ie o aranżacji i kolorach. Tu liczą się własne zdjęcia i dobre opisy alt.
+- **Wideo** (YouTube, Facebook) stoi w top 10 przy malowaniu, płytkach i remoncie.
+- **Portale typu muratordom.pl, Castorama, Leroy Merlin** są obecne, ale nie dominują w kalkulatorach. Dominują w nich małe, wąskie serwisy. W aranżacji i kolorach dominują blogi sklepów meblowych i marek farb.
+
+## 5. Wnioski: gdzie nowa, słaba domena może wygrać
+
+### Da się wygrać
+
+1. **Kalkulatory materiałów pod wnętrza i remont.** To najlepszy kierunek. Dowody: w top 10 dla „kalkulator płytek” stoją strony z ruchem bliskim zera (codegeek.com.pl ETV 0,35, usefulhub.cloud 2,2 [BTE]); średnia ranga domen w top 10 dla kalkulatorów to 328 wobec 448 dla aranżacji [KO]; popyt jest równy przez rok z wiosennym szczytem [SV]. Kolejność: beton (6 170), płytki z klejem i fugą (2 830), farba (1 550), murowanie (1 800), wylewka i gładź (920), panele (340), tapeta (220), a do tego prosty kalkulator m2/m3 (4 920).
+2. **Hub kalkulatorów w pustym dziale.** Strona `/tematy/kalkulatory-budowlane/` już istnieje i jest w menu, ale nie ma treści [CP]. Fraza „kalkulator budowlany” ma 720 wyszukiwań [SV], ranga top 10 to 390 [KO].
+3. **Krótkie pytania przy kalkulatorach.** „ile cementu na m3 betonu” 590, „ile worków betonu na m3” 390, „ile kleju na m2 płytek” 480, „ile fugi na m2” 390, „ile pustaków na m2” 480, „ile schnie grunt” 1 300 [SV]. Najlepiej jako sekcje stron narzędzi, bo AI Overview odpowiada na nie wprost [KO].
+4. **Malowanie i kolory z linkami do kalkulatora farby.** Blog ma już 3 wpisy o malowaniu. Klaster „sufit” to 4 410 wyszukiwań, a obecny wpis celuje w 220. Hub kolorów (6 320) i „jak malować ściany” (9 670) to rozsądny drugi etap. Konkurencja jest średnia (ranga 383–442 [KO]).
+5. **Niszowe frazy aranżacyjne z „w bloku”, „2x3”, „ze skosami”.** Np. „jak urządzić pokój 2x3” 880, „jak urządzić mały pokój w bloku” 320, „jak urządzić pokój na poddaszu ze skosami” 320 [SV]; ranga top 10 dla tego klastra to 348 [KO].
+
+### Trudno albo nie teraz
+
+1. **Ogólne frazy aranżacyjne i style** („aranżacja salonu” 6 600, „styl boho” 8 100, „garderoba” 12 100) [SV]. W top 10 duże portale i sklepy, ranga 399–471 [KO]. Obecne wpisy nie mieszczą się w top 20 [SERP].
+2. **Frazy zakupowe w ogrodzie** („kostka brukowa” 74 000, „altana ogrodowa” 33 100, „pergola” 27 100) [SV]. To popyt na produkt i sklep.
+3. **„Ile kosztuje…”**: 39 610 wyszukiwań, AI Overview w 30 z 37 fraz [KO], a ceny wymagają źródła z datą (zasada z CLAUDE.md). Bez wiarygodnego źródła cen (np. cennika producenta lub raportu) lepiej nie zaczynać.
+4. **Usługi projektowe**: duży popyt i najwyższe CPC, ale SERP-y wygrywają pracownie z ofertą, cennikiem i opiniami [SERP]. Blog obecnie nie ma oferty.
+5. **Kalkulatory, w których wygrywają producenci** (styropian, ocieplenie) i kalkulatory dla zawodowców (stal, blacha, więźba).
+
+### Kalendarz (kiedy publikować, z danych [SV])
+
+| Temat | Dołek | Szczyt | Publikować najpóźniej |
+|---|---|---|---|
+| Kalkulatory budowlane | grudzień 2025 (33 170) | marzec 2026 (57 910) | styczeń |
+| Remont: koszty i kolejność | wrzesień–grudzień | luty 2026 (remont łazienki 12 100, remont mieszkania 4 400, klaster kolejności prac 10 480) | grudzień–styczeń |
+| Aranżacja | czerwiec 2026 (85 310) | styczeń 2026 (154 990) | listopad–grudzień |
+| Mały balkon, rośliny na balkon | grudzień (400 i 1 230) | marzec (5 030) i maj (56 700) | luty |
+| Ogród (trawnik, kalendarz) | grudzień | marzec (35 850 i 102 100) | styczeń–luty |
+| Malowanie i kolory | grudzień 2025 (47 370) | marzec 2026 (77 020), równo przez rok | dowolnie |
+| Usługi projektowe | wrzesień 2026 (44 080) | styczeń 2026 (94 430) | grudzień |
+
+### Monetyzacja (z danych [SV])
+
+- Średni CPC: kalkulatory 0,62 USD, remont 0,60, koszty 0,59, aranżacja 0,23, malowanie i kolory 0,21 USD. Kalkulatory i remont są warte reklamodawcom mniej więcej trzy razy więcej niż aranżacja. W całym serwisie przychód z reklam na wizytę będzie jednak niski.
+- Najwyższe CPC: „kalkulator tapety” 3,39 USD (220 wyszukiwań), „projektant wnętrz” 2,53, „architekt wnętrz” 2,15, „remont mieszkania” 2,13 USD.
+- Afiliacja ma pokrycie w frazach: „agregat malarski” 9 900, „program do projektowania wnętrz” 5 400, „jakie panele podłogowe wybrać” 1 900, „panele winylowe czy laminowane” 1 000, „najlepsza farba do ścian” 480, „ranking farb do ścian” 390. Kalkulator może podać wynik w opakowaniach i odesłać do sklepu.
+
+### Ryzyka i ograniczenia
+
+- AI Overview był w 13 z 14 SERP-ów. Może zabierać kliknięcia; tego nie mierzyłem.
+- Wolumeny Google Ads są zaokrąglane do progów i łączą warianty pisowni [SV].
+- Trudność [KD] nie różnicuje polskich fraz (305 z 397 to 0). Ocena trudności opiera się na SERP-ach i randze domen.
+- Strona ma dziś 2 frazy w top 100 i ruch 0,75 wizyty miesięcznie [DRO]. Pierwsze efekty zależą też od wyników analizy technicznej i linków (osobne raporty).
+
+### Pytania do właściciela
+
+1. Czy budujemy kalkulatory (grupa A) jako główny kierunek bloga?
+2. Czy kalkulator kosztów remontu wchodzi, skoro wymaga cen ze źródłem? Jeśli tak, z jakiego źródła cen korzystamy?
+3. Czy temat odliczenia remontu od podatku (720, szczyt w lutym 3 600) jest dozwolony? To treść prawna.
+4. Czy właściciel chce kiedyś sprzedawać projekty wnętrz? Od tego zależy, czy robić stronę z cennikiem.
+5. Czy ogród zostaje w zakresie bloga? Popyt jest duży, ale sezonowy i w dużej części zakupowy.

@@ -59,7 +59,7 @@ To lista na wypadek decyzji „tak”. Dziś nic z tego nie jest potrzebne.
 
 **Decyzje właściciela (najpierw):**
 
-1. Jaka usługa: projekt wnętrz, konsultacja, wizualizacja, projekt ogrodu? Na stronie jest wpis „Ile kosztuje wizualizacja mieszkania?”, ale nie wiadomo, czy autorka sama to sprzedaje.
+1. Jaka usługa: projekt wnętrz, konsultacja, wizualizacja, projekt ogrodu? Na stronie jest wpis „Ile kosztuje wizualizacja mieszkania?”, ale nie wiadomo, czy autor sam to sprzedaje.
 2. Jakie miasto lub obszar dojazdu.
 3. Czy usługi działają pod marką „Wnętrza Kamila” (patrz uwaga o nazwie wyżej).
 4. Czy jest zarejestrowana działalność. Wytyczne Google dla Profilu Firmy wymagają, żeby firma obsługiwała klientów osobiście, u siebie albo u klienta (support.google.com/business/answer/3038177). Sam blog się nie kwalifikuje. Szczegóły prawne zostawiam właścicielowi.
@@ -67,7 +67,7 @@ To lista na wypadek decyzji „tak”. Dziś nic z tego nie jest potrzebne.
 **Profil Firmy w Google:**
 
 - Kategoria główna „Projektant wnętrz” (tak ma 94% profili w obu miastach), dodatkowe zgodne z ofertą.
-- Bez adresu na wizytówce, jeśli autorka pracuje z domu: obszar obsługi zamiast adresu.
+- Bez adresu na wizytówce, jeśli praca odbywa się z domu: obszar obsługi zamiast adresu.
 - Zdjęcia własnych realizacji (u liderów kilkadziesiąt), opis usług, link do strony usługi.
 - Opinie tylko od prawdziwych klientów, bez zachęt. Prośba SMS-em lub mailem tylko do klientów, którzy zgodzili się na kontakt (zasada z CLAUDE.md).
 
@@ -90,4 +90,4 @@ To lista na wypadek decyzji „tak”. Dziś nic z tego nie jest potrzebne.
 
 1. Czy w ogóle chcesz sprzedawać usługi (projekt, konsultacje), czy strona zostaje blogiem z zarobkiem z reklam i afiliacji?
 2. Jeśli usługi: w jakim mieście i pod jaką nazwą?
-3. Czy profil Instagram @wnetrzebezfiltra („Kamila | Wnętrza | Ogród | Inspiracje”) jest Twój? Pokazuje się jako pierwszy wynik na frazę „wnetrzakamila.pl” (`/v3/serp/google/organic/live/advanced`, 18.10.2026).
+3. Czy profil Instagram @wnetrzebezfiltra („Kamila | Wnętrza | Ogród | Inspiracje”) należy do Ciebie? Pokazuje się jako pierwszy wynik na frazę „wnetrzakamila.pl” (`/v3/serp/google/organic/live/advanced`, 18.10.2026).
