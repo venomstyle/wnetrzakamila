@@ -1,0 +1,9 @@
+temat,nazwa,popyt_20,serp_25,zarobek_25,fosa_15,ryzyko_15,wynik_wazony,dopasowanie_do_profilu,werdykt,uwagi,data
+T3,Haft krzyżykowy,4,4,3,4,4,3.75,3 (własny produkt Gridling),WARUNKOWO,zarobek z własnego produktu; afiliacji sklepów nie potwierdzono,2026-10-18
+T4,Odmiana i pochodzenie nazwisk,3,4,2,4,4,3.30,2,WARUNKOWO,licencja danych PESEL z dane.gov.pl niepotwierdzona; słaby płatnik,2026-10-18
+T2,Prop trading,3,3,4,3,2,3.10,5,WARUNKOWO,FTMO 8–20% opłaty (ftmo.oanda.com/affiliate-program); ryzyko reputacji i YMYL,2026-10-18
+T5,Randki i gry dla par,3,3,2,3,4,2.90,3,NIE (chyba że jako dodatek do własnej gry),sezon luty x6,2026-10-18
+T6,Sprzedaż i wysyłka paczek,2,3,3,3,3,2.80,2,NIE,oficjalny kalkulator Allegro na 1. miejscu,2026-10-18
+T8,Abonamenty e-book,2,2,3,2,3,2.40,1,NIE,brak danych katalogów; trend -36,8%,2026-10-18
+T1,Trading: wskaźniki i kalkulatory,2,2,3,2,2,2.25,5,WARUNKOWO (jako dział serwisu o prop tradingu),płacą brokerzy CFD; TradingView 30% (tradingview.com/partner-rules),2026-10-18
+T7,Nadpłata kredytu,2,2,3,2,2,2.25,4,NIE,"YMYL, banki i UOKiK w top 10, trend -34,2%",2026-10-18

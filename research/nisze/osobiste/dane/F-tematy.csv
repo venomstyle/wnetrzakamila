@@ -1,0 +1,21 @@
+nr,temat,skad,dopasowanie_do_profilu_1_5,pasuje_do_schematu,pokrycie_z_innymi_agentami,decyzja,zmierzony_jako
+1,Kalkulatory tradera i encyklopedia wskaźników z backtestami,"tradingalgo: research/FACTOR_CATALOG_SUMMARY.md (277 czynników), research/round86/ROUND86.md (Kalman); saas: data/ranking_all.csv I-046, I-032, I-033",5,tak (narzędzia + strony encji wskaźników),częściowo GPW (analiza techniczna akcji),zmierzony,T1
+2,Prop trading: baza zasad firm i kalkulator drawdownu,tradingalgo: research/prop_firm_rules.md (Topstep/Lucid/Tradeify 50K i 150K),5,tak (strony encji firm i planów + narzędzia),brak,zmierzony,T2
+3,Rotacja: portfel modelowy ETF UCITS z newsletterem i „śledź model”,"tradingalgo: app/README.md, research/design/ux/03_WNIOSKI_POTRZEBY_IA_FLOWY.md; sesja TradingAlgo",5,nie (rekomendacja inwestycyjna: MAR/KNF),ETF,odrzucony; wersja edukacyjna dubluje ETF,nie
+4,Kalkulator zleceń (rebalancing do całych jednostek UCITS u brokera),tradingalgo: app/kalkulator.html i src/lib/rebalance.ts (opis w app/README.md),5,tak (narzędzie bez modelu i bez sygnałów),ETF,przekazać agentowi ETF,nie
+5,Mapa odpowiedników ETF z USA w UCITS,tradingalgo: research/design/ux/UCITS_MAP.md,5,tak (strony encji),ETF,przekazać agentowi ETF,nie
+6,Haft krzyżykowy: przelicznik mulin DMC/Ariadna i wzór ze zdjęcia,sesja Gridling (landing i plan marketingu; produkt photo→pattern),3,tak (narzędzie + strony encji kolorów),brak,zmierzony,T3
+7,Odmiana i pochodzenie nazwisk (generator + strona każdego nazwiska),saas: data/ranking_all.csv I-058 (#13; 67 pkt),2,tak (narzędzie + programmatic z danych PESEL),częściowo wesele (grupa D),zmierzony,T4
+8,Randki i gry dla par,"sesje „Randka — dates and card games” i „Date planning website with corgi theme”",3,tak (poradniki + generator pytań),brak,zmierzony,T5
+9,Kalkulatory dla sprzedających (Allegro/Vinted/OLX) i porównanie wysyłki,"saas: I-010, I-088, I-087, I-012",2,tak (kalkulatory + strony przewoźników),brak,zmierzony,T6
+10,Nadpłacać kredyt czy inwestować,saas: I-039,4,tak (kalkulator + poradniki),częściowo obligacje (EDO jako alternatywa),zmierzony,T7
+11,Gdzie przeczytam: książka w abonamencie (Legimi/Empik Go/Storytel),saas: I-004 (#11),1,częściowo (brak otwartych danych katalogów),brak,zmierzony,T8
+12,"Kalkulatory OKI/IKE/IKZE, PIT-38, rejestr strat","saas: I-029, I-030, I-028, I-048, I-045",5,tak technicznie,ETF/obligacje,omijamy (podatki i przepisy),nie
+13,Czy inwestowanie pokonało inflację i EDO; koszt DCA u brokera,"saas: I-047, I-049",5,tak,obligacje/ETF,przekazać innym agentom,nie
+14,Opłacalność kanału bez twarzy; stawki twórcy,"saas: I-084, I-097, I-078; problem P-096",4,tak,twórcy wideo,przekazać agentowi twórców,nie
+15,UX fintech i wtyczki Figmy/Mobbin,"tradingalgo: research/design/FINTECH_DESIGN_RESEARCH.md; sesje „Mobbin bulk element settings”, „Figma organization access plugin publishing”",5,tak,UX/UI,przekazać agentowi UX,nie
+16,Wesele: koperty i budżet,"saas: I-057, I-056, I-059",1,tak,wesele (RANKING: 2,85),już ocenione,nie
+17,Smart home: atlas zgodności urządzeń,"saas: I-050, I-052; problem P-042",2,tak,smart home (RANKING: 2,55–2,65),już ocenione,nie
+18,Budowa i wykończenie domu (budżet i kosztorysy),"saas: I-063, I-062, I-070, I-064",1,tak,wykluczone (wnętrza/budowlanka),poza zakresem,nie
+19,Cło na paczki spoza UE,saas: I-101,1,tak,brak,omijamy (prawo celne),nie
+20,Port gry iOS na Androida,sesja „iOS game Android port”,2,nie (produkt; serwis o grach mobilnych bez przewagi),brak,niezmierzony,nie
