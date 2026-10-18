@@ -1,0 +1,7 @@
+wariant,scenariusz,wizyty_mies_po_12_mies,konwersja_wizyta_zakup,przychod_na_kupujacego_EUR,kupujacych_mies,przychod_mies_EUR_brutto,tempo_roczne_EUR,uwagi
+sam PL,ostrożny,1000,0.002,4.99,2.0,10,120,"założenia, nie dane; patrz EN-gridling.md sekcja Rachunek; 2026-10-18"
+sam PL,realny,3000,0.005,7.0,15.0,105,1260,"założenia, nie dane; patrz EN-gridling.md sekcja Rachunek; 2026-10-18"
+sam EN,ostrożny,2000,0.003,4.99,6.0,30,359,"założenia, nie dane; patrz EN-gridling.md sekcja Rachunek; 2026-10-18"
+sam EN,realny,8000,0.008,7.0,64.0,448,5376,"założenia, nie dane; patrz EN-gridling.md sekcja Rachunek; 2026-10-18"
+EN + PL,ostrożny,3000,,,8.0,40,479,"założenia, nie dane; patrz EN-gridling.md sekcja Rachunek; 2026-10-18"
+EN + PL,realny,11000,,,79.0,553,6636,"założenia, nie dane; patrz EN-gridling.md sekcja Rachunek; 2026-10-18"
