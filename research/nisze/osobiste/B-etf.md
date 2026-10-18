@@ -11,7 +11,7 @@ Zakres: baza ETF-ów UCITS dostępnych u brokerów działających w Polsce (XTB,
 - **[CP]** `/v3/on_page/content_parsing/live` (strona czytana u źródła). **[WS]** WebSearch (wynik wyszukiwarki, strona nieczytana w całości).
 - Kurs USD: 3,8952 zł (średni NBP z 15.10.2026, wg tvp.info, odczyt przez [WS]); API NBP zablokowane przez proxy.
 
-Dane: `dane/B-wolumeny.csv` (1 831 fraz z typem strony; kolumna `zrodlo`: W = [W], K = [K]), `dane/B-wolumeny-24m.csv`, `dane/B-serp-top10.csv`, `dane/B-serp-podsumowanie.csv`, `dane/B-backlinki.csv`, `dane/B-ruch-konkurencji.csv`, `dane/B-programy.csv`, `dane/B-zrodla-danych.csv`, `dane/B-rachunek.csv`, `dane/B-cfd.csv`. Skrypty: `/tmp/claude-0/-home-user-wnetrzakamila/1ba86930-7213-5036-9c2e-f13d81b0db89/scratchpad/os-B/` (`klas.py`, `trend.py`, `serp_sum.py`, `rachunek.py`, `eksport.py`).
+Dane: `dane/B-wolumeny.csv` (1 831 fraz z typem strony; kolumna `zrodlo`: W = [W], K = [K]), `dane/B-wolumeny-24m.csv`, `dane/B-serp-top10.csv`, `dane/B-serp-podsumowanie.csv`, `dane/B-backlinki.csv`, `dane/B-ruch-konkurencji.csv`, `dane/B-programy.csv`, `dane/B-zrodla-danych.csv`, `dane/B-rachunek.csv`, `dane/B-cfd.csv`, `dane/B-ucits-rebalancing.csv` (dopisek: mapa US → UCITS i rebalancing). Skrypty: `/tmp/claude-0/-home-user-wnetrzakamila/1ba86930-7213-5036-9c2e-f13d81b0db89/scratchpad/os-B/` (`klas.py`, `trend.py`, `serp_sum.py`, `rachunek.py`, `eksport.py`).
 
 ---
 
@@ -127,6 +127,24 @@ Przykład faktów do porównania brokerów (z SERP 18.10.2026): XTB „prowizja 
 
 **Wniosek:** FIRDS daje legalny szkielet kilku tysięcy stron (ISIN, akumulacja lub dystrybucja, waluta, rynek). Wszystko, czego szuka inwestor poza tym (TER, indeks, wielkość, replikacja), trzeba przepisać z KID i kart emitentów. atlasETF ma to już dla >3 000 funduszy. Własna przewaga może być tylko w warstwie „dostępność u brokera w PL + koszt całkowity w PLN z datą”, której nie widziałem u konkurentów w SERP-ach.
 
+## 5a. Materiały właściciela: mapa US → UCITS i kalkulator zleceń (dopisek koordynatora)
+
+Źródło: `F-z-czatow.md` (tematy 4 i 5) i `venomstyle/tradingalgo/research/design/ux/UCITS_MAP.md` (czytane 18.10.2026 przez GitHub). Dane: `dane/B-ucits-rebalancing.csv`.
+
+**Co jest gotowe.** `UCITS_MAP.md` to 12 par „ETF z USA → ticker UCITS” (QQQ → SXRV, SOXX → VVSM, LIT → LI7U, PBW → IQQH, TAN → S0LR, VLUE → QDVI, COPX → 4COP, XBI → FBTU, IBB → 2B70, EWY → CSKR, ARKG → ARKG, USO → OD7F) z TradingView z 14.10.2026. Plik sam zaznacza, że dostępność u brokerów i dopasowanie do indeksu są „do weryfikacji”. Kalkulator zleceń z `app/` przelicza wagi na całe jednostki; po usunięciu modelu i sygnałów zostaje czysta arytmetyka na wagach wpisanych przez użytkownika.
+
+**Popyt na sformułowania z pomysłu [W]:**
+- „[ticker] ucits”: po 10/mies. (qqq, voo, spy, schd, soxx, smh, tlt, vti, jepi, jepq, gld, vt, qqqm); „odpowiednik ucits”, „qqq odpowiednik”, „voo odpowiednik ucits”, „schd odpowiednik”, „etf z usa w polsce”, „jak kupić voo”: 0. Ziarno „ucits” [K] daje 454 frazy i 20 090/mies., ale to nazwy funduszy UCITS (już policzone w encjach), nie pytania o odpowiedniki.
+- **Popyt jest w samych tickerach z USA:** gołe tickery schd 12 100, qqq 6 600, smh 2 400, voo 1 900, tlt 1 000, gdx 1 000, copx 1 000, vti 720, spmo 390, soxx 320, arkk 320, xle 320, vgt 260, jepq 210, jepi 90, razem **28 630/mies.** (bez wieloznacznych „bil”, „ura” i krypto „ibit”) [W]. Do tego „[ticker] etf” ok. 11 600/mies. (grupa „ETF z USA” z sekcji 2 po odjęciu notowań UCITS z Londynu) [K]. Z tickerów z `UCITS_MAP.md` popyt mają tylko QQQ (880 z „etf”, 6 600 goły), COPX (320 / 1 000) i SOXX (210 / 320); reszta 0–100 [W][K].
+- **Rebalancing prawie nie ma popytu:** „rebalancing” 320 (wieloznaczne, ziarno [K] to głównie szampony i kremy), „rebalancing portfela” 50 (CPC 11,70 USD), „portfel etf” 90, „kalkulator rebalancingu”, „kalkulator portfela etf”, „ile jednostek etf kupić”, „alokacja portfela”: 0 [W][K].
+
+**SERP-y tickerów z USA [S]:** „schd” i „qqq etf” mają panel wiedzy, ramkę notowań, „podobne witryny” i AI Overview. Top 10 to wyłącznie serwisy notowań (stooq, Investing, Nasdaq, TradingView, Bloomberg, Google Finance) i brokerzy (Trading 212 PL, Robinhood). Polskiej strony objaśniającej nie ma, atlasETF też nie stoi w top 10. Ale **AI Overview przy „qqq etf” sam podaje „Odpowiednik UCITS w Europie: np. EQQQ”**, a przy „schd” wspomina ograniczenia PRIIPs dla zakupu z Polski. Intencja tych fraz to głównie kurs.
+
+**Ocena:**
+- **Mapa US → UCITS jako strony encji: tak, ale jako dział, nie fundament.** Mierzalny popyt to ok. 40 000/mies. w tickerach z USA, czyli ok. 15% mapy niszy, z luką treściową (brak polskich stron informacyjnych) i jednocześnie z AIO, które zjada odpowiedź. Wymaga rozbudowy z 12 do kilkudziesięciu par według popytu (SCHD, VOO, SMH, TLT, VTI, GDX, SPMO, JEPQ zamiast PBW, TAN, VLUE, XBI, IBB, ARKG, które popytu nie mają) i uczciwego oznaczenia, gdy dokładnego odpowiednika nie ma (np. indeks SCHD, Dow Jones U.S. Dividend 100, wg AIO przy „schd”). Wyjaśnienie, dlaczego fundusz z USA jest niedostępny, ociera się o PRIIPs, czyli o temat prawny do decyzji właściciela.
+- **Kalkulator rebalancingu do całych jednostek: tylko jako funkcja.** Ruchu z wyszukiwarki nie przyniesie. Ma sens jako narzędzie zatrzymujące użytkownika i kandydat do płatnej wersji (portfel z kosztem całkowitym i zleceniami u wybranego brokera). Warunek: bez modelu, bez domyślnych wag, użytkownik wpisuje własne.
+- **Wpływ na wynik:** fosa danych zostaje na 3 (mapa jest mała i oparta na wyszukiwarce TradingView, a nie na rejestrze), popyt 4. Wynik 2,8 bez zmian. Wrażliwość rachunku: strony 30–40 tys. fraz tickerów z USA na pozycji 8 / 5 dodają ok. 260 / 1 000 sesji/mies. (te same założenia CTR, pokrycia i AIO co w sekcji 7), czyli kilkadziesiąt zł z reklam.
+
 ## 6. Zarobek (`dane/B-programy.csv`)
 
 ### Programy partnerskie (sprawdzone u źródła tam, gdzie się dało)
@@ -230,3 +248,4 @@ Podatki: podatek Belki, PIT-38 i PIT-8C, W-8BEN, podatek u źródła od dywidend
 6. Dane: ESMA FIRDS wolno używać komercyjnie z podaniem źródła (ISIN, akumulacja lub dystrybucja z kodu CFI, waluta, rynki); TER, indeks i wielkość tylko ręcznie z KID; justETF i dane MSCI odpadają [CP].
 7. UKNF (11.10.2023): pozyskiwanie klientów usług maklerskich przez nieregulowanych pośredników w programach partnerskich jest kwestionowane; polscy brokerzy (XTB) nie publikują stawek, IBKR płaci za kliknięcie, Finax, mBank i DM BOŚ nie mają publicznych programów [WS][CP].
 8. CFD odradzam: 77% rachunków detalicznych CFD w XTB traci pieniądze; najwyższe stawki (Plus500 do 800 USD) płyną właśnie za CFD [CP].
+9. Materiały właściciela: mapa US → UCITS ma popyt tylko w samych tickerach z USA (schd 12 100, qqq 6 600, razem ok. 40 000/mies. z „[ticker] etf”); frazy „odpowiednik ucits” mają 0–10, a AIO przy „qqq etf” sam podaje odpowiednik EQQQ. Kalkulator rebalancingu: „kalkulator rebalancingu” 0, „rebalancing portfela” 50, więc tylko jako funkcja i kandydat do wersji płatnej [W][S].

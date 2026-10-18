@@ -1,0 +1,79 @@
+fraza,grupa,wolumen_sr_12m,cpc_usd,uwagi,zrodlo
+rebalancing,rebalancing,320,0.4,wieloznaczna (też kosmetyki),W 18.10.2026
+portfel etf,rebalancing,90,2.6,,W 18.10.2026
+rebalancing portfela,rebalancing,50,11.7,,W 18.10.2026
+rebalansowanie portfela,rebalancing,20,,,W 18.10.2026
+portfolio rebalancing,rebalancing,20,,,W 18.10.2026
+qqq ucits,odpowiednik_ucits,10,,,W 18.10.2026
+voo ucits,odpowiednik_ucits,10,,,W 18.10.2026
+spy ucits,odpowiednik_ucits,10,,,W 18.10.2026
+schd ucits,odpowiednik_ucits,10,,,W 18.10.2026
+soxx ucits,odpowiednik_ucits,10,,,W 18.10.2026
+smh ucits,odpowiednik_ucits,10,11.56,,W 18.10.2026
+tlt ucits,odpowiednik_ucits,10,,,W 18.10.2026
+vti ucits,odpowiednik_ucits,10,,,W 18.10.2026
+jepi ucits,odpowiednik_ucits,10,,,W 18.10.2026
+jepq ucits,odpowiednik_ucits,10,,,W 18.10.2026
+gld ucits,odpowiednik_ucits,10,,,W 18.10.2026
+ibit ucits,odpowiednik_ucits,10,,,W 18.10.2026
+vt ucits,odpowiednik_ucits,10,,,W 18.10.2026
+qqqm ucits,odpowiednik_ucits,10,,,W 18.10.2026
+voo europe,odpowiednik_ucits,10,,,W 18.10.2026
+qqq europe,odpowiednik_ucits,10,,,W 18.10.2026
+schd europe,odpowiednik_ucits,10,,,W 18.10.2026
+voo xtb,odpowiednik_ucits,10,,,W 18.10.2026
+qqq xtb,odpowiednik_ucits,10,2.38,,W 18.10.2026
+schd xtb,odpowiednik_ucits,10,3.82,,W 18.10.2026
+amerykańskie etf,odpowiednik_ucits,10,0.02,,W 18.10.2026
+rebalancing etf,rebalancing,10,0.46,,W 18.10.2026
+rebalancing calculator,rebalancing,10,,,W 18.10.2026
+portfolio rebalancing calculator,rebalancing,10,,,W 18.10.2026
+odpowiednik ucits,odpowiednik_ucits,0,,,W 18.10.2026
+ucits odpowiednik,odpowiednik_ucits,0,,,W 18.10.2026
+odpowiedniki etf ucits,odpowiednik_ucits,0,,,W 18.10.2026
+qqq odpowiednik ucits,odpowiednik_ucits,0,,,W 18.10.2026
+qqq odpowiednik,odpowiednik_ucits,0,,,W 18.10.2026
+voo odpowiednik,odpowiednik_ucits,0,,,W 18.10.2026
+voo odpowiednik ucits,odpowiednik_ucits,0,,,W 18.10.2026
+schd odpowiednik,odpowiednik_ucits,0,,,W 18.10.2026
+schd odpowiednik ucits,odpowiednik_ucits,0,,,W 18.10.2026
+jak kupić voo,odpowiednik_ucits,0,,,W 18.10.2026
+jak kupić qqq,odpowiednik_ucits,0,,,W 18.10.2026
+voo w polsce,odpowiednik_ucits,0,,,W 18.10.2026
+dlaczego nie mogę kupić etf z usa,odpowiednik_ucits,0,,,W 18.10.2026
+etf z usa w polsce,odpowiednik_ucits,0,,,W 18.10.2026
+etf usa xtb,odpowiednik_ucits,0,,,W 18.10.2026
+kid etf,odpowiednik_ucits,0,,,W 18.10.2026
+kalkulator rebalancingu,rebalancing,0,,,W 18.10.2026
+rebalancing kalkulator,rebalancing,0,,,W 18.10.2026
+kalkulator rebalansowania,rebalancing,0,,,W 18.10.2026
+rebalancing portfela kalkulator,rebalancing,0,,,W 18.10.2026
+jak rebalansować portfel,rebalancing,0,,,W 18.10.2026
+kalkulator portfela etf,rebalancing,0,,,W 18.10.2026
+kalkulator portfela,rebalancing,0,,,W 18.10.2026
+ile jednostek etf kupić,rebalancing,0,,,W 18.10.2026
+alokacja portfela,rebalancing,0,,,W 18.10.2026
+kalkulator alokacji portfela,rebalancing,0,,,W 18.10.2026
+portfel etf kalkulator,rebalancing,0,,,W 18.10.2026
+rebalancing co ile,rebalancing,0,,,W 18.10.2026
+schd,ticker_usa_goly,12100,1.31,,W 18.10.2026
+qqq,ticker_usa_goly,6600,2.41,,W 18.10.2026
+bil,ticker_usa_goly,3600,,"wieloznaczna/krypto, poza sumą",W 18.10.2026
+smh,ticker_usa_goly,2400,0.85,,W 18.10.2026
+voo,ticker_usa_goly,1900,0.89,,W 18.10.2026
+tlt,ticker_usa_goly,1000,0.36,,W 18.10.2026
+copx,ticker_usa_goly,1000,,,W 18.10.2026
+gdx,ticker_usa_goly,1000,1.72,,W 18.10.2026
+ura,ticker_usa_goly,880,,"wieloznaczna/krypto, poza sumą",W 18.10.2026
+vti,ticker_usa_goly,720,4.34,,W 18.10.2026
+ibit,ticker_usa_goly,480,12.88,"wieloznaczna/krypto, poza sumą",W 18.10.2026
+spmo,ticker_usa_goly,390,6.32,,W 18.10.2026
+soxx,ticker_usa_goly,320,0.47,,W 18.10.2026
+arkk,ticker_usa_goly,320,0.16,,W 18.10.2026
+xle,ticker_usa_goly,320,0.5,,W 18.10.2026
+vgt,ticker_usa_goly,260,,,W 18.10.2026
+jepq,ticker_usa_goly,210,3.24,,W 18.10.2026
+jepi,ticker_usa_goly,90,4.29,,W 18.10.2026
+SERP schd,serp,,,"knowledge graph + ramka notowań + AIO (asynchr.: wspomina PRIIPs i zakup z PL); top 10: nasdaq, investing, stocktwits, robinhood, bloomberg, pl.investing ×2, pl.tradingview, stooq; brak polskiej strony informacyjnej",S 18.10.2026
+SERP qqq etf,serp,,,"ramka notowań + AIO (asynchr.) podaje wprost 'Odpowiednik UCITS w Europie: np. EQQQ' (źródło hl.co.uk); top 10: stooq, investing ×4, trading212.com/pl, pl.tradingview, nasdaq, google finance",S 18.10.2026
+UCITS_MAP.md (venomstyle/tradingalgo),material_wlasciciela,12,,"12 par US→UCITS (QQQ→SXRV, SOXX→VVSM, LIT→LI7U, PBW→IQQH, TAN→S0LR, VLUE→QDVI, COPX→4COP, XBI→FBTU, IBB→2B70, EWY→CSKR, ARKG→ARKG, USO→OD7F); źródło: TradingView search-symbols 14.10.2026; dostępność u brokerów 'do weryfikacji'",github research/design/ux/UCITS_MAP.md
